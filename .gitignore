@@ -1,0 +1,51 @@
+# Local and secret configuration
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+~$*
+
+# Temporary and generated working material
+tmp/
+temp/
+cache/
+logs/
+superseded*/
+archive*/
+*.log
+metadata/*QC*
+
+# Publisher-controlled source material
+source_articles/
+full_text/
+publisher_pdfs/
+
+# Large journal-upload formats are not stored in normal Git history
+*.tif
+*.tiff
+
+# Internal manuscript working files
+*.docx
+*.doc

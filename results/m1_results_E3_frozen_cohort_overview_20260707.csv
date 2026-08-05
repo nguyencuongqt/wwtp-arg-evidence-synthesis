@@ -1,0 +1,7 @@
+"Cohort ID","Axis","Studies (n)","Rows (n)","Outcome type / unit scope","Role / interpretation note"
+"M1_AXIS1_REMOVAL_CROSS_STAGE_ROUTE","Axis 1 removal","73","295","Cross-stage route-defined removal evidence (log10 reduction and percent removal)","Traceable route-removal evidence layer for defining treatment transitions; not the strict analysis-clean subset."
+"M1_AXIS1_REMOVAL_LOG_REDUCTION","Axis 1 removal","45","185","log10 reduction","Primary paired or route-defined removal synthesis track for log10 reduction."
+"M1_AXIS1_REMOVAL_PERCENT","Axis 1 removal","28","95","percent removal (bounded)","Companion bounded and ceiling-prone endpoint; reported separately and not pooled with log10 reduction."
+"M1_AXIS2_ABUNDANCE_LIQUID_COPIES_ML","Axis 2 abundance","109","1127","liquid log10 copies/mL-equivalent abundance","Cross-study abundance landscape; not paired removal."
+"M1_AXIS2_ABUNDANCE_OTHER_QUANT_TRACKS","Axis 2 abundance","93","1104","other quantitative abundance tracks","Separate non-liquid-copies/mL quantitative abundance tracks; not pooled with the liquid track."
+"M1_AXIS2_OCCURRENCE_DETECTION_ROW_LEVEL","Axis 2 occurrence","371","5301","row-level reported detection","Reported detection landscape; not prevalence because the tested-but-not-detected denominator is unavailable."

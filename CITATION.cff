@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and the archived repository release."
+title: "Reproducibility package for residual antibiotic resistance gene burden after wastewater treatment"
+type: dataset
+authors:
+  - name: "ARG_WWTP_KG_LLM Study Team"
+version: 1.0.0
+date-released: 2026-08-05
+keywords:
+  - antibiotic resistance genes
+  - wastewater treatment
+  - environmental AMR surveillance
+  - evidence synthesis
+  - knowledge graph
+  - large language model
+license: CC-BY-4.0
+abstract: >-
+  Public-safe frozen cohorts, deterministic analysis scripts, compact derived
+  results, and provenance metadata supporting a traceable evidence synthesis
+  of antibiotic resistance gene and mobile genetic element fate in wastewater
+  treatment systems.

@@ -1,0 +1,12 @@
+﻿stage_group,stage,n,note
+database,Records identified: Scopus,992,Database search
+database,Records identified: Web of Science,1121,Database search
+database,Records identified: PubMed,772,Database search
+flow,Total records identified,2885,Scopus + WoS + PubMed
+flow,Records after deduplication,1530,Duplicates removed n=1355
+flow,Title/abstract screened,1530,Excluded n=346
+flow,Full texts sought,1184,Official PRISMA target
+flow,Full texts retrieved,1167,Not retrieved n=17
+flow,Full texts assessed,1167,"Excluded n=454
+Reasons: E1 Not ARG: 139; E3 No fate removal: 106; E9 Out scope matrix: 96; E11 Synthetic only: 72; E6 Method only: 28; E5 Not article: 6; E2 Not WWTP: 3; E4 Review: 3; E7 Non English: 1"
+flow,Full-text eligible studies,713,Core n=543; supporting n=170

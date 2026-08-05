@@ -1,0 +1,5 @@
+system,accuracy_percent,balanced_accuracy_percent,false_exclusions,false_exclusion_denominator,false_exclusion_rate_percent,recall_percent,high_risk_false_exclusions,role
+GPT-4o-mini (production),57.8,53.6,151,448,33.7,66.3,44,Production screen; human-audited
+GPT-5.4-mini (retrospective),68.0,66.4,17,448,3.8,96.2,0,Retrospective safety comparator
+Mistral-small-2603,55.2,56.3,36,448,8.0,92.0,3,Cross-provider screening comparator only
+TF-IDF + logistic regression,61.0,57.5,67,448,15.0,85.0,17,No-LLM screening baseline

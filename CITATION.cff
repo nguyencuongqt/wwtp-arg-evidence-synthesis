@@ -3,7 +3,8 @@ message: "Please cite the associated manuscript and the archived repository rele
 title: "Reproducibility package for residual antibiotic resistance gene burden after wastewater treatment"
 type: dataset
 authors:
-  - name: "ARG_WWTP_KG_LLM Study Team"
+  - family-names: "Nguyen"
+    given-names: "Xuan Cuong"
 version: 1.0.0
 date-released: 2026-08-05
 keywords:

@@ -1,70 +1,55 @@
-# Residual ARG burden after wastewater treatment
+# Evidence for surveillance of antibiotic resistance genes in treated wastewater
 
-Minimal reproducibility and traceability package for the manuscript:
+Reproducibility package for the manuscript:
 
-> *Residual antibiotic resistance gene burden after wastewater treatment: a traceable, knowledge-graph-based evidence synthesis for environmental AMR surveillance*
+> Nguyen, X. C. & Unno, T. *What the evidence supports for surveillance of antibiotic resistance genes in treated wastewater: a human-verified, large language model-assisted synthesis.* (submitted to *Water Research X*)
 
-This repository contains the minimum public-safe data and code needed to verify the manuscript's principal numerical claims. It intentionally does not duplicate the manuscript, Supplementary Information, formatted tables, or publication figures.
+Release **v1.3.0** (1 October 2026) contains the final datasets (version v4, fixed on 30 September 2026), the human audit and critical-appraisal records, and code that regenerates every quantitative result reported in the manuscript and its Supplementary Information. All earlier releases (v1.0.0–v1.2.0) were based on preliminary datasets and are superseded; see `CHANGELOG.md`.
 
 ## Contents
 
-- `data/`: sanitized, analysis-ready frozen cohorts
-- `scripts/`: deterministic analysis and integrity-checking code
-- `results/`: compact machine-readable outputs used to verify reported values
-- `metadata/`: cohort definitions, model/prompt provenance, and release checksums
-- `protocol/`: search strategy, PRISMA counts, exclusions, and aggregate screening benchmark
+| Folder | What it contains |
+|---|---|
+| `data/` | Final analysis datasets (log10 reduction, percent removal, liquid abundance, route layer), the reported-detection aggregate, characteristics of the 136-study quantitative core, and a row-level change log from the previous public version |
+| `audit/` | Human decision records: eligibility re-assessment of 95 studies, final value audit of 491 values, blinded second-reviewer check of 100 values, and the critical appraisal of 64 removal units with its sensitivity input |
+| `protocol/` | Search strategy, decision rules, screening and extraction prompts, PRISMA flow counts, exclusion reasons, final title/abstract screening decisions, screening benchmark and full-text screening audit |
+| `scripts/` | `reproduce_results.py` (all quantitative results), `audit_agreement.py` (agreement statistics), checksum and release-validation tools |
+| `results/` | Outputs of `reproduce_results.py` |
+| `metadata/` | Processing ledger, dataset definitions, SHA-256 checksums |
 
-Publisher PDFs, abstracts, copied source text, evidence quotations, internal audit notes, QC drafts, superseded files, and manuscript submission files are excluded.
+## Who decided what
 
-## Reproducibility boundary
+Large language models (OpenAI GPT-4o-mini, GPT-5.4-mini and GPT-5.4) generated **candidate** screening decisions and **candidate** extracted data only. Every exclusion at title/abstract and full-text screening, every eligibility decision, every value audit decision and every critical-appraisal judgement was made by the authors (X.C.N. and T.U.), as recorded in `audit/` and `protocol/`. Normalization, dataset definition and statistics are deterministic and require no model calls.
 
-The row-level public cohorts retain record IDs, DOI links, quantitative values, normalized units, analysis classifications, and version fields needed to reproduce the synthesis. Evidence quotations and publisher-controlled article content are not redistributed. DOI-linked source documents remain the authoritative primary sources.
+## Reproduce the results
 
-The production extraction evidence was OpenAI-only. Non-OpenAI systems were used only as screening benchmark comparators and did not contribute final extracted quantitative evidence.
-
-## Installation
-
-Python 3.12 is recommended.
-
-```bash
-conda env create -f environment.yml
-conda activate arg-wwtp-m1
-```
-
-Alternatively:
+Python 3.12:
 
 ```bash
 python -m venv .venv
-python -m pip install --upgrade pip
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
 python -m pip install -r requirements.txt
+python scripts/reproduce_results.py
+python scripts/audit_agreement.py
 ```
 
-## Reproduce the principal summaries
+`reproduce_results.py` prints the main estimate (influent to final effluent, full-scale plants: median 2.30 log10, bootstrap 95% CI 1.46–3.00, 20 studies; DerSimonian–Laird 2.40, I² 98.4%) and writes all summary tables to `results/`.
 
-Run from the repository root:
-
-```bash
-python scripts/15_rerun_frozen_dl_i2.py
-python scripts/15_regenerate_axis2_v2_outputs_20260730.py
-```
-
-The first command regenerates the DerSimonian-Laird removal and heterogeneity outputs from the public 185-row log-reduction cohort. The second regenerates the corrected Axis 2 family-by-matrix abundance summary from the public 1,127-row cohort.
-
-## Verify integrity and public safety
+## Verify integrity
 
 ```bash
 python scripts/verify_checksums.py
 python scripts/validate_public_release.py
 ```
 
-## Data limitations
+## What is not included
 
-The reported-detection layer is supplied as an aggregate table because tested-negative denominators were not consistently available and the manuscript interprets these data as reporting support, not prevalence. No risk ranking or causal technology ranking can be derived from this package.
+Publisher PDFs, titles, abstracts, evidence quotations and internal working files are not redistributed. The critical-appraisal records include the reviewers' short reconciliation rationales with page locators. Each row carries a record identifier and DOI; the DOI-linked articles remain the authoritative source.
 
-## Citation and archival DOI
+## Citation
 
-Use `CITATION.cff` to cite this repository. A permanent archival DOI can be added after creating a versioned Zenodo release.
+Nguyen, X. C. & Unno, T. Reproducibility package for traceable synthesis of antibiotic resistance gene burdens across wastewater treatment systems. Zenodo (2026). https://doi.org/10.5281/zenodo.21818085
 
 ## License
 
-Code is released under the MIT License. Original data compilations and documentation are released under CC BY 4.0. Third-party source material is excluded; see `LICENSE`.
+Code: MIT License. Data compilations and documentation: CC BY 4.0. See `LICENSE`.

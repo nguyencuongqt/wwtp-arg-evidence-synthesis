@@ -1,0 +1,96 @@
+record_id,doi,year,reviewer_XCN_decision,reviewer_XCN_code,reviewer_TU_decision,reviewer_TU_code,agreement,final_decision,final_exclusion_code,final_decision_by
+R0411,10.1016/j.envpol.2022.119649,2022,Include_Core,,Exclude,E11,DISAGREE include/exclude,Include_Core,,X.C.N. (adjudication)
+R0489,10.1016/j.scitotenv.2020.140466,2020,Exclude,E3,Include_Core,,DISAGREE include/exclude,Exclude,E3,X.C.N. (adjudication)
+R0551,10.1016/j.scitotenv.2022.156594,2022,Exclude,E11,Include_Supporting,,DISAGREE include/exclude,Exclude,E11,X.C.N. (adjudication)
+R0564,10.1016/j.scitotenv.2023.168313,2024,Include_Core,,Exclude,E11,DISAGREE include/exclude,Include_Core,,X.C.N. (adjudication)
+R0619,10.1016/j.watres.2024.121392,2024,Include_Supporting,,Exclude,E11,DISAGREE include/exclude,Include_Supporting,,X.C.N. (adjudication)
+R0727,10.1016/j.watres.2023.120747,2023,Include_Supporting,,Exclude,E11,DISAGREE include/exclude,Exclude,E11,X.C.N. (adjudication)
+R0869,10.1016/j.scitotenv.2021.149344,2021,Include_Supporting,,Exclude,E11,DISAGREE include/exclude,Include_Supporting,,X.C.N. (adjudication)
+R1028,10.1021/es303652q,2012,Exclude,E3,Include_Supporting,,DISAGREE include/exclude,Exclude,E3,X.C.N. (adjudication)
+R0092,10.1016/j.scitotenv.2024.175046,2024,Include_Core,,Include_Supporting,,DISAGREE tier only,Include_Core,,X.C.N. (adjudication)
+R0692,10.1016/j.scitotenv.2024.171555,2024,Include_Core,,Include_Supporting,,DISAGREE tier only,Include_Core,,X.C.N. (adjudication)
+R1195,10.1016/j.scitotenv.2020.140835,2020,Include_Supporting,,Include_Core,,DISAGREE tier only,Include_Supporting,,X.C.N. (adjudication)
+R0885,10.1007/s11783-019-1116-5,2019,Include_Core,,Include_Supporting,,DISAGREE tier only,Include_Core,,X.C.N. (adjudication)
+R0038,10.1007/s11356-025-35988-2,2025,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0064,10.1186/s40793-022-00398-1,2022,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0068,10.1016/j.heliyon.2024.e29601,2024,Exclude,E3,Exclude,E3,Agree,Exclude,E3,both reviewers
+R0080,10.1007/s11356-022-18749-3,2022,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0199,10.1016/j.watres.2014.05.019,2014,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0211,10.1016/j.watres.2022.118571,2022,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0268,10.1016/j.chemosphere.2015.10.044,2016,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0367,10.1016/j.chemosphere.2022.137362,2023,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0427,10.1016/j.scitotenv.2024.173217,2024,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0482,10.2166/wst.2021.088,2021,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0495,10.1016/j.scitotenv.2020.144176,2021,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0558,10.1016/j.cej.2023.142968,2023,Exclude,E9,Exclude,E9,Agree,Exclude,E9,both reviewers
+R0570,10.1007/s11356-024-35832-z,2025,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0595,10.1016/j.jece.2025.116510,2025,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0620,10.1016/j.cej.2023.146916,2023,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0621,10.1007/s13762-024-05952-7,2025,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0658,10.1016/j.scitotenv.2025.179787,2025,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0744,10.5004/dwt.2023.29127,2023,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0766,10.2965/jwet.25-085,2026,Exclude,E3,Exclude,E3,Agree,Exclude,E3,both reviewers
+R0777,10.1016/j.envpol.2025.125833,2025,Exclude,E9,Exclude,E9,Agree,Exclude,E9,both reviewers
+R0807,10.1016/j.ijheh.2024.114517,2025,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0821,10.1016/j.jece.2025.121004,2026,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0837,10.1111/jam.13480,2017,Exclude,E3,Exclude,E3,Agree,Exclude,E3,both reviewers
+R0841,10.1016/j.biortech.2019.122513,2020,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0846,10.1021/acs.estlett.9b00521,2019,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0854,10.1039/d0ew00270d,2020,Exclude,E11,Exclude,E11,Agree,Exclude,E11,both reviewers
+R0855,10.1016/j.envpol.2016.01.043,2016,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0864,10.1371/journal.pone.0131532,2015,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0892,10.2166/wrd.2021.097,2021,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0898,10.1016/j.watres.2019.115056,2019,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0902,10.1016/j.watres.2017.10.025,2017,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0903,10.1016/j.watres.2016.02.049,2016,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0912,10.1016/j.chemosphere.2017.01.134,2017,Exclude,E11,Exclude,E11,Agree,Exclude,E11,both reviewers
+R0922,10.1007/s11356-021-15351-x,2021,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0933,10.1002/bit.27134,2019,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0939,10.1016/j.apcatb.2018.12.030,2019,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0967,10.1016/j.watres.2017.11.067,2018,Exclude,E11,Exclude,E11,Agree,Exclude,E11,both reviewers
+R0986,10.1007/s11356-014-3665-2,2015,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0988,10.1039/c8ew00270c,2018,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1016,10.1016/j.chemosphere.2021.132833,2022,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1038,10.1080/10934529.2015.1038150,2015,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1039,10.1007/s00253-009-1886-y,2009,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1045,10.1016/j.watres.2019.05.005,2019,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1051,10.1016/j.seppur.2020.116946,2020,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1054,10.1016/j.jhazmat.2021.127382,2022,Exclude,E3,Exclude,E11,Agree,Exclude,E3,both reviewers
+R1062,10.1021/es401091y,2013,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1063,10.1016/j.watres.2019.115277,2020,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1077,10.1016/j.envint.2021.106641,2021,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1145,10.1016/j.watres.2019.07.004,2019,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1163,10.1016/j.cej.2017.02.076,2017,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1166,10.1016/j.envint.2020.105597,2020,Exclude,E3,Exclude,E3,Agree,Exclude,E3,both reviewers
+R1170,10.1007/s10646-020-02306-0,2021,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1180,10.1128/AEM.02766-17,2018,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1183,10.1016/j.chemosphere.2013.08.068,2013,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1191,10.1007/s00253-015-7043-x,2016,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1210,10.1016/j.chemosphere.2017.01.041,2017,Exclude,E3,Exclude,E3,Agree,Exclude,E3,both reviewers
+R1223,10.1016/j.envpol.2019.03.111,2019,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1242,10.1016/j.jwpe.2025.108097,2025,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1277,10.1016/j.envres.2022.113741,2022,Exclude,E3,Exclude,E3,Agree,Exclude,E3,both reviewers
+R1324,10.1016/j.watres.2019.114906,2019,Exclude,E9,Exclude,E9,Agree,Exclude,E9,both reviewers
+R1405,10.1016/j.scitotenv.2016.12.063,2017,Exclude,E9,Exclude,E9,Agree,Exclude,E9,both reviewers
+R0054,10.1016/j.scitotenv.2022.156773,2022,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0196,10.1016/j.watres.2020.116752,2021,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0262,10.1016/j.watres.2019.05.100,2019,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0591,10.1007/s11356-022-24545-w,2023,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0612,10.1021/acsestwater.5c00883,2025,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0743,10.1016/j.biortech.2025.132047,2025,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0792,10.1016/j.scitotenv.2025.179241,2025,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0804,10.2166/wrd.2022.018,2022,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0849,10.1089/ees.2020.0189,2020,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0853,10.1016/j.scitotenv.2016.01.078,2016,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0909,10.1016/j.watres.2017.01.010,2017,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0917,10.1016/j.watres.2020.116273,2020,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R0944,10.3390/w10010037,2018,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1017,10.3390/W12061729,2020,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1061,10.1016/j.scitotenv.2018.10.305,2019,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1070,10.2175/106143012X13373575831394,2013,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1076,10.2166/wh.2019.160,2019,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1122,10.1021/acs.est.6b02640,2016,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1158,10.5004/dwt.2020.25712,2020,Include_Supporting,,Include_Supporting,,Agree,Include_Supporting,,both reviewers
+R1169,10.1016/j.biortech.2018.06.021,2018,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R1252,10.1007/s00253-015-6404-9,2015,Include_Core,,Include_Core,,Agree,Include_Core,,both reviewers
+R0451,,,Exclude,E3,not assessed,,single reviewer,Exclude,E3,X.C.N.

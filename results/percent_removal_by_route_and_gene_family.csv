@@ -1,0 +1,14 @@
+route,gene_family,studies,rows,median,iqr_low,iqr_high,min,max,synthesis_mode
+influent_to_final_effluent,bla,6,9,94.5725,72.9725,97.2088,22.8,98.0,descriptive only
+influent_to_final_effluent,erm,6,8,81.135,48.5825,91.3975,8.0,98.0,descriptive only
+influent_to_final_effluent,intI1,3,3,11.36,10.18,42.68,9.0,74.0,listed only
+influent_to_final_effluent,other,3,3,99.0,61.165,99.5,23.33,100.0,listed only
+influent_to_final_effluent,qnr,3,4,91.565,49.7825,92.4975,8.0,93.43,listed only
+influent_to_final_effluent,sul,5,8,77.24,14.0,90.0,12.3,92.895,descriptive only
+influent_to_final_effluent,tet,4,11,77.84,45.3625,98.8975,10.0,100.0,listed only
+influent_to_secondary_effluent,erm,1,1,99.7,99.7,99.7,99.7,99.7,listed only
+influent_to_secondary_effluent,intI1,1,1,90.0,90.0,90.0,90.0,90.0,listed only
+influent_to_secondary_effluent,tet,2,4,72.27,59.075,85.465,45.88,98.66,listed only
+secondary_effluent_to_final_effluent,intI1,2,2,90.8,89.2,92.4,87.6,94.0,listed only
+secondary_effluent_to_final_effluent,tet,1,1,80.0,80.0,80.0,80.0,80.0,listed only
+sewage_sludge_to_anaerobic_sludge,intI1,1,4,92.15,92.15,92.15,92.15,92.15,listed only

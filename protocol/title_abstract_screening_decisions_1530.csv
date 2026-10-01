@@ -1,0 +1,1531 @@
+record_id,doi,model_decision_gpt4omini,human_decision,final_decision,decision_source,differs_from_model
+R0001,10.1016/j.chemosphere.2020.126064,Exclude,Exclude,Exclude,human,No
+R0002,10.3389/fmicb.2018.02599,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0003,10.1016/j.ijheh.2026.114767,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0004,10.3390/microorganisms12061250,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0005,10.1061/(ASCE)EE.1943-7870.0001873,Exclude,Maybe,Maybe,human,Yes
+R0006,10.1111/1758-2229.13306,Exclude,Maybe,Maybe,human,Yes
+R0007,10.1128/aem.00170-23,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0008,10.1016/j.watres.2025.124515,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0009,10.1016/j.envpol.2023.122455,Include_Core,Include_Core,Include_Core,human,No
+R0010,10.1016/j.envpol.2024.124598,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0011,10.1016/j.scitotenv.2022.158364,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0012,10.1016/j.scitotenv.2022.155388,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0013,10.1016/j.watres.2022.118893,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0014,10.1093/femsec/fiae081,Include_Core,Include_Core,Include_Core,human,No
+R0015,10.1016/j.jhazmat.2024.134340,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0016,10.1002/wer.1125,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0017,10.1016/j.jenvman.2023.119771,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0018,10.1021/acs.est.4c02048,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0019,10.1016/j.jhazmat.2024.135567,Exclude,Maybe,Maybe,human,Yes
+R0020,10.1002/mbo3.1397,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0021,10.1038/s41467-025-59019-3,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0022,10.1038/s44221-025-00421-y,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0023,10.1016/j.jhazmat.2023.132788,Include_Supporting,Maybe,Maybe,human,Yes
+R0024,10.1016/j.cej.2020.128038,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0025,10.1016/j.scitotenv.2020.144526,Include_Core,Maybe,Maybe,human,Yes
+R0026,10.1016/j.jhazmat.2020.124855,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0027,10.1016/j.scitotenv.2025.180002,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0028,10.3390/antibiotics14111058,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0029,10.1007/s00253-022-12162-z,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0030,10.1016/j.jhazmat.2023.132528,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0031,10.1016/j.jenvman.2026.128695,Include_Core,Include_Core,Include_Core,human,No
+R0032,10.1016/j.jhazmat.2026.141890,Exclude,Include_Core,Include_Core,human,Yes
+R0033,10.1111/1758-2229.70327,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0034,10.1038/s41467-024-49742-8,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0035,10.1007/s00284-023-03449-z,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0036,10.1007/s11274-025-04328-4,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0037,10.1128/mra.01242-23,Include_Core,Maybe,Maybe,human,Yes
+R0038,10.1007/s11356-025-35988-2,Include_Supporting,Include_Core,Include_Core,human,Yes
+R0039,10.1016/j.watres.2016.04.058,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0040,10.1016/j.ecoenv.2025.118991,Include_Core,Include_Core,Include_Core,human,No
+R0041,10.1016/j.envint.2026.110048,Exclude,Maybe,Maybe,human,Yes
+R0042,10.1128/spectrum.02038-25,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0043,10.1016/j.heliyon.2024.e33372,Include_Core,Maybe,Maybe,human,Yes
+R0044,10.3390/su132011131,Include_Core,Include_Core,Include_Core,human,No
+R0045,10.1089/mdr.2018.0311,Exclude,Exclude,Exclude,human,No
+R0046,10.1111/1462-2920.70103,Include_Core,Maybe,Maybe,human,Yes
+R0047,10.1016/j.envpol.2024.124482,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0048,10.2147/IDR.S370669,Include_Core,Include_Core,Include_Core,human,No
+R0049,10.1128/AEM.00373-21,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0050,10.1016/j.scitotenv.2019.133750,Exclude,Maybe,Maybe,human,Yes
+R0051,10.1016/j.envres.2020.110487,Include_Core,Include_Core,Include_Core,human,No
+R0052,10.1016/j.envpol.2022.120618,Exclude,Include_Core,Include_Core,human,Yes
+R0053,10.1016/j.watres.2020.115603,Include_Core,Include_Core,Include_Core,human,No
+R0054,10.1016/j.scitotenv.2022.156773,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0055,10.1016/j.onehlt.2024.100880,Include_Core,Include_Core,Include_Core,human,No
+R0056,10.1016/j.cej.2022.139968,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0057,10.3389/fmicb.2021.657954,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0058,10.1016/j.envpol.2021.116736,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0059,10.1007/s11033-024-09362-3,Exclude,Exclude,Exclude,human,No
+R0060,10.1016/j.jhazmat.2019.121025,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0061,10.1016/j.jece.2025.116766,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0062,10.1016/j.jhazmat.2020.122820,Exclude,Maybe,Maybe,human,Yes
+R0063,10.1038/ncomms9452,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0064,10.1186/s40793-022-00398-1,Include_Core,Include_Core,Include_Core,human,No
+R0065,10.1016/j.tmaid.2025.102930,Exclude,Exclude,Exclude,human,No
+R0066,10.1016/j.watres.2024.122106,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0067,10.1016/j.scitotenv.2023.162649,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0068,10.1016/j.heliyon.2024.e29601,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0069,10.1016/j.jwpe.2023.104161,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0070,10.1016/j.biteb.2020.100511,Exclude,Maybe,Maybe,human,Yes
+R0071,10.1016/j.chemosphere.2025.144109,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0072,10.3389/fvets.2021.636715,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0073,10.1016/j.scitotenv.2018.01.148,Exclude,Maybe,Maybe,human,Yes
+R0074,10.1016/j.scitotenv.2023.162194,Exclude,Maybe,Maybe,human,Yes
+R0075,10.2166/wh.2023.073,Maybe,Maybe,Maybe,human,No
+R0076,10.1016/j.cej.2026.175762,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0077,10.1002/imt2.188,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0078,10.3390/pathogens14070617,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0079,10.1016/j.envres.2025.123207,Exclude,Include_Core,Include_Core,human,Yes
+R0080,10.1007/s11356-022-18749-3,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0081,10.1186/s12866-019-1683-4,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0082,10.1007/s10661-023-11589-9,Exclude,Exclude,Exclude,human,No
+R0083,10.3390/antibiotics14080753,Include_Core,Include_Core,Include_Core,human,No
+R0084,10.1016/j.cej.2022.136060,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0085,10.1111/wej.70051,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0086,10.1016/j.ijheh.2025.114698,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0087,10.1016/j.ese.2025.100586,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0088,10.3390/antibiotics10091118,Include_Core,Include_Core,Include_Core,human,No
+R0089,10.3389/fmicb.2021.657353,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0090,10.1016/j.watres.2023.120761,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0091,10.1016/j.envpol.2023.122188,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0092,10.1016/j.scitotenv.2024.175046,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0093,10.1139/facets-2017-0085,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0094,10.1021/acs.est.3c09070,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0095,10.1016/j.scitotenv.2020.143832,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0096,10.1016/j.chemosphere.2022.134641,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0097,10.1016/j.jhazmat.2025.140887,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0098,10.1016/j.jece.2022.109216,Include_Core,Include_Core,Include_Core,human,No
+R0099,10.1038/s44221-025-00446-3,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0100,10.3390/genes15091213,Exclude,Exclude,Exclude,human,No
+R0101,10.1080/09593330.2022.2158758,Include_Core,Include_Core,Include_Core,human,No
+R0102,10.1016/j.jenvman.2021.113270,Include_Core,Include_Core,Include_Core,human,No
+R0103,10.1021/acs.est.3c04681,Exclude,Exclude,Exclude,human,No
+R0104,10.1016/j.watres.2026.125810,Include_Core,Include_Core,Include_Core,human,No
+R0105,10.1016/j.scitotenv.2025.178403,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0106,10.1016/j.watres.2023.120403,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0107,10.13227/j.hjkx.202112272,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0108,10.1016/j.jhazmat.2020.124595,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0109,10.1039/d3ew00591g,Include_Supporting,Maybe,Maybe,human,Yes
+R0110,10.1016/j.watres.2018.06.014,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0111,10.1016/j.envpol.2024.125515,Include_Core,Include_Core,Include_Core,human,No
+R0112,10.1016/j.ese.2024.100502,Exclude,Exclude,Exclude,human,No
+R0113,10.1016/j.watres.2020.115721,Exclude,Exclude,Exclude,human,No
+R0114,10.1016/j.scitotenv.2025.179691,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0115,,Include_Core,Include_Core,Include_Core,human,No
+R0116,10.1002/advs.202508389,Maybe,Maybe,Maybe,human,No
+R0117,10.1016/j.watres.2025.123811,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0118,10.1007/s00284-023-03418-6,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0119,10.13227/j.hjkx.202010106,Include_Core,Include_Core,Include_Core,human,No
+R0120,10.3390/antibiotics12121735,Exclude,Exclude,Exclude,human,No
+R0121,10.1016/j.jwpe.2022.102668,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0122,10.3390/antibiotics15020132,Include_Core,Maybe,Maybe,human,Yes
+R0123,10.1016/j.biortech.2025.132037,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0124,10.1016/j.scitotenv.2024.175850,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0125,10.1016/j.envres.2025.120807,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0126,10.1016/j.mimet.2023.106815,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0127,10.1016/j.envres.2025.121588,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0128,10.1016/j.envpol.2021.118774,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0129,10.1186/s40793-024-00658-2,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0130,10.1016/j.envint.2025.109611,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0131,10.1016/j.ese.2024.100493,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0132,10.1007/s11356-023-31287-w,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0133,10.1016/j.watres.2021.117384,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0134,10.3389/fmicb.2025.1516033,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0135,10.1016/j.envres.2024.119808,Exclude,Exclude,Exclude,human,No
+R0136,10.1016/j.ecoenv.2025.118390,Maybe,Include_Core,Include_Core,human,Yes
+R0137,10.1016/j.envint.2024.108973,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0138,10.1016/j.scitotenv.2023.166442,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0139,10.1016/j.scitotenv.2018.06.212,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0140,10.1016/j.jece.2023.109937,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0141,10.1016/j.scitotenv.2013.12.128,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0142,10.3389/fmicb.2015.01025,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0143,10.1016/j.envpol.2025.126296,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0144,10.2166/wh.2025.162,Include_Core,Maybe,Maybe,human,Yes
+R0145,10.1016/j.watres.2022.119282,Include_Core,Include_Core,Include_Core,human,No
+R0146,10.1016/j.scitotenv.2023.165984,Include_Core,Include_Core,Include_Core,human,No
+R0147,10.2166/wh.2021.151,Exclude,Exclude,Exclude,human,No
+R0148,10.1021/acsestengg.1c00011,Include_Supporting,Maybe,Maybe,human,Yes
+R0149,10.1016/j.scitotenv.2025.178989,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0150,10.1016/j.watres.2022.118237,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0151,10.1016/j.jhazmat.2024.133536,Exclude,Maybe,Maybe,human,Yes
+R0152,10.3390/ijerph20043593,Include_Core,Include_Core,Include_Core,human,No
+R0153,10.1128/spectrum.00688-25,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0154,10.1021/acsestwater.3c00507,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0155,,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0156,10.1007/s11356-022-24650-w,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0157,10.1016/j.watres.2024.121989,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0158,10.1371/journal.pone.0076079,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0159,10.3390/antibiotics10020188,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0160,10.2174/2211352521666230224150318,Exclude,Exclude,Exclude,human,No
+R0161,10.3390/antibiotics10050514,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0162,10.1016/j.envres.2023.117739,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0163,10.1016/j.scitotenv.2022.153570,Exclude,Maybe,Maybe,human,Yes
+R0164,10.1007/s00253-016-7959-9,Include_Core,Maybe,Maybe,human,Yes
+R0165,10.1016/j.ijheh.2025.114699,Exclude,Maybe,Maybe,human,Yes
+R0166,10.1371/journal.pone.0228079,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0167,10.1038/s41598-021-88335-z,Include_Core,Include_Core,Include_Core,human,No
+R0168,10.1021/acsestwater.5c00486,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0169,10.1016/j.watres.2024.121784,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0170,10.1016/j.jhazmat.2021.127352,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0171,10.1016/j.jenvman.2021.113129,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0172,10.1111/mec.14138,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0173,10.1007/s11356-024-35287-2,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0174,10.1080/09593330.2025.2522480,Exclude,Maybe,Maybe,human,Yes
+R0175,10.1021/acs.est.0c05567,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0176,10.1016/j.scitotenv.2022.159024,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0177,10.1016/j.scitotenv.2025.179208,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0178,10.1038/s41598-026-35758-1,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0179,10.1016/j.watres.2019.06.073,Include_Core,Include_Core,Include_Core,human,No
+R0180,10.1007/s41742-023-00552-8,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0181,10.1016/j.watres.2022.118050,Include_Core,Exclude,Exclude,human,Yes
+R0182,10.1016/j.envpol.2025.125923,Exclude,Exclude,Exclude,human,No
+R0183,10.1016/j.scitotenv.2021.152331,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0184,10.1016/j.chemosphere.2023.140218,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0185,10.1021/acs.est.5c13541,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0186,10.1016/j.watres.2024.122658,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0187,10.1016/j.eti.2024.103862,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0188,10.1016/j.scitotenv.2019.06.533,Exclude,Include_Core,Include_Core,human,Yes
+R0189,10.1128/msystems.01428-24,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0190,10.1016/j.watres.2025.123603,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0191,10.1016/j.watres.2021.117382,Maybe,Exclude,Exclude,human,Yes
+R0192,10.7554/eLife.81196,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0193,10.1016/j.jhazmat.2026.141641,Exclude,Maybe,Maybe,human,Yes
+R0194,10.3390/W12061516,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0195,10.1016/j.jece.2020.104393,Exclude,Exclude,Exclude,human,No
+R0196,10.1016/j.watres.2020.116752,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0197,10.1016/j.envpol.2024.124771,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0198,10.1016/j.cej.2024.152555,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0199,10.1016/j.watres.2014.05.019,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0200,10.1016/j.watres.2019.115073,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0201,10.1016/j.watres.2025.124656,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0202,10.1021/acs.est.5c18221,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0203,10.1016/j.jenvman.2021.113709,Exclude,Include_Core,Include_Core,human,Yes
+R0204,10.1016/j.scitotenv.2023.167544,Exclude,Maybe,Maybe,human,Yes
+R0205,10.1016/j.scitotenv.2021.149599,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0206,10.1007/s41742-024-00715-1,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0207,10.3389/fgene.2023.1334646,Include_Core,Include_Core,Include_Core,human,No
+R0208,10.3389/frfst.2022.894671,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0209,10.1128/mbio.00591-22,Maybe,Exclude,Exclude,human,Yes
+R0210,10.1038/s41598-024-76773-4,Include_Core,Include_Core,Include_Core,human,No
+R0211,10.1016/j.watres.2022.118571,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0212,10.1016/j.jwpe.2025.107419,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0213,10.1371/journal.pone.0237283,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0214,10.1016/j.jhazmat.2024.133939,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0215,10.1099/jgv.0.002198,Exclude,Exclude,Exclude,human,No
+R0216,10.1016/j.jhazmat.2025.137785,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0217,10.1016/j.watres.2023.119953,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0218,10.1093/femsec/fiw060,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0219,10.1016/j.watres.2017.07.002,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0220,10.1128/spectrum.03900-23,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0221,10.3389/fmicb.2023.1058350,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0222,10.1128/spectrum.01489-24,Exclude,Maybe,Maybe,human,Yes
+R0223,10.1016/j.watres.2025.123887,Exclude,Maybe,Maybe,human,Yes
+R0224,10.1128/msphere.00741-23,Maybe,Maybe,Maybe,human,No
+R0225,10.1016/j.watres.2021.117882,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0226,10.1016/j.scitotenv.2024.171401,Maybe,Maybe,Maybe,human,No
+R0227,10.1016/j.envres.2025.122591,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0228,10.3390/w10111539,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0229,10.1038/s41598-025-91516-9,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0230,10.1016/j.envint.2018.05.011,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0231,10.1016/j.watres.2020.116450,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0232,10.13209/j.0479-8023.2020.046,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0233,10.1016/j.scitotenv.2024.175705,Exclude,Exclude,Exclude,human,No
+R0234,10.1016/j.scitotenv.2025.180839,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0235,10.3390/ijerph19010336,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0236,10.1039/c6ew00322b,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0237,10.1128/mra.01051-25,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0238,10.1111/mec.16346,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0239,10.1016/j.scitotenv.2025.181145,Exclude,Maybe,Maybe,human,Yes
+R0240,10.3390/ma14185428,Exclude,Include_Core,Include_Core,human,Yes
+R0241,10.1016/j.envint.2019.105372,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0242,10.1016/j.envadv.2022.100185,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0243,10.1016/j.watres.2019.06.075,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0244,10.1016/j.scitotenv.2023.165815,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0245,10.1016/j.jwpe.2024.104887,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0246,10.1016/j.jece.2022.107596,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0247,10.1021/acs.est.5c08352,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0248,10.1016/j.watres.2021.117972,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0249,10.1016/j.watres.2025.125285,Include_Core,Include_Core,Include_Core,human,No
+R0250,10.1016/j.envint.2014.07.003,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0251,10.1128/mSphere.00314-18,Exclude,Maybe,Maybe,human,Yes
+R0252,10.1016/j.jhazmat.2025.138680,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0253,10.1016/j.scitotenv.2020.142632,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0254,10.1089/mdr.2019.0417,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0255,10.3390/antibiotics15030275,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0256,10.7717/peerj.19682,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0257,10.1016/j.envres.2024.119156,Include_Core,Maybe,Maybe,human,Yes
+R0258,10.1038/s41598-019-49263-1,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0259,10.3389/fmicb.2021.712843,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0260,10.1089/mdr.2023.0016,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0261,10.1021/acs.est.1c07023,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0262,10.1016/j.watres.2019.05.100,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0263,10.3389/fmicb.2023.1252870,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0264,10.13227/j.hjkx.202410028,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0265,10.1016/j.jenvman.2022.115521,Maybe,Exclude,Exclude,human,Yes
+R0266,10.1016/j.scitotenv.2020.142755,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0267,10.1016/j.envint.2020.105914,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0268,10.1016/j.chemosphere.2015.10.044,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0269,10.1016/j.jclepro.2024.144265,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0270,10.1093/femsec/fiag007,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0271,10.3390/w13233398,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0272,10.1016/j.envpol.2025.126096,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0273,10.1021/acs.est.3c02593,Exclude,Maybe,Maybe,human,Yes
+R0274,10.3389/fmicb.2022.848167,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0275,10.1016/j.watres.2018.01.064,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0276,10.2166/wst.2015.634,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0277,10.1016/j.jgar.2023.02.002,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0278,10.1016/j.scitotenv.2021.149549,Maybe,Include_Supporting,Include_Supporting,human,Yes
+R0279,10.1021/acs.est.9b05250,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0280,10.1061/JHTRBP.HZENG-1601,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0281,10.1089/ees.2020.0525,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0282,10.1016/j.watres.2025.123563,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0283,10.1016/j.jenvman.2023.118369,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0284,10.1016/j.cej.2026.172773,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0285,10.1016/j.scitotenv.2021.152190,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0286,10.1021/acs.est.2c03627,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0287,10.1016/j.jhazmat.2019.121221,Include_Core,Include_Core,Include_Core,human,No
+R0288,10.1016/j.egg.2021.100104,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0289,10.2147/IDR.S213525,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0290,10.1016/j.ecoenv.2025.119264,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0291,10.1016/j.envpol.2025.126367,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0292,10.3390/v17111501,Exclude,Exclude,Exclude,human,No
+R0293,10.1007/s10661-025-14745-5,Exclude,Include_Core,Include_Core,human,Yes
+R0294,10.3389/fmicb.2022.989085,Exclude,Exclude,Exclude,human,No
+R0295,10.1016/j.scitotenv.2024.178244,Include_Core,Maybe,Maybe,human,Yes
+R0296,10.1021/acs.est.1c01250,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0297,10.1016/j.envint.2019.105270,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0298,10.1016/j.scitotenv.2022.153437,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0299,10.1016/j.envpol.2017.12.001,Include_Core,Maybe,Maybe,human,Yes
+R0300,10.1016/j.ijfoodmicro.2025.111449,Exclude,Exclude,Exclude,human,No
+R0301,10.1038/s41598-020-65031-y,Include_Core,Include_Core,Include_Core,human,No
+R0302,10.1016/j.jenvman.2025.127897,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0303,10.1093/FEMSEC/FIY038,Include_Core,Include_Core,Include_Core,human,No
+R0304,10.1016/j.watres.2024.121983,Include_Core,Include_Core,Include_Core,human,No
+R0305,10.1016/j.envres.2023.115897,Maybe,Maybe,Maybe,human,No
+R0306,10.1016/j.watres.2020.116079,Include_Core,Include_Core,Include_Core,human,No
+R0307,10.3389/fmicb.2017.01282,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0308,10.1016/j.procbio.2024.06.004,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0309,10.1186/s12864-024-10906-x,Include_Core,Maybe,Maybe,human,Yes
+R0310,10.1016/j.watres.2025.124911,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0311,10.1016/j.jenvman.2024.121615,Maybe,Maybe,Maybe,human,No
+R0312,10.1186/s12866-025-03957-x,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0313,10.1007/s10646-020-02342-w,Include_Core,Include_Core,Include_Core,human,No
+R0314,10.1016/j.jhazmat.2025.140566,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0315,10.1093/femsec/fiy041,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0316,10.1016/j.jhazmat.2025.140523,Exclude,Maybe,Maybe,human,Yes
+R0317,10.1016/j.envint.2015.04.005,Exclude,Exclude,Exclude,human,No
+R0318,10.3390/ijerph17186813,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0319,10.1007/s12275-018-8195-z,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0320,10.3390/w15061232,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0321,10.1016/j.jhazmat.2023.130778,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0322,10.1016/j.jwpe.2026.109756,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0323,10.1093/femsec/fiw014,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0324,10.3390/antibiotics15030301,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0325,10.1016/j.scitotenv.2023.163278,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0326,10.1016/j.jhazmat.2025.138236,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0327,10.1038/s41598-025-27081-y,Include_Core,Include_Core,Include_Core,human,No
+R0328,10.1016/j.jenvman.2018.10.073,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0329,10.1093/femsec/fiy079,Exclude,Exclude,Exclude,human,No
+R0330,10.1038/s41396-018-0277-8,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0331,10.1021/acs.est.4c03726,Include_Core,Include_Core,Include_Core,human,No
+R0332,10.1007/s11356-019-04546-y,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0333,10.1186/s13756-022-01156-1,Include_Core,Maybe,Maybe,human,Yes
+R0334,10.1016/j.seppur.2026.137440,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0335,10.1016/j.scitotenv.2023.162031,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0336,10.1128/aem.00022-25,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0337,10.1021/acs.est.5c11448,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0338,10.1016/j.envpol.2022.118958,Exclude,Exclude,Exclude,human,No
+R0339,10.1016/j.watres.2022.119061,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0340,10.1186/s13756-024-01496-0,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0341,10.1016/j.heliyon.2024.e38723,Include_Core,Include_Core,Include_Core,human,No
+R0342,10.3389/fmicb.2022.795206,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0343,10.1016/j.watres.2019.06.048,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0344,10.1016/j.envpol.2021.118282,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0345,10.7845/kjm.2017.7083,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0346,10.1007/s11356-022-22096-8,Include_Core,Maybe,Maybe,human,Yes
+R0347,10.1016/j.jhazmat.2025.140669,Exclude,Maybe,Maybe,human,Yes
+R0348,10.1016/j.watres.2025.123627,Include_Core,Maybe,Maybe,human,Yes
+R0349,10.1016/j.scitotenv.2024.176078,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0350,10.1002/lno.12630,Exclude,Maybe,Maybe,human,Yes
+R0351,10.1016/j.watres.2015.01.036,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0352,10.1016/j.watres.2024.122444,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0353,10.13227/j.hjkx.201903196,Include_Core,Include_Core,Include_Core,human,No
+R0354,10.1016/j.envpol.2026.127943,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0355,10.12030/j.cjee.202501050,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0356,10.1016/j.biortech.2020.122984,Exclude,Maybe,Maybe,human,Yes
+R0357,10.1016/j.watres.2016.11.056,Include_Core,Include_Core,Include_Core,human,No
+R0358,10.1016/j.watres.2025.123155,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0359,10.1016/j.watres.2022.119189,Maybe,Maybe,Maybe,human,No
+R0360,10.1016/j.scitotenv.2021.147368,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0361,10.3390/app12063100,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0362,10.3390/su14031776,Exclude,Exclude,Exclude,human,No
+R0363,10.1016/j.envpol.2023.121981,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0364,10.1007/s12275-020-9309-y,Include_Core,Include_Core,Include_Core,human,No
+R0365,10.1007/s13762-023-04907-8,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0366,10.1016/j.jhazmat.2021.126387,Include_Core,Include_Core,Include_Core,human,No
+R0367,10.1016/j.chemosphere.2022.137362,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0368,10.3390/w15081587,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0369,10.3390/v16040535,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0370,10.1021/acsestwater.4c01213,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0371,10.1016/j.jhazmat.2024.133790,Maybe,Maybe,Maybe,human,No
+R0372,,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0373,10.1021/acs.est.3c10895,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0374,10.1016/j.watres.2024.122866,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0375,10.1111/lam.12842,Exclude,Exclude,Exclude,human,No
+R0376,10.3390/ijms26052051,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0377,10.1016/j.scitotenv.2024.174272,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0378,10.1016/j.ibiod.2023.105596,Include_Core,Include_Core,Include_Core,human,No
+R0379,10.1038/s41598-020-65635-4,Include_Core,Maybe,Maybe,human,Yes
+R0380,10.1093/gigascience/giaa125,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0381,10.1007/s11783-023-1682-4,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0382,10.3389/fmicb.2021.606409,Exclude,Maybe,Maybe,human,Yes
+R0383,10.2166/wrd.2024.032,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0384,10.1371/journal.pone.0122635,Maybe,Maybe,Maybe,human,No
+R0385,10.1016/j.scitotenv.2025.179127,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0386,10.1139/cjm-2023-0226,Exclude,Maybe,Maybe,human,Yes
+R0387,10.1016/j.watres.2025.124663,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0388,10.1016/j.jece.2025.116172,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0389,10.1016/j.ecoenv.2024.117446,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0390,10.3389/fenvs.2022.825372,Exclude,Maybe,Maybe,human,Yes
+R0391,10.2147/IDR.S245047,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0392,10.1038/s41545-025-00456-4,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0393,10.1016/j.envres.2024.119116,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0394,10.1016/j.jhazmat.2024.136253,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0395,10.1016/j.envint.2018.05.040,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0396,10.3389/fmicb.2022.779196,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0397,10.1016/j.envint.2019.05.036,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0398,10.1128/AEM.02305-16,Exclude,Exclude,Exclude,human,No
+R0399,10.1007/s10646-020-02313-1,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0400,10.1016/j.jenvman.2024.122342,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0401,10.3390/antibiotics13060539,Exclude,Maybe,Maybe,human,Yes
+R0402,10.1128/MRA.00332-21,Maybe,Exclude,Exclude,human,Yes
+R0403,10.1016/j.watres.2021.117885,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0404,10.1016/j.scitotenv.2022.153033,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0405,10.1016/j.jes.2019.02.023,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0406,10.1128/aem.01121-22,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0407,10.1016/j.scitotenv.2022.156426,Include_Core,Include_Core,Include_Core,human,No
+R0408,10.1371/journal.pone.0156854,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0409,10.1016/j.envint.2022.107185,Maybe,Maybe,Maybe,human,No
+R0410,10.1007/s11356-024-35362-8,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0411,10.1016/j.envpol.2022.119649,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0412,10.1021/acs.estlett.8b00329,Exclude,Exclude,Exclude,human,No
+R0413,10.1007/s11356-018-1598-x,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0414,10.1016/j.envres.2023.117801,Include_Core,Maybe,Maybe,human,Yes
+R0415,10.1016/j.envint.2024.108554,Include_Core,Include_Core,Include_Core,human,No
+R0416,10.1016/j.crmicr.2025.100408,Exclude,Maybe,Maybe,human,Yes
+R0417,10.1021/acs.est.3c07974,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0418,10.1016/j.envint.2022.107457,Exclude,Maybe,Maybe,human,Yes
+R0419,10.1016/j.watres.2021.117368,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0420,10.3389/fmicb.2021.648454,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0421,10.1093/femsle/fnaf041,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0422,10.1186/s40168-019-0663-0,Include_Core,Include_Core,Include_Core,human,No
+R0423,10.3390/w13162309,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0424,10.1016/j.envpol.2020.114508,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0425,10.1021/acs.est.5c01335,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0426,10.1016/j.jenvman.2023.117439,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0427,10.1016/j.scitotenv.2024.173217,Include_Core,Include_Core,Include_Core,human,No
+R0428,10.1016/j.scitotenv.2021.147611,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0429,10.1016/j.scitotenv.2022.153521,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0430,10.1007/s11783-023-1754-5,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0431,10.1016/j.gene.2024.148991,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0432,10.19965/j.cnki.iwt.2022-1172,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0433,10.3389/fmicb.2019.01797,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0434,10.1016/j.watres.2021.117720,Maybe,Include_Core,Include_Core,human,Yes
+R0435,10.1016/j.scitotenv.2023.165441,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0436,10.1016/j.biortech.2023.129056,Exclude,Maybe,Maybe,human,Yes
+R0437,10.1016/j.watres.2019.06.039,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0438,10.1016/j.envpol.2023.123075,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0439,10.1016/j.watres.2024.122598,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0440,10.1038/srep38432,Exclude,Exclude,Exclude,human,No
+R0441,10.1089/mdr.2021.0254,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0442,10.1016/j.envint.2018.05.009,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0443,10.1016/j.ecoenv.2016.06.016,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0444,10.1007/s11274-025-04323-9,Exclude,Maybe,Maybe,human,Yes
+R0445,10.1016/j.envint.2019.01.050,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0446,10.1128/Spectrum.00941-21,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0447,10.1016/j.watres.2023.121030,Exclude,Maybe,Maybe,human,Yes
+R0448,10.1016/j.ijheh.2024.114345,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0449,10.1016/j.scitotenv.2024.171806,Include_Core,Include_Core,Include_Core,human,No
+R0450,10.1016/j.chemosphere.2016.04.139,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0451,10.1016/j.scitotenv.2018.11.325,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0452,10.1016/j.chemosphere.2021.129563,Include_Core,Include_Core,Include_Core,human,No
+R0453,10.3389/fmicb.2019.00172,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0454,10.1016/j.watres.2018.01.063,Exclude,Maybe,Maybe,human,Yes
+R0455,10.18785/gcr.3501.10,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0456,10.1016/j.envint.2024.109051,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0457,10.1016/j.jenvman.2021.112204,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0458,10.1016/j.heliyon.2025.e42919,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0459,10.1128/AEM.02168-17,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0460,10.1186/s12866-025-04610-3,Include_Supporting,Exclude,Exclude,human,Yes
+R0461,10.1016/j.scitotenv.2024.177556,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0462,10.1016/j.jhazmat.2024.133493,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0463,10.1016/j.jhazmat.2026.141891,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0464,10.1016/j.scitotenv.2015.01.028,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0465,10.1016/j.watres.2021.117827,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0466,10.1016/j.scitotenv.2020.144166,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0467,10.1016/j.chemosphere.2017.05.149,Maybe,Include_Supporting,Include_Supporting,human,Yes
+R0468,10.1016/j.scitotenv.2023.165672,Exclude,Maybe,Maybe,human,Yes
+R0469,10.3390/w11122495,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0470,10.1016/j.scitotenv.2024.176569,Include_Core,Include_Core,Include_Core,human,No
+R0471,10.1016/j.watres.2023.120682,Exclude,Exclude,Exclude,human,No
+R0472,10.1016/j.scitotenv.2018.10.050,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0473,10.1016/j.compbiomed.2023.107629,Exclude,Exclude,Exclude,human,No
+R0474,10.3389/fmicb.2022.995418,Maybe,Maybe,Maybe,human,No
+R0475,10.1016/j.jhazmat.2024.136165,Exclude,Maybe,Maybe,human,Yes
+R0476,10.1039/d1ew00820j,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0477,10.1139/cjm-2016-0034,Exclude,Maybe,Maybe,human,Yes
+R0478,10.1016/j.biortech.2024.131878,Exclude,Maybe,Maybe,human,Yes
+R0479,10.1016/j.scitotenv.2022.153928,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0480,10.1007/s11783-021-1469-4,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0481,10.1007/s11356-021-14735-3,Exclude,Include_Core,Include_Core,human,Yes
+R0482,10.2166/wst.2021.088,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0483,10.1016/j.scitotenv.2014.07.024,Include_Core,Include_Core,Include_Core,human,No
+R0484,10.3390/antibiotics11101283,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0485,10.1016/j.scitotenv.2017.08.229,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0486,10.3390/w17060867,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0487,10.3389/frabi.2024.1351999,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0488,10.2166/wh.2021.171,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0489,10.1016/j.scitotenv.2020.140466,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0490,10.1016/j.watres.2020.115827,Include_Core,Include_Core,Include_Core,human,No
+R0491,10.1093/ismejo/wraf077,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0492,10.1038/s41467-024-51957-8,Maybe,Maybe,Maybe,human,No
+R0493,10.1073/pnas.2403866122,Exclude,Exclude,Exclude,human,No
+R0494,10.3390/w17111574,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0495,10.1016/j.scitotenv.2020.144176,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0496,10.1016/j.watres.2025.124391,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0497,10.1016/j.envres.2023.117140,Exclude,Exclude,Exclude,human,No
+R0498,10.1016/j.jmb.2025.169159,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0499,10.3390/su142114292,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0500,10.1371/journal.pone.0026041,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0501,10.1371/journal.pone.0077310,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0502,10.1371/journal.pone.0048000,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0503,10.1128/AEM.02732-10,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0504,10.3389/fmicb.2012.00106,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0505,10.1016/j.envint.2013.01.019,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0506,10.1128/AAC.01540-07,Exclude,Exclude,Exclude,human,No
+R0507,10.1016/j.watres.2023.120062,Maybe,Maybe,Maybe,human,No
+R0508,10.3390/w16020195,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0509,10.1038/s41598-026-40805-y,Exclude,Exclude,Exclude,human,No
+R0510,10.1016/j.jwpe.2024.105951,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0511,10.3390/antibiotics11111531,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0512,10.1038/s41396-023-01460-7,Include_Core,Maybe,Maybe,human,Yes
+R0513,10.1016/j.watres.2022.119433,Exclude,Exclude,Exclude,human,No
+R0514,10.1016/j.jenvman.2025.127302,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0515,10.3390/microorganisms12071421,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0516,10.1016/j.jhazmat.2025.139955,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0517,10.1016/j.envres.2022.114281,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0518,10.1016/j.wroa.2022.100152,Include_Supporting,Exclude,Exclude,human,Yes
+R0519,10.1016/j.jgar.2022.07.008,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0520,10.1016/j.wroa.2026.100506,Include_Core,Include_Core,Include_Core,human,No
+R0521,10.1016/j.scitotenv.2024.175918,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0522,10.1016/j.seppur.2026.137286,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0523,10.1016/j.envpol.2024.124245,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0524,10.1016/j.envpol.2025.126179,Include_Core,Include_Core,Include_Core,human,No
+R0525,10.1016/j.cej.2024.152046,Include_Supporting,Maybe,Maybe,human,Yes
+R0526,10.1016/j.scitotenv.2024.173288,Exclude,Maybe,Maybe,human,Yes
+R0527,10.1016/j.watres.2025.123366,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0528,10.1016/j.chemosphere.2024.142602,Maybe,Exclude,Exclude,human,Yes
+R0529,10.1016/j.jwpe.2025.108432,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0530,10.1061/JHTRBP.HZENG-1600,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0531,10.1016/j.envpol.2023.122661,Exclude,Maybe,Maybe,human,Yes
+R0532,10.1016/j.scitotenv.2024.178306,Maybe,Maybe,Maybe,human,No
+R0533,10.1016/j.onehlt.2024.100881,Include_Core,Maybe,Maybe,human,Yes
+R0534,10.1016/j.watres.2024.121368,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0535,10.1128/mbio.02068-25,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0536,10.1016/j.chemosphere.2022.135148,Exclude,Exclude,Exclude,human,No
+R0537,10.1016/j.envpol.2025.126828,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0538,10.3389/fmicb.2023.1155956,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0539,10.1016/j.cej.2026.174852,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0540,10.1016/j.envpol.2024.124772,Maybe,Maybe,Maybe,human,No
+R0541,10.1016/j.cej.2023.142846,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0542,10.1016/j.scitotenv.2024.170392,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0543,10.1007/s40710-025-00779-x,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0544,10.1016/j.scitotenv.2022.158330,Include_Supporting,Maybe,Maybe,human,Yes
+R0545,10.1016/j.scitotenv.2025.178876,Include_Core,Exclude,Exclude,human,Yes
+R0546,10.1021/acs.est.2c06158,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0547,10.1016/j.jece.2024.114568,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0548,10.1007/s11356-023-29492-8,Exclude,Maybe,Maybe,human,Yes
+R0549,10.1016/j.jhazmat.2024.135604,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0550,10.11144/Javeriana.iyu26.twtp,Exclude,Exclude,Exclude,human,No
+R0551,10.1016/j.scitotenv.2022.156594,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0552,10.1016/j.ijfoodmicro.2024.110615,Exclude,Exclude,Exclude,human,No
+R0553,10.1016/j.jes.2022.10.020,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0554,10.3389/fenvc.2026.1762724,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0555,10.1186/s42834-023-00203-9,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0556,10.1016/j.jhazmat.2025.139154,Include_Core,Include_Core,Include_Core,human,No
+R0557,10.1016/j.watres.2024.122446,Exclude,Exclude,Exclude,human,No
+R0558,10.1016/j.cej.2023.142968,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0559,10.3390/app15095158,Include_Core,Include_Core,Include_Core,human,No
+R0560,10.1016/j.ecoenv.2025.119241,Exclude,Exclude,Exclude,human,No
+R0561,10.1016/j.envres.2022.114212,Exclude,Exclude,Exclude,human,No
+R0562,10.1016/j.dwt.2024.100275,Exclude,Exclude,Exclude,human,No
+R0563,10.1021/acs.est.3c06571,Exclude,Exclude,Exclude,human,No
+R0564,10.1016/j.scitotenv.2023.168313,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0565,10.1016/j.jenvman.2023.117854,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0566,10.1016/j.cej.2023.147137,Exclude,Exclude,Exclude,human,No
+R0567,10.1016/j.jece.2024.114227,Exclude,Maybe,Maybe,human,Yes
+R0568,10.1016/j.envint.2023.108374,Exclude,Maybe,Maybe,human,Yes
+R0569,10.1016/j.psep.2024.10.092,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0570,10.1007/s11356-024-35832-z,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0571,10.1016/j.chemosphere.2023.138098,Maybe,Maybe,Maybe,human,No
+R0572,10.22207/JPAM.20.1.10,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0573,10.1016/j.biortech.2024.131704,Exclude,Exclude,Exclude,human,No
+R0574,10.1038/s41396-023-01506-w,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0575,10.3390/microorganisms13020260,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0576,10.1016/j.cej.2025.159784,Include_Supporting,Maybe,Maybe,human,Yes
+R0577,10.1093/jambio/lxad215,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0578,10.1016/j.jhazmat.2026.141614,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0579,10.1016/j.scitotenv.2025.180456,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0580,10.1016/j.envpol.2024.123800,Include_Core,Include_Core,Include_Core,human,No
+R0581,10.1016/j.scitotenv.2023.165249,Exclude,Maybe,Maybe,human,Yes
+R0582,10.3390/w18050593,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0583,10.1016/j.cej.2025.172443,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0584,10.1016/j.jwpe.2025.109262,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0585,10.1016/j.jwpe.2024.105156,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0586,10.1080/09593330.2023.2209741,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0587,10.1016/j.eti.2023.103425,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0588,10.1371/journal.pone.0290080,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0589,10.1016/j.cej.2024.149962,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0590,10.1016/j.scitotenv.2024.171643,Maybe,Maybe,Maybe,human,No
+R0591,10.1007/s11356-022-24545-w,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0592,10.1016/j.crmicr.2025.100467,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0593,10.1007/s11270-024-07326-8,Exclude,Exclude,Exclude,human,No
+R0594,10.1016/j.jenvman.2024.121330,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0595,10.1016/j.jece.2025.116510,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0596,10.3390/ijerph22030351,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0597,10.1016/j.etap.2023.104081,Exclude,Maybe,Maybe,human,Yes
+R0598,10.1016/j.cej.2024.154241,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0599,10.1016/j.jenvman.2025.127258,Maybe,Include_Supporting,Include_Supporting,human,Yes
+R0600,10.1016/j.watres.2024.121949,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0601,10.1016/j.cej.2023.141807,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0602,10.1186/s40793-024-00557-6,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0603,10.1016/j.cej.2024.157093,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0604,10.1007/s43153-025-00538-3,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0605,10.3389/fmicb.2025.1612534,Include_Core,Maybe,Maybe,human,Yes
+R0606,10.1021/acsestengg.5c00475,Include_Core,Maybe,Maybe,human,Yes
+R0607,10.1038/s41598-024-56870-0,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0608,10.1039/d5ew00456j,Include_Supporting,Include_Core,Include_Core,human,Yes
+R0609,10.1016/j.scitotenv.2023.167247,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0610,10.1016/j.envres.2024.120139,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0611,10.1016/j.cej.2022.140183,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0612,10.1021/acsestwater.5c00883,Include_Core,Include_Core,Include_Core,human,No
+R0613,10.1016/j.jgar.2023.04.012,Exclude,Maybe,Maybe,human,Yes
+R0614,10.1186/s12302-026-01347-2,Exclude,Exclude,Exclude,human,No
+R0615,10.1016/j.jece.2025.118642,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0616,10.1016/j.envint.2025.109971,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0617,10.13057/biodiv/d240502,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0618,10.1016/j.psep.2022.09.030,Include_Core,Maybe,Maybe,human,Yes
+R0619,10.1016/j.watres.2024.121392,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0620,10.1016/j.cej.2023.146916,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0621,10.1007/s13762-024-05952-7,Include_Core,Maybe,Maybe,human,Yes
+R0622,10.1016/j.jclepro.2022.134117,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0623,10.1186/s40793-025-00671-z,Exclude,Maybe,Maybe,human,Yes
+R0624,10.1016/j.jhazmat.2025.139766,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0625,10.1371/journal.pone.0299740,Include_Core,Include_Core,Include_Core,human,No
+R0626,10.1080/10934529.2023.2175536,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0627,10.1016/j.jhazmat.2024.135353,Maybe,Include_Core,Include_Core,human,Yes
+R0628,10.1016/j.clwat.2025.100076,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0629,10.3390/w17121792,Exclude,Exclude,Exclude,human,No
+R0630,10.1016/j.jenvman.2025.126252,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0631,10.1016/j.watres.2024.122610,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0632,10.1016/j.envpol.2022.120883,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0633,10.46555/VTEI.2024.09.004,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0634,10.1016/j.scitotenv.2022.159907,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0635,10.3390/antibiotics12020400,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0636,10.1016/j.envres.2025.120910,Maybe,Maybe,Maybe,human,No
+R0637,10.1016/j.envpol.2024.125051,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0638,10.1016/j.chemosphere.2022.137254,Include_Supporting,Exclude,Exclude,human,Yes
+R0639,10.1016/j.scitotenv.2024.171723,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0640,10.1016/j.scitotenv.2023.167432,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0641,10.1016/j.jhazmat.2024.136385,Exclude,Exclude,Exclude,human,No
+R0642,10.1016/j.scitotenv.2025.181049,Exclude,Maybe,Maybe,human,Yes
+R0643,10.1016/j.algal.2025.104217,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0644,10.1016/j.jenvman.2023.118534,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0645,10.1016/j.scitotenv.2023.163407,Include_Supporting,Include_Core,Include_Core,human,Yes
+R0646,10.1016/j.jenvman.2025.126120,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0647,10.1016/j.jenvman.2025.124830,Exclude,Maybe,Maybe,human,Yes
+R0648,10.3390/microorganisms11061399,Exclude,Maybe,Maybe,human,Yes
+R0649,10.1016/j.envres.2025.123042,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0650,10.1016/j.watres.2024.121549,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0651,10.1016/j.jwpe.2024.105915,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0652,10.3390/w16243680,Include_Core,Maybe,Maybe,human,Yes
+R0653,10.1016/j.envpol.2023.121325,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0654,10.1007/s11783-022-1521-z,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0655,10.1016/j.scitotenv.2026.181478,Maybe,Maybe,Maybe,human,No
+R0656,10.1021/acs.est.4c10879,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0657,10.1016/j.ecoenv.2025.119469,Include_Core,Maybe,Maybe,human,Yes
+R0658,10.1016/j.scitotenv.2025.179787,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0659,10.1016/j.jhazmat.2025.140363,Maybe,Maybe,Maybe,human,No
+R0660,10.1021/acs.est.5c02823,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0661,10.3390/w16010114,Include_Core,Include_Core,Include_Core,human,No
+R0662,10.1016/j.scitotenv.2022.159376,Include_Core,Maybe,Maybe,human,Yes
+R0663,10.1016/j.cej.2024.156125,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0664,10.1016/j.watres.2025.123259,Exclude,Exclude,Exclude,human,No
+R0665,10.3390/w17010039,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0666,10.1016/j.biteb.2023.101389,Exclude,Exclude,Exclude,human,No
+R0667,10.1016/j.jhazmat.2024.135197,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0668,10.1016/j.ese.2024.100445,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0669,10.1038/s44221-024-00289-4,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0670,10.3390/antibiotics14050448,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0671,10.1186/s40168-025-02297-2,Maybe,Maybe,Maybe,human,No
+R0672,10.1016/j.jhazmat.2025.138855,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0673,10.1016/j.envpol.2025.125777,Maybe,Maybe,Maybe,human,No
+R0674,10.1007/s11356-023-28744-x,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0675,10.1016/j.jece.2025.120605,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0676,10.1016/j.psep.2026.108521,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0677,10.1016/j.emcon.2025.100615,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0678,10.3389/fmicb.2023.1223838,Exclude,Exclude,Exclude,human,No
+R0679,10.1016/j.jenvman.2024.120829,Include_Core,Include_Core,Include_Core,human,No
+R0680,10.3390/microorganisms11030727,Maybe,Maybe,Maybe,human,No
+R0681,10.1016/j.watres.2023.119986,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0682,10.1016/j.jece.2023.109717,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0683,10.1016/j.envres.2022.115088,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0684,10.1016/j.cej.2022.140274,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0685,10.1016/j.jhazmat.2025.138503,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0686,10.1016/j.jwpe.2025.109170,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0687,10.1016/j.hazl.2022.100056,Exclude,Exclude,Exclude,human,No
+R0688,10.1016/j.scitotenv.2023.164710,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0689,10.1016/j.watres.2024.121244,Exclude,Maybe,Maybe,human,Yes
+R0690,10.3390/antibiotics15020148,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0691,10.1016/j.scitotenv.2025.179010,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0692,10.1016/j.scitotenv.2024.171555,Include_Core,Include_Core,Include_Core,human,No
+R0693,10.3390/atmos13101723,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0694,10.1016/j.seppur.2022.121587,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0695,10.1016/j.jenvman.2024.122644,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0696,10.1093/jambio/lxad130,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0697,10.1016/j.watres.2024.121909,Maybe,Maybe,Maybe,human,No
+R0698,10.1016/j.biortech.2025.133241,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0699,10.1016/j.jhin.2023.12.020,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0700,10.1016/j.cej.2025.165253,Maybe,Maybe,Maybe,human,No
+R0701,10.1016/j.clwat.2025.100110,Maybe,Exclude,Exclude,human,Yes
+R0702,10.1002/wer.70155,Exclude,Maybe,Maybe,human,Yes
+R0703,10.1016/j.scitotenv.2022.158195,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0704,10.1016/j.envres.2022.113356,Exclude,Maybe,Maybe,human,Yes
+R0705,10.1093/femsec/fiae025,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0706,10.1016/j.watres.2026.125413,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0707,10.1016/j.cej.2024.150779,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0708,10.1016/j.jenvman.2023.117632,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0709,10.2166/wst.2025.093,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0710,10.3390/antibiotics13111072,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0711,10.1016/j.jhazmat.2022.129721,Exclude,Exclude,Exclude,human,No
+R0712,10.2166/wst.2025.023,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0713,10.1002/wer.11104,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0714,10.1016/j.jes.2025.06.056,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0715,10.1016/j.jhazmat.2023.131587,Maybe,Exclude,Exclude,human,Yes
+R0716,10.1038/s41598-024-60458-z,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0717,10.1016/j.jclepro.2024.141032,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0718,10.1016/j.envint.2022.107714,Include_Core,Maybe,Maybe,human,Yes
+R0719,10.1016/j.ecoenv.2023.114606,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0720,10.1016/j.jhazmat.2022.129396,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0721,10.1016/j.jhazmat.2022.128943,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0722,10.1016/j.jiph.2023.05.029,Include_Core,Maybe,Maybe,human,Yes
+R0723,10.3390/w17091305,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0724,10.1016/j.biteb.2023.101453,Maybe,Maybe,Maybe,human,No
+R0725,10.1016/j.jhazmat.2025.139305,Maybe,Include_Supporting,Include_Supporting,human,Yes
+R0726,10.3389/fmicb.2022.898339,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0727,10.1016/j.watres.2023.120747,Include_Supporting,Include_Core,Include_Core,human,Yes
+R0728,10.1016/j.ijheh.2025.114664,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0729,10.1016/j.watres.2024.122896,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0730,10.1016/j.scitotenv.2022.156232,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0731,10.1186/s13104-024-07027-9,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0732,10.1039/d4ew00875h,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0733,10.1016/j.scitotenv.2023.163997,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0734,10.1016/j.jhazmat.2022.129411,Include_Supporting,Maybe,Maybe,human,Yes
+R0735,10.1016/j.jhazmat.2024.135634,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0736,10.1089/ees.2021.0358,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0737,10.1016/j.biteb.2023.101558,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0738,10.1007/s11356-023-28823-z,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0739,10.1016/j.watres.2023.120656,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0740,10.2965/jwet.24-075,Exclude,Maybe,Maybe,human,Yes
+R0741,10.1016/j.biortech.2023.129388,Exclude,Exclude,Exclude,human,No
+R0742,10.1002/tqem.70339,Maybe,Maybe,Maybe,human,No
+R0743,10.1016/j.biortech.2025.132047,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0744,10.5004/dwt.2023.29127,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0745,10.1007/s11356-023-26270-4,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0746,10.1016/j.cej.2025.161102,Exclude,Exclude,Exclude,human,No
+R0747,10.1016/j.jece.2025.118153,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0748,10.1016/j.scitotenv.2024.176198,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0749,10.1016/j.scitotenv.2023.161527,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0750,10.1016/j.jhazmat.2025.139250,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0751,10.1016/j.envpol.2024.125130,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0752,10.1007/s11356-024-34475-4,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0753,10.1016/j.jhazmat.2024.133791,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0754,10.1016/j.jenvman.2023.119053,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0755,10.1016/j.envint.2023.108351,Maybe,Include_Core,Include_Core,human,Yes
+R0756,10.1016/j.envpol.2025.126391,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0757,10.3389/fcimb.2024.1456700,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0758,10.3390/app152111703,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0759,10.1016/j.cej.2026.175605,Exclude,Maybe,Maybe,human,Yes
+R0760,10.1016/j.jhazmat.2023.133347,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0761,10.1016/j.watres.2023.120966,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0762,10.1016/j.jwpe.2024.105395,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0763,10.1021/acs.est.4c02380,Exclude,Exclude,Exclude,human,No
+R0764,10.1016/j.scitotenv.2022.157318,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0765,10.1016/j.jhazmat.2025.138053,Maybe,Maybe,Maybe,human,No
+R0766,10.2965/jwet.25-085,Exclude,Maybe,Maybe,human,Yes
+R0767,10.1016/j.envres.2025.122426,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0768,10.1016/j.biortech.2026.134353,Maybe,Maybe,Maybe,human,No
+R0769,10.1038/s41545-024-00365-y,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0770,10.1016/j.jece.2023.111654,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0771,10.1186/s40168-025-02253-0,Maybe,Maybe,Maybe,human,No
+R0772,10.3390/w17202999,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0773,10.1016/j.jhazmat.2024.136856,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0774,10.1016/j.jhazmat.2024.135790,Exclude,Exclude,Exclude,human,No
+R0775,10.1021/acsestwater.6c00032,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0776,10.1007/s11270-026-09173-1,Maybe,Maybe,Maybe,human,No
+R0777,10.1016/j.envpol.2025.125833,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0778,10.1016/j.watres.2026.125616,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0779,10.1016/j.jhazmat.2024.137046,Include_Core,Include_Core,Include_Core,human,No
+R0780,10.1016/j.scitotenv.2023.165978,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0781,10.1016/j.watres.2024.121289,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0782,10.1016/j.jgar.2025.09.002,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0783,10.1016/j.emcon.2025.100513,Exclude,Exclude,Exclude,human,No
+R0784,10.3390/antibiotics12111586,Include_Core,Maybe,Maybe,human,Yes
+R0785,10.1016/j.jhazmat.2024.137088,Include_Core,Include_Core,Include_Core,human,No
+R0786,10.1089/ees.2021.0587,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0787,10.1016/j.rsma.2026.104842,Exclude,Exclude,Exclude,human,No
+R0788,10.1016/j.envres.2022.114725,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0789,10.1016/j.jhazmat.2026.141979,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0790,10.1016/j.jece.2022.108777,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0791,10.1016/j.envpol.2023.123283,Include_Supporting,Maybe,Maybe,human,Yes
+R0792,10.1016/j.scitotenv.2025.179241,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0793,10.1016/j.jece.2024.112322,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0794,10.1016/j.jece.2026.122258,Maybe,Exclude,Exclude,human,Yes
+R0795,10.1016/j.jece.2026.121488,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0796,10.1016/j.jwpe.2025.107152,Include_Core,Maybe,Maybe,human,Yes
+R0797,10.2166/wst.2024.201,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0798,10.1016/j.envpol.2023.121800,Exclude,Maybe,Maybe,human,Yes
+R0799,10.1016/j.biortech.2025.132288,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0800,10.1016/j.cej.2025.172382,Maybe,Maybe,Maybe,human,No
+R0801,10.1016/j.seppur.2025.136047,Exclude,Exclude,Exclude,human,No
+R0802,10.1016/j.jhazmat.2024.134128,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0803,10.1007/s11356-022-24591-4,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0804,10.2166/wrd.2022.018,Exclude,Include_Core,Include_Core,human,Yes
+R0805,10.3389/fmicb.2025.1591202,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0806,10.1016/j.jhazmat.2022.129528,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0807,10.1016/j.ijheh.2024.114517,Include_Core,Maybe,Maybe,human,Yes
+R0808,10.1016/j.biombioe.2026.109258,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0809,10.1016/j.watres.2025.123151,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0810,10.1186/s40066-025-00592-7,Exclude,Exclude,Exclude,human,No
+R0811,10.1186/s40068-024-00347-6,Exclude,Maybe,Maybe,human,Yes
+R0812,10.1016/j.envres.2022.115028,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0813,10.1016/j.jece.2026.122284,Include_Core,Include_Core,Include_Core,human,No
+R0814,10.1021/acsestwater.3c00613,Exclude,Exclude,Exclude,human,No
+R0815,10.1002/jctb.7329,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0816,10.1016/j.eti.2025.104579,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0817,10.1007/s10661-025-13970-2,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0818,10.1016/j.envres.2022.115129,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0819,10.1016/j.biortech.2025.133054,Include_Supporting,Include_Core,Include_Core,human,Yes
+R0820,10.3390/antibiotics13080711,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0821,10.1016/j.jece.2025.121004,Include_Supporting,Maybe,Maybe,human,Yes
+R0822,10.1016/j.watres.2022.119461,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0823,10.3390/app13074266,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0824,10.1016/j.jenvman.2026.129588,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0825,10.1111/tmi.13986,Include_Core,Include_Core,Include_Core,human,No
+R0826,10.1007/s11356-023-31269-y,Exclude,Exclude,Exclude,human,No
+R0827,10.1016/j.envpol.2025.126682,Exclude,Exclude,Exclude,human,No
+R0828,10.3390/microorganisms13122663,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0829,10.1016/j.jenvman.2023.117861,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0830,10.1016/j.jwpe.2023.104486,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0831,10.1016/j.watres.2024.121408,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0832,10.1021/acsestwater.2c00467,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0833,10.2166/wst.2020.282,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0834,10.1021/es4024749,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0835,10.1080/10934529.2022.2072644,Exclude,Exclude,Exclude,human,No
+R0836,10.1016/j.scitotenv.2016.02.103,Exclude,Exclude,Exclude,human,No
+R0837,10.1111/jam.13480,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0838,10.1016/j.envres.2020.109179,Include_Core,Include_Core,Include_Core,human,No
+R0839,10.1016/j.envres.2021.110730,Exclude,Maybe,Maybe,human,Yes
+R0840,10.1016/j.jenvman.2020.110356,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0841,10.1016/j.biortech.2019.122513,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0842,10.2166/wh.2020.020,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0843,10.1139/cjm-2021-0012,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0844,10.1016/j.scitotenv.2022.154354,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0845,10.1038/s41564-020-00794-8,Exclude,Maybe,Maybe,human,Yes
+R0846,10.1021/acs.estlett.9b00521,Maybe,Include_Core,Include_Core,human,Yes
+R0847,10.1264/jsme2.ME17016,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0848,10.1016/j.ibiod.2019.01.009,Exclude,Exclude,Exclude,human,No
+R0849,10.1089/ees.2020.0189,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0850,10.1016/j.cclet.2020.04.057,Exclude,Exclude,Exclude,human,No
+R0851,10.1016/j.watres.2021.117141,Include_Supporting,Maybe,Maybe,human,Yes
+R0852,10.12911/22998993/112714,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0853,10.1016/j.scitotenv.2016.01.078,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0854,10.1039/d0ew00270d,Exclude,Maybe,Maybe,human,Yes
+R0855,10.1016/j.envpol.2016.01.043,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0856,10.1016/j.watres.2014.05.006,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0857,,Include_Core,Include_Core,Include_Core,human,No
+R0858,10.1016/j.scitotenv.2016.07.055,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0859,10.1016/j.scitotenv.2018.09.187,Exclude,Exclude,Exclude,human,No
+R0860,10.1021/acs.est.5b01031,Exclude,Exclude,Exclude,human,No
+R0861,10.1016/j.ecoenv.2017.10.071,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0862,10.3390/antibiotics11020210,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0863,10.3390/ijerph17238866,Exclude,Exclude,Exclude,human,No
+R0864,10.1371/journal.pone.0131532,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0865,10.1016/j.jclepro.2021.128921,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0866,10.1016/j.jes.2020.05.024,Exclude,Exclude,Exclude,human,No
+R0867,10.1016/j.jenvman.2018.09.043,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0868,10.1016/j.jhazmat.2022.128249,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0869,10.1016/j.scitotenv.2021.149344,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0870,10.1016/j.scitotenv.2018.10.167,Maybe,Exclude,Exclude,human,Yes
+R0871,10.1016/j.scitotenv.2017.04.151,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0872,10.1016/j.envpol.2021.118512,Exclude,Maybe,Maybe,human,Yes
+R0873,10.1016/j.jhazmat.2020.124877,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0874,10.1016/j.scitotenv.2020.136499,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0875,10.1016/j.watres.2022.118434,Include_Supporting,Maybe,Maybe,human,Yes
+R0876,10.1099/mic.0.028233-0,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0877,10.1021/es501098g,Exclude,Maybe,Maybe,human,Yes
+R0878,10.1038/ismej.2013.189,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0879,10.2175/106143012X13280358613462,Exclude,Exclude,Exclude,human,No
+R0880,10.1111/mec.14288,Exclude,Maybe,Maybe,human,Yes
+R0881,10.1016/j.chemosphere.2019.124843,Maybe,Exclude,Exclude,human,Yes
+R0882,10.1099/mic.0.27317-0,Include_Core,Maybe,Maybe,human,Yes
+R0883,10.1007/s11356-015-5416-4,Exclude,Exclude,Exclude,human,No
+R0884,10.1093/femsec/fiv015,Exclude,Maybe,Maybe,human,Yes
+R0885,10.1007/s11783-019-1116-5,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0886,10.1016/j.envpol.2017.09.055,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0887,10.1021/es203399h,Maybe,Exclude,Exclude,human,Yes
+R0888,10.1016/j.chemosphere.2019.03.004,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0889,10.1021/acs.est.9b06926,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0890,10.4491/eer.2019.405,Exclude,Exclude,Exclude,human,No
+R0891,10.12911/22998993/112506,Include_Core,Include_Core,Include_Core,human,No
+R0892,10.2166/wrd.2021.097,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0893,10.1080/10934529.2015.964602,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0894,10.1007/s00203-020-02093-6,Include_Core,Exclude,Exclude,human,Yes
+R0895,10.1016/j.watres.2015.09.010,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0896,10.1089/mdr.2017.0406,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0897,10.1016/j.jbiotec.2008.03.020,Include_Core,Maybe,Maybe,human,Yes
+R0898,10.1016/j.watres.2019.115056,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0899,10.3390/polym13101593,Include_Core,Maybe,Maybe,human,Yes
+R0900,10.1016/j.scitotenv.2014.02.095,Exclude,Maybe,Maybe,human,Yes
+R0901,10.1016/j.ecoenv.2020.111164,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0902,10.1016/j.watres.2017.10.025,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0903,10.1016/j.watres.2016.02.049,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0904,10.1039/c8em00190a,Exclude,Exclude,Exclude,human,No
+R0905,10.1016/j.scitotenv.2017.06.250,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0906,10.1016/j.jece.2021.105746,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0907,10.1021/es501388v,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0908,10.1007/s11356-021-17115-z,Exclude,Maybe,Maybe,human,Yes
+R0909,10.1016/j.watres.2017.01.010,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0910,10.1016/j.envint.2019.105156,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0911,10.1021/acs.est.7b04760,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0912,10.1016/j.chemosphere.2017.01.134,Include_Supporting,Maybe,Maybe,human,Yes
+R0913,10.1016/j.scitotenv.2020.144814,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0914,10.1016/j.scitotenv.2019.133923,Exclude,Exclude,Exclude,human,No
+R0915,10.1016/j.biortech.2020.124575,Maybe,Maybe,Maybe,human,No
+R0916,10.1016/j.scitotenv.2019.135861,Include_Core,Maybe,Maybe,human,Yes
+R0917,10.1016/j.watres.2020.116273,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0918,10.3389/fmicb.2014.00558,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0919,10.1007/s11356-016-7048-8,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0920,10.1007/s11356-015-5916-2,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0921,10.1093/femsec/fiy101,Maybe,Exclude,Exclude,human,Yes
+R0922,10.1007/s11356-021-15351-x,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0923,10.5812/jjm.29384,Exclude,Exclude,Exclude,human,No
+R0924,10.1016/j.jhazmat.2022.128547,Maybe,Maybe,Maybe,human,No
+R0925,10.1016/j.jece.2020.104783,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0926,10.1038/s41598-021-96169-y,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0927,10.3390/antibiotics11020202,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0928,10.1016/j.chemosphere.2016.12.027,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0929,10.1016/j.nbt.2019.05.006,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0930,10.1016/j.cej.2022.135653,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0931,10.1016/j.watres.2019.04.046,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0932,10.1016/j.jhazmat.2021.127764,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0933,10.1002/bit.27134,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R0934,10.1016/S1002-0160(18)60062-1,Maybe,Exclude,Exclude,human,Yes
+R0935,10.1021/acs.est.0c08548,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0936,10.1016/j.watres.2019.04.031,Include_Core,Maybe,Maybe,human,Yes
+R0937,10.1016/j.watres.2011.03.002,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0938,10.1016/j.scitotenv.2021.145152,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0939,10.1016/j.apcatb.2018.12.030,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0940,10.1016/j.jhazmat.2016.03.096,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0941,10.1016/j.watres.2019.115098,Exclude,Maybe,Maybe,human,Yes
+R0942,10.1016/j.watres.2018.02.036,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0943,10.1038/ismej.2014.237,Exclude,Exclude,Exclude,human,No
+R0944,10.3390/w10010037,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0945,,Exclude,Include_Core,Include_Core,human,Yes
+R0946,10.1016/j.envint.2019.104986,Include_Core,Include_Core,Include_Core,human,No
+R0947,10.1002/wer.1286,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0948,10.1016/j.biortech.2016.07.036,Exclude,Maybe,Maybe,human,Yes
+R0949,10.1021/acs.est.6b02268,Include_Core,Include_Core,Include_Core,human,No
+R0950,10.1016/j.scitotenv.2018.07.370,Include_Core,Include_Core,Include_Core,human,No
+R0951,10.1016/j.biortech.2018.07.061,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0952,10.1039/c3em00555k,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0953,10.1128/AEM.01682-17,Exclude,Exclude,Exclude,human,No
+R0954,10.1016/j.ecoenv.2018.05.049,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0955,10.1016/j.scitotenv.2022.153186,Maybe,Maybe,Maybe,human,No
+R0956,10.1016/j.jhazmat.2019.06.014,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0957,10.1016/j.scitotenv.2018.10.111,Include_Core,Include_Core,Include_Core,human,No
+R0958,10.1016/j.algal.2017.11.033,Exclude,Maybe,Maybe,human,Yes
+R0959,10.3390/bioengineering9040134,Exclude,Exclude,Exclude,human,No
+R0960,10.3389/fmicb.2020.00153,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0961,10.1128/AEM.05307-11,Exclude,Exclude,Exclude,human,No
+R0962,10.1021/acs.est.1c00612,Exclude,Maybe,Maybe,human,Yes
+R0963,10.1371/journal.pone.0103705,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0964,10.1016/j.apcatb.2017.11.020,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0965,10.1016/j.chemosphere.2017.08.133,Include_Core,Include_Core,Include_Core,human,No
+R0966,10.1016/j.chemosphere.2018.04.163,Include_Core,Include_Core,Include_Core,human,No
+R0967,10.1016/j.watres.2017.11.067,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0968,10.1016/j.watres.2021.117374,Exclude,Maybe,Maybe,human,Yes
+R0969,10.3390/life12020147,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0970,10.1126/sciadv.aau9124,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0971,10.1016/j.scitotenv.2018.03.083,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0972,10.1007/s11783-021-1392-8,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0973,10.2174/1389201020666190207095556,Include_Supporting,Maybe,Maybe,human,Yes
+R0974,10.3390/w13233335,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0975,10.1080/09593330.2021.1946160,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0976,10.1016/j.ijheh.2019.01.004,Include_Core,Include_Core,Include_Core,human,No
+R0977,10.1016/j.jes.2018.09.004,Exclude,Exclude,Exclude,human,No
+R0978,10.1155/2022/1781518,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0979,10.25750/1995-4301-2019-4-076-082,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0980,10.1016/j.envc.2022.100504,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0981,10.1016/j.cej.2021.131677,Include_Supporting,Maybe,Maybe,human,Yes
+R0982,10.1016/j.envc.2021.100094,Exclude,Exclude,Exclude,human,No
+R0983,10.1039/c8ew00141c,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0984,10.3390/antibiotics10050478,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0985,10.1007/698-2015-361,Exclude,Exclude,Exclude,human,No
+R0986,10.1007/s11356-014-3665-2,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0987,10.1016/j.scitotenv.2021.150768,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0988,10.1039/c8ew00270c,Include_Core,Include_Core,Include_Core,human,No
+R0989,10.1128/mBio.01780-18,Exclude,Maybe,Maybe,human,Yes
+R0990,10.1016/j.jclepro.2020.120402,Maybe,Maybe,Maybe,human,No
+R0991,10.1016/j.jhazmat.2021.126527,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R0992,10.1016/j.envint.2020.105864,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R0993,10.1016/j.ecoenv.2020.111371,Include_Core,Include_Core,Include_Core,human,No
+R0994,10.1016/j.cej.2020.124383,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R0995,10.1016/j.scitotenv.2012.01.061,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0996,10.1021/acs.est.7b04283,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0997,10.1016/j.scitotenv.2021.150822,Include_Supporting,Include_Core,Include_Core,human,Yes
+R0998,10.1016/j.chemosphere.2021.131569,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R0999,10.1016/j.watres.2019.114916,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1000,10.1016/j.scitotenv.2020.143014,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1001,10.1080/01919512.2021.1906095,Include_Core,Include_Core,Include_Core,human,No
+R1002,10.1016/j.watres.2016.02.003,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R1003,10.1016/j.watres.2018.12.034,Exclude,Maybe,Maybe,human,Yes
+R1004,10.1016/j.scitotenv.2020.140199,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1005,10.1016/j.jclepro.2021.128140,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1006,10.1016/j.ecoenv.2021.112908,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1007,10.1007/s11356-014-3552-x,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1008,10.3390/app11156670,Exclude,Exclude,Exclude,human,No
+R1009,10.1016/j.jclepro.2021.129632,Include_Core,Include_Core,Include_Core,human,No
+R1010,10.1016/j.scitotenv.2021.146364,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1011,10.1038/s41396-020-0596-4,Exclude,Exclude,Exclude,human,No
+R1012,10.1007/s11356-014-2613-5,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1013,10.1016/j.scitotenv.2020.141441,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1014,10.1016/j.cej.2019.123674,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R1015,10.1007/s11274-019-2715-9,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1016,10.1016/j.chemosphere.2021.132833,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1017,10.3390/W12061729,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1018,10.1016/j.watres.2019.05.025,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1019,10.1166/jctn.2016.5514,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1020,10.5004/dwt.2019.24929,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1021,10.3390/antibiotics11050630,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R1022,10.2134/jeq2017.12.0493,Exclude,Exclude,Exclude,human,No
+R1023,10.2166/wh.2013.257,Include_Supporting,Exclude,Exclude,human,Yes
+R1024,10.1016/j.jhazmat.2022.128722,Maybe,Exclude,Exclude,human,Yes
+R1025,10.1016/j.chemosphere.2021.130591,Maybe,Maybe,Maybe,human,No
+R1026,10.1016/j.biortech.2020.122825,Include_Core,Include_Core,Include_Core,human,No
+R1027,10.1016/j.watres.2021.117533,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1028,10.1021/es303652q,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1029,10.1007/s11356-014-3919-z,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1030,10.1139/W10-041,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1031,10.1002/wer.10750,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1032,10.1021/acs.est.6b04855,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1033,10.1039/c4em00494a,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1034,10.1016/j.jhazmat.2022.128502,Include_Supporting,Maybe,Maybe,human,Yes
+R1035,10.1016/j.chemosphere.2016.02.113,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1036,10.1007/s11356-016-6688-z,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1037,10.1016/j.watres.2012.09.044,Include_Supporting,Maybe,Maybe,human,Yes
+R1038,10.1080/10934529.2015.1038150,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1039,10.1007/s00253-009-1886-y,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1040,10.1016/j.watres.2021.117932,Maybe,Exclude,Exclude,human,Yes
+R1041,10.1016/j.scitotenv.2021.146110,Exclude,Exclude,Exclude,human,No
+R1042,10.1016/j.watres.2020.116290,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1043,10.1016/j.jece.2018.03.004,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1044,10.1016/j.envint.2020.105540,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1045,10.1016/j.watres.2019.05.005,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1046,10.3390/molecules25122851,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1047,10.1021/es501851s,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1048,10.2166/wst.2018.051,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1049,10.1016/j.marpolbul.2019.110856,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1050,10.1016/j.biortech.2016.03.086,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1051,10.1016/j.seppur.2020.116946,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R1052,10.3389/fmicb.2018.02435,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1053,10.1016/j.scitotenv.2018.06.083,Exclude,Maybe,Maybe,human,Yes
+R1054,10.1016/j.jhazmat.2021.127382,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1055,10.1093/jac/dkr363,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1056,10.1002/tqem.21709,Include_Core,Maybe,Maybe,human,Yes
+R1057,10.1016/j.envint.2019.104980,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1058,10.1016/j.jwpe.2022.102607,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1059,10.1128/AEM.00418-14,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1060,10.1016/j.biortech.2018.10.079,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1061,10.1016/j.scitotenv.2018.10.305,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1062,10.1021/es401091y,Include_Core,Include_Core,Include_Core,human,No
+R1063,10.1016/j.watres.2019.115277,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1064,10.1089/mdr.2015.0275,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1065,10.1016/j.watres.2021.116979,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R1066,10.1016/j.scitotenv.2015.05.046,Include_Core,Include_Core,Include_Core,human,No
+R1067,10.1016/j.envpol.2016.10.062,Include_Core,Include_Core,Include_Core,human,No
+R1068,10.1016/j.jbiotec.2008.03.017,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1069,10.1016/j.scitotenv.2013.05.052,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R1070,10.2175/106143012X13373575831394,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1071,10.1016/j.jhazmat.2022.128443,Exclude,Maybe,Maybe,human,Yes
+R1072,10.2175/106143016X14696400495811,Exclude,Exclude,Exclude,human,No
+R1073,10.5004/dwt.2019.24255,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1074,10.1186/s12915-019-0649-1,Maybe,Exclude,Exclude,human,Yes
+R1075,10.1016/j.jhazmat.2020.124981,Maybe,Maybe,Maybe,human,No
+R1076,10.2166/wh.2019.160,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R1077,10.1016/j.envint.2021.106641,Include_Core,Include_Core,Include_Core,human,No
+R1078,10.1016/j.envint.2020.105987,Exclude,Exclude,Exclude,human,No
+R1079,10.1007/s00128-021-03363-9,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1080,10.1016/j.scitotenv.2021.145481,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1081,10.1016/j.scitotenv.2016.04.047,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1082,10.1089/mdr.2016.0329,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1083,10.1002/wer.1299,Include_Core,Include_Core,Include_Core,human,No
+R1084,10.3390/fermentation3030039,Exclude,Exclude,Exclude,human,No
+R1085,10.1016/j.jhazmat.2018.06.058,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1086,10.1007/s11270-017-3460-z,Exclude,Exclude,Exclude,human,No
+R1087,10.3389/fmicb.2017.02200,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1088,10.1016/j.biortech.2021.125585,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1089,10.1016/j.scitotenv.2019.02.043,Exclude,Maybe,Maybe,human,Yes
+R1090,10.1016/j.watres.2018.08.060,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1091,10.1016/j.jenvman.2021.112445,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1092,10.3934/environsci.2021008,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1093,10.3389/fmicb.2013.00017,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1094,10.1016/j.jenvman.2022.114527,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1095,10.1186/1752-153X-7-54,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1096,10.1016/j.watres.2018.12.053,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1097,10.1016/j.jhazmat.2020.123049,Exclude,Maybe,Maybe,human,Yes
+R1098,10.1016/j.watres.2021.118011,Maybe,Maybe,Maybe,human,No
+R1099,10.1016/j.watres.2020.116157,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1100,10.1016/j.watres.2017.09.007,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1101,10.1016/j.cej.2016.04.113,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1102,10.3390/app9030387,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1103,10.2175/106143014xi4031280667291,Exclude,Exclude,Exclude,human,No
+R1104,10.1016/j.envres.2021.111007,Include_Supporting,Maybe,Maybe,human,Yes
+R1105,10.1016/j.scitotenv.2018.10.223,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1106,10.1080/10643389.2019.1579629,Exclude,Exclude,Exclude,human,No
+R1107,10.1016/j.watres.2022.118374,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1108,10.1007/s11356-016-6350-9,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1109,10.1016/j.envpol.2015.11.035,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1110,10.1016/j.scitotenv.2021.151575,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1111,10.1016/j.hazl.2021.100014,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1112,10.1016/j.scitotenv.2020.140481,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1113,10.2166/wh.2020.018,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1114,10.3390/w9070547,Include_Supporting,Maybe,Maybe,human,Yes
+R1115,10.1074/jbc.M806833200,Exclude,Exclude,Exclude,human,No
+R1116,10.1016/j.biortech.2020.123264,Maybe,Exclude,Exclude,human,Yes
+R1117,10.1016/j.envpol.2018.12.005,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1118,10.1111/1462-2920.14758,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1119,10.1186/s12864-015-1752-5,Maybe,Exclude,Exclude,human,Yes
+R1120,10.1039/c4em00208c,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1121,10.17159/wsa/2019.v45.i4.7540,Exclude,Exclude,Exclude,human,No
+R1122,10.1021/acs.est.6b02640,Include_Core,Include_Core,Include_Core,human,No
+R1123,10.1016/j.jgar.2014.10.001,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1124,10.3389/fcimb.2021.686472,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1125,10.1016/j.chemosphere.2021.130910,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1126,10.1016/j.jhazmat.2022.128933,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1127,10.1016/j.jes.2020.02.023,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1128,10.1039/d1ew00312g,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1129,10.1016/j.wasman.2021.10.029,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1130,10.26789/aeb.2022.01.005,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1131,10.1016/j.watres.2019.03.079,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R1132,10.1016/j.scitotenv.2021.148919,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1133,10.1007/s11356-018-2913-2,Exclude,Include_Core,Include_Core,human,Yes
+R1134,10.1016/j.biortech.2019.121632,Exclude,Maybe,Maybe,human,Yes
+R1135,10.1016/j.scitotenv.2015.01.046,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1136,10.1016/j.watres.2014.11.021,Include_Core,Include_Core,Include_Core,human,No
+R1137,10.1007/s11783-019-1127-2,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1138,10.1016/j.watres.2022.118151,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1139,10.1021/es102765a,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1140,10.1021/acs.est.9b03486,Exclude,Maybe,Maybe,human,Yes
+R1141,10.1016/j.envpol.2021.118284,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R1142,10.12911/22998993/112797,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1143,10.1016/j.envpol.2016.10.074,Exclude,Maybe,Maybe,human,Yes
+R1144,10.1016/j.watres.2020.116194,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1145,10.1016/j.watres.2019.07.004,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1146,10.3389/fenvs.2021.783676,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1147,10.1016/j.jhazmat.2020.122544,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1148,10.1007/698-2015-359,Exclude,Exclude,Exclude,human,No
+R1149,10.1080/09593330.2021.1928295,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1150,10.3390/antibiotics11070974,Exclude,Exclude,Exclude,human,No
+R1151,10.4103/ijmm.IJMM_17_105,Exclude,Exclude,Exclude,human,No
+R1152,10.1186/1471-2180-14-66,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1153,10.3389/fmicb.2012.00307,Exclude,Exclude,Exclude,human,No
+R1154,10.1007/s42770-022-00786-2,Maybe,Maybe,Maybe,human,No
+R1155,10.1016/j.envpol.2019.113365,Exclude,Maybe,Maybe,human,Yes
+R1156,10.1016/j.jhazmat.2020.122250,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1157,10.1016/j.scitotenv.2020.142554,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1158,10.5004/dwt.2020.25712,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R1159,10.1016/j.meegid.2021.104784,Exclude,Maybe,Maybe,human,Yes
+R1160,10.1080/09593330.2018.1505960,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R1161,10.1038/s41598-021-98300-5,Maybe,Exclude,Exclude,human,Yes
+R1162,10.1016/j.jtice.2019.10.004,Include_Supporting,Maybe,Maybe,human,Yes
+R1163,10.1016/j.cej.2017.02.076,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1164,10.1021/acsestengg.1c00460,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1165,10.1080/10643389.2019.1692611,Exclude,Exclude,Exclude,human,No
+R1166,10.1016/j.envint.2020.105597,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1167,10.1016/j.watres.2019.05.034,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1168,10.1016/j.scitotenv.2016.06.228,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1169,10.1016/j.biortech.2018.06.021,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1170,10.1007/s10646-020-02306-0,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1171,10.1016/j.jes.2019.04.004,Exclude,Maybe,Maybe,human,Yes
+R1172,10.1016/j.scitotenv.2018.12.088,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1173,10.1016/j.jece.2021.106925,Include_Supporting,Exclude,Exclude,human,Yes
+R1174,10.1016/j.watres.2019.04.035,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1175,10.7717/peerj.4989,Exclude,Exclude,Exclude,human,No
+R1176,10.1016/j.scitotenv.2022.154154,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1177,10.1016/j.jhazmat.2021.128155,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1178,10.1016/j.envres.2020.110352,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1179,10.1089/ees.2018.0292,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1180,10.1128/AEM.02766-17,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1181,10.1089/ees.2019.0319,Exclude,Maybe,Maybe,human,Yes
+R1182,10.1016/j.watres.2019.03.010,Exclude,Maybe,Maybe,human,Yes
+R1183,10.1016/j.chemosphere.2013.08.068,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1184,10.1016/j.jhazmat.2020.124149,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1185,10.2166/wh.2009.019,Include_Core,Include_Core,Include_Core,human,No
+R1186,10.1128/AAC.00663-21,Exclude,Maybe,Maybe,human,Yes
+R1187,10.1016/j.cej.2022.135187,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1188,10.1016/j.chemosphere.2015.04.001,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1189,10.1128/AEM.02691-14,Exclude,Maybe,Maybe,human,Yes
+R1190,10.1016/j.scitotenv.2018.07.400,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1191,10.1007/s00253-015-7043-x,Include_Supporting,Include_Core,Include_Core,human,Yes
+R1192,10.1016/j.scitotenv.2021.151011,Exclude,Exclude,Exclude,human,No
+R1193,10.1016/j.scitotenv.2018.05.165,Include_Core,Include_Core,Include_Core,human,No
+R1194,10.1016/j.scitotenv.2021.145113,Exclude,Exclude,Exclude,human,No
+R1195,10.1016/j.scitotenv.2020.140835,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1196,,Include_Core,Include_Core,Include_Core,human,No
+R1197,10.1016/j.jece.2024.113625,Exclude,Exclude,Exclude,human,No
+R1198,10.3390/w8120580,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1199,10.3390/microorganisms13112507,Include_Core,Exclude,Exclude,human,Yes
+R1200,10.1016/j.jwpe.2023.103810,Maybe,Exclude,Exclude,human,Yes
+R1201,10.1016/j.jhazmat.2009.07.051,Maybe,Exclude,Exclude,human,Yes
+R1202,10.1016/j.envint.2019.03.060,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1203,10.1016/j.biortech.2018.02.079,Exclude,Exclude,Exclude,human,No
+R1204,10.1016/j.scitotenv.2017.06.153,Include_Core,Maybe,Maybe,human,Yes
+R1205,10.1016/j.biortech.2016.01.080,Exclude,Maybe,Maybe,human,Yes
+R1206,10.1016/j.scitotenv.2021.145951,Maybe,Exclude,Exclude,human,Yes
+R1207,10.1007/s11356-018-1688-9,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1208,10.1016/j.watres.2024.122929,Maybe,Exclude,Exclude,human,Yes
+R1209,10.1016/j.scitotenv.2016.08.054,Exclude,Exclude,Exclude,human,No
+R1210,10.1016/j.chemosphere.2017.01.041,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1211,10.2166/wst.2017.548,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1212,10.1016/j.ijheh.2019.10.006,Include_Core,Maybe,Maybe,human,Yes
+R1213,10.2134/jeq2018.12.0431,Exclude,Exclude,Exclude,human,No
+R1214,10.1016/j.ecoenv.2020.110207,Exclude,Exclude,Exclude,human,No
+R1215,10.1016/j.jhazmat.2016.06.006,Exclude,Exclude,Exclude,human,No
+R1216,10.1016/j.biortech.2023.130046,Exclude,Maybe,Maybe,human,Yes
+R1217,10.1111/j.1365-2672.2011.05072.x,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1218,10.1016/j.envpol.2016.07.036,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1219,10.1007/s40726-017-0048-6,Exclude,Exclude,Exclude,human,No
+R1220,10.1016/j.scitotenv.2019.05.063,Exclude,Exclude,Exclude,human,No
+R1221,10.1016/j.scitotenv.2019.07.230,Exclude,Exclude,Exclude,human,No
+R1222,10.1016/j.scitotenv.2018.06.016,Exclude,Exclude,Exclude,human,No
+R1223,10.1016/j.envpol.2019.03.111,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R1224,10.1016/j.scitotenv.2019.01.049,Exclude,Exclude,Exclude,human,No
+R1225,10.1007/s11356-014-2800-4,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1226,10.1016/j.jes.2023.04.012,Include_Core,Include_Core,Include_Core,human,No
+R1227,10.1016/j.cej.2016.05.131,Exclude,Maybe,Maybe,human,Yes
+R1228,10.1016/j.jwpe.2021.102328,Exclude,Exclude,Exclude,human,No
+R1229,10.1016/j.envres.2021.112654,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R1230,10.1016/j.biortech.2021.125767,Maybe,Maybe,Maybe,human,No
+R1231,10.1016/j.ecohyd.2019.06.002,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1232,10.1186/s40168-021-01216-5,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1233,10.1016/j.cej.2020.125252,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1234,10.2166/aqua.2008.072,Include_Supporting,Exclude,Exclude,human,Yes
+R1235,10.3390/ijerph182211765,Maybe,Exclude,Exclude,human,Yes
+R1236,10.1016/j.scitotenv.2024.174062,Maybe,Exclude,Exclude,human,Yes
+R1237,10.1016/j.jenvman.2020.110660,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1238,10.1016/j.jwpe.2023.103535,Exclude,Exclude,Exclude,human,No
+R1239,10.1007/s13762-026-07148-7,Exclude,Exclude,Exclude,human,No
+R1240,10.1016/j.cattod.2014.03.049,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1241,10.1371/journal.pone.0298325,Maybe,Maybe,Maybe,human,No
+R1242,10.1016/j.jwpe.2025.108097,Include_Supporting,Include_Supporting,Include_Supporting,human,No
+R1243,10.1007/s10123-023-00452-z,Include_Supporting,Exclude,Exclude,human,Yes
+R1244,10.1186/s40168-023-01672-1,Maybe,Exclude,Exclude,human,Yes
+R1245,10.1016/j.jece.2025.119976,Include_Supporting,Maybe,Maybe,human,Yes
+R1246,10.1016/j.biortech.2018.07.118,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1247,10.1016/j.chemosphere.2017.01.027,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1248,10.2166/wrd.2025.044,Exclude,Exclude,Exclude,human,No
+R1249,10.1128/AEM.02789-12,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1250,10.1021/acsestwater.2c00349,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1251,10.1016/j.scitotenv.2021.147869,Exclude,Exclude,Exclude,human,No
+R1252,10.1007/s00253-015-6404-9,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1253,10.3390/antibiotics14040341,Maybe,Maybe,Maybe,human,No
+R1254,10.1016/j.scitotenv.2019.05.454,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1255,10.3390/pathogens8040175,Exclude,Exclude,Exclude,human,No
+R1256,10.1016/j.cej.2022.138234,Maybe,Exclude,Exclude,human,Yes
+R1257,10.1016/j.watres.2025.124605,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1258,10.1016/j.scitotenv.2023.164658,Exclude,Maybe,Maybe,human,Yes
+R1259,10.3390/w17040596,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1260,10.1016/j.jenvman.2023.118639,Exclude,Exclude,Exclude,human,No
+R1261,10.1016/j.scitotenv.2020.140530,Maybe,Exclude,Exclude,human,Yes
+R1262,10.3389/fmicb.2018.03191,Exclude,Exclude,Exclude,human,No
+R1263,10.1021/acs.est.5b00644,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1264,10.1016/j.envint.2021.107047,Exclude,Exclude,Exclude,human,No
+R1265,10.1016/j.scitotenv.2022.154116,Exclude,Exclude,Exclude,human,No
+R1266,10.1016/j.envpol.2020.115571,Exclude,Exclude,Exclude,human,No
+R1267,10.1007/s11356-016-8211-y,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1268,10.3390/antibiotics11010114,Exclude,Exclude,Exclude,human,No
+R1269,10.1016/j.scitotenv.2019.134176,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1270,10.1007/s11356-018-2459-3,Include_Core,Exclude,Exclude,human,Yes
+R1271,10.1038/s41545-023-00261-x,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1272,10.1016/j.jhazmat.2020.124008,Exclude,Maybe,Maybe,human,Yes
+R1273,10.1007/s00253-019-10177-7,Exclude,Maybe,Maybe,human,Yes
+R1274,10.1007/s11356-018-1221-1,Exclude,Exclude,Exclude,human,No
+R1275,10.1016/j.jenvman.2018.10.051,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1276,10.1016/j.scitotenv.2021.151390,Exclude,Exclude,Exclude,human,No
+R1277,10.1016/j.envres.2022.113741,Include_Core,Maybe,Maybe,human,Yes
+R1278,10.1371/journal.pone.0252691,Include_Core,Maybe,Maybe,human,Yes
+R1279,10.1016/j.micres.2022.127207,Exclude,Exclude,Exclude,human,No
+R1280,10.1016/j.jece.2017.12.056,Exclude,Exclude,Exclude,human,No
+R1281,10.1016/j.jhazmat.2019.02.032,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1282,10.1016/j.envpol.2017.09.089,Include_Core,Exclude,Exclude,human,Yes
+R1283,10.1016/j.scitotenv.2022.159497,Exclude,Exclude,Exclude,human,No
+R1284,10.1016/j.envpol.2017.11.048,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1285,10.3390/w16030377,Include_Core,Maybe,Maybe,human,Yes
+R1286,10.1016/j.jece.2024.115217,Maybe,Exclude,Exclude,human,Yes
+R1287,10.3390/w10040436,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1288,10.1021/acs.est.7b05619,Include_Core,Exclude,Exclude,human,Yes
+R1289,10.3390/membranes11120967,Exclude,Exclude,Exclude,human,No
+R1290,10.2147/IDR.S336418,Maybe,Maybe,Maybe,human,No
+R1291,10.7717/peerj.7455,Include_Supporting,Maybe,Maybe,human,Yes
+R1292,10.1016/j.jclepro.2020.122411,Maybe,Exclude,Exclude,human,Yes
+R1293,10.1016/j.jwpe.2021.101990,Exclude,Exclude,Exclude,human,No
+R1294,10.1016/j.psep.2021.04.045,Exclude,Exclude,Exclude,human,No
+R1295,10.3390/w15132432,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1296,10.1016/j.jece.2023.111408,Exclude,Exclude,Exclude,human,No
+R1297,10.1038/s41598-025-14953-6,Exclude,Exclude,Exclude,human,No
+R1298,10.1016/j.envint.2021.106436,Include_Core,Exclude,Exclude,human,Yes
+R1299,10.1016/j.envpol.2022.120316,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1300,10.1016/j.jhazmat.2023.132834,Exclude,Exclude,Exclude,human,No
+R1301,10.1684/ers.2023.1754,Maybe,Exclude,Exclude,human,Yes
+R1302,10.1016/j.watres.2016.05.089,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1303,10.1007/s11356-012-1213-5,Exclude,Exclude,Exclude,human,No
+R1304,10.1016/j.watres.2024.121373,Exclude,Exclude,Exclude,human,No
+R1305,10.1016/j.scitotenv.2022.156317,Exclude,Exclude,Exclude,human,No
+R1306,10.1016/j.watcyc.2023.12.001,Exclude,Exclude,Exclude,human,No
+R1307,10.1007/s11783-025-1943-5,Include_Core,Exclude,Exclude,human,Yes
+R1308,10.1134/S2635167623700374,Exclude,Exclude,Exclude,human,No
+R1309,10.1016/j.seppur.2023.123674,Exclude,Exclude,Exclude,human,No
+R1310,10.1016/j.jwpe.2024.106926,Exclude,Exclude,Exclude,human,No
+R1311,10.1016/j.scitotenv.2017.02.107,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1312,10.1016/j.chemosphere.2023.138507,Exclude,Exclude,Exclude,human,No
+R1313,10.1016/j.jes.2024.02.005,Maybe,Exclude,Exclude,human,Yes
+R1314,10.5004/dwt.2017.21382,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1315,10.1016/j.cej.2019.123346,Exclude,Exclude,Exclude,human,No
+R1316,10.1016/j.psep.2019.07.016,Include_Core,Exclude,Exclude,human,Yes
+R1317,10.3390/w14162476,Exclude,Exclude,Exclude,human,No
+R1318,10.1016/j.scitotenv.2019.02.174,Exclude,Exclude,Exclude,human,No
+R1319,10.1016/j.seppur.2021.119599,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1320,10.1038/s44259-025-00153-9,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1321,10.1016/j.biteb.2024.101814,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1322,10.1016/j.jgar.2025.01.017,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1323,10.1016/j.jes.2020.05.014,Exclude,Exclude,Exclude,human,No
+R1324,10.1016/j.watres.2019.114906,Maybe,Include_Supporting,Include_Supporting,human,Yes
+R1325,10.1016/j.idnow.2024.104895,Exclude,Exclude,Exclude,human,No
+R1326,10.3390/su6031313,Exclude,Exclude,Exclude,human,No
+R1327,10.1016/j.scitotenv.2017.05.204,Exclude,Exclude,Exclude,human,No
+R1328,10.3389/fmicb.2023.1141383,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1329,10.1016/j.chemosphere.2022.135996,Include_Core,Exclude,Exclude,human,Yes
+R1330,10.3390/w16233407,Maybe,Exclude,Exclude,human,Yes
+R1331,10.1016/j.watres.2025.123706,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1332,10.1061/(ASCE)EE.1943-7870.0001571,Include_Supporting,Exclude,Exclude,human,Yes
+R1333,10.1007/s12649-024-02503-6,Exclude,Exclude,Exclude,human,No
+R1334,10.1186/s12889-022-12527-z,Exclude,Exclude,Exclude,human,No
+R1335,10.1007/s10661-024-13114-y,Exclude,Maybe,Maybe,human,Yes
+R1336,10.5004/dwt.2020.26372,Exclude,Exclude,Exclude,human,No
+R1337,10.1016/j.scitotenv.2019.07.092,Exclude,Exclude,Exclude,human,No
+R1338,10.1021/acs.est.5c08502,Include_Core,Include_Core,Include_Core,human,No
+R1339,10.1038/s41598-019-46015-z,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1340,10.1080/10807039.2016.1247254,Exclude,Exclude,Exclude,human,No
+R1341,10.1016/j.etap.2022.103995,Exclude,Exclude,Exclude,human,No
+R1342,10.1021/acs.est.0c03407,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1343,10.1080/09603123.2026.2622542,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1344,10.1016/j.scitotenv.2023.169832,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1345,10.1002/bit.26887,Exclude,Exclude,Exclude,human,No
+R1346,10.1016/j.scitotenv.2023.164708,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1347,10.1016/j.biteb.2024.101926,Exclude,Exclude,Exclude,human,No
+R1348,10.1007/s11356-016-6676-3,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1349,10.3390/su151612216,Maybe,Exclude,Exclude,human,Yes
+R1350,10.1111/1751-7915.13837,Exclude,Exclude,Exclude,human,No
+R1351,10.1007/s11356-021-12845-6,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1352,10.1007/s10311-022-01522-w,Exclude,Exclude,Exclude,human,No
+R1353,10.1016/j.jhazmat.2023.131200,Exclude,Maybe,Maybe,human,Yes
+R1354,10.1186/s12302-026-01357-0,Exclude,Maybe,Maybe,human,Yes
+R1355,10.5004/dwt.2022.29058,Exclude,Exclude,Exclude,human,No
+R1356,10.1016/j.chemosphere.2022.137040,Exclude,Exclude,Exclude,human,No
+R1357,10.1016/j.cej.2022.140082,Exclude,Exclude,Exclude,human,No
+R1358,10.1016/j.jhazmat.2022.128397,Exclude,Exclude,Exclude,human,No
+R1359,10.1128/AEM.02062-20,Exclude,Exclude,Exclude,human,No
+R1360,10.1016/j.jes.2022.01.038,Exclude,Exclude,Exclude,human,No
+R1361,10.1007/s11356-017-8978-5,Exclude,Exclude,Exclude,human,No
+R1362,10.4491/eer.2024.609,Exclude,Exclude,Exclude,human,No
+R1363,10.1371/journal.pone.0261306,Maybe,Exclude,Exclude,human,Yes
+R1364,10.1016/j.coesh.2025.100632,Exclude,Exclude,Exclude,human,No
+R1365,10.1016/j.envpol.2023.121995,Exclude,Exclude,Exclude,human,No
+R1366,10.1016/j.jenvman.2026.129228,Exclude,Maybe,Maybe,human,Yes
+R1367,10.1371/journal.pone.0221568,Exclude,Maybe,Maybe,human,Yes
+R1368,10.1038/s44259-025-00151-x,Include_Core,Include_Core,Include_Core,human,No
+R1369,10.1016/j.envint.2018.12.039,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1370,10.1139/AS-2023-0011,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1371,10.1016/j.envpol.2024.123849,Exclude,Exclude,Exclude,human,No
+R1372,10.1016/j.chemosphere.2017.03.063,Exclude,Maybe,Maybe,human,Yes
+R1373,10.1021/acs.est.5c16102,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1374,10.1016/j.biortech.2016.09.117,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1375,10.1016/j.watres.2019.115258,Exclude,Exclude,Exclude,human,No
+R1376,10.1002/mbo3.589,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1377,10.1016/j.chemosphere.2011.09.048,Exclude,Exclude,Exclude,human,No
+R1378,10.1016/j.chemosphere.2023.137820,Exclude,Exclude,Exclude,human,No
+R1379,10.1007/s11756-021-01006-2,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1380,10.1186/s40068-025-00430-6,Exclude,Maybe,Maybe,human,Yes
+R1381,10.3390/ijerph19031636,Exclude,Exclude,Exclude,human,No
+R1382,10.1016/j.scitotenv.2023.168856,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1383,10.1016/j.envint.2025.109624,Exclude,Maybe,Maybe,human,Yes
+R1384,10.1007/s11356-013-1594-0,Exclude,Exclude,Exclude,human,No
+R1385,10.1016/j.watres.2016.08.015,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1386,10.1016/j.ijheh.2020.113449,Exclude,Maybe,Maybe,human,Yes
+R1387,10.1016/j.mimet.2003.10.014,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1388,10.1016/j.jclepro.2021.129719,Exclude,Exclude,Exclude,human,No
+R1389,10.1016/j.biortech.2018.01.035,Exclude,Exclude,Exclude,human,No
+R1390,10.1016/j.jhazmat.2023.131095,Include_Core,Exclude,Exclude,human,Yes
+R1391,10.1016/j.jhazmat.2020.124428,Include_Core,Include_Supporting,Include_Supporting,human,Yes
+R1392,10.1016/j.scitotenv.2023.162035,Exclude,Maybe,Maybe,human,Yes
+R1393,10.1016/j.biortech.2020.123605,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1394,10.1016/j.jhazmat.2024.134011,Include_Core,Include_Core,Include_Core,human,No
+R1395,10.1016/j.jece.2025.117426,Exclude,Exclude,Exclude,human,No
+R1396,10.1021/acsestwater.3c00753,Exclude,Exclude,Exclude,human,No
+R1397,10.1016/j.jhazmat.2025.137231,Maybe,Maybe,Maybe,human,No
+R1398,10.1016/j.watres.2024.122650,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1399,10.2166/wst.2022.429,Exclude,Exclude,Exclude,human,No
+R1400,10.1016/j.scitotenv.2021.150212,Exclude,Exclude,Exclude,human,No
+R1401,10.1007/s11356-023-28382-3,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1402,10.1016/j.chemosphere.2014.02.040,Include_Core,Include_Core,Include_Core,human,No
+R1403,10.1080/09593330.2017.1380714,Exclude,Exclude,Exclude,human,No
+R1404,10.1016/j.scitotenv.2013.09.032,Include_Core,Exclude,Exclude,human,Yes
+R1405,10.1016/j.scitotenv.2016.12.063,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1406,10.1371/journal.pone.0156383,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1407,10.1016/j.chemosphere.2018.01.118,Exclude,Exclude,Exclude,human,No
+R1408,10.1016/j.envpol.2020.114741,Maybe,Exclude,Exclude,human,Yes
+R1409,10.1016/j.jhazmat.2022.130110,Exclude,Exclude,Exclude,human,No
+R1410,10.1016/j.chemosphere.2018.09.066,Maybe,Maybe,Maybe,human,No
+R1411,10.1016/j.jes.2020.02.014,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1412,10.1016/j.jhazmat.2022.128500,Exclude,Exclude,Exclude,human,No
+R1413,10.1016/j.scitotenv.2022.153918,Maybe,Include_Supporting,Include_Supporting,human,Yes
+R1414,10.1016/j.coche.2023.100951,Exclude,Exclude,Exclude,human,No
+R1415,10.1016/j.cej.2023.146980,Exclude,Maybe,Maybe,human,Yes
+R1416,10.22099/mbrc.2021.39468.1584,Maybe,Maybe,Maybe,human,No
+R1417,10.1016/j.hazadv.2025.100768,Exclude,Exclude,Exclude,human,No
+R1418,10.1016/j.biortech.2020.124181,Exclude,Exclude,Exclude,human,No
+R1419,10.1021/acs.est.9b00798,Include_Supporting,Maybe,Maybe,human,Yes
+R1420,10.5004/dwt.2019.24597,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1421,10.1021/acsestengg.5c00180,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1422,10.1371/journal.pone.0167422,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1423,10.1016/j.psep.2023.03.010,Maybe,Maybe,Maybe,human,No
+R1424,10.1016/j.jhazmat.2024.136767,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1425,10.1016/j.scitotenv.2023.168193,Include_Core,Include_Core,Include_Core,human,No
+R1426,10.2166/wh.2020.092,Exclude,Exclude,Exclude,human,No
+R1427,10.1007/s11783-019-1099-2,Exclude,Maybe,Maybe,human,Yes
+R1428,10.1016/j.jwpe.2024.105291,Exclude,Exclude,Exclude,human,No
+R1429,10.1016/j.jwpe.2020.101421,Exclude,Exclude,Exclude,human,No
+R1430,10.3390/molecules25040834,Exclude,Exclude,Exclude,human,No
+R1431,10.1016/j.procbio.2022.02.026,Include_Supporting,Exclude,Exclude,human,Yes
+R1432,10.1016/j.envpol.2016.08.081,Exclude,Include_Supporting,Include_Supporting,human,Yes
+R1433,10.1007/s10646-009-0332-3,Include_Core,Maybe,Maybe,human,Yes
+R1434,10.1007/s11356-022-19023-2,Exclude,Exclude,Exclude,human,No
+R1435,10.1016/j.scitotenv.2016.07.014,Include_Supporting,Maybe,Maybe,human,Yes
+R1436,10.1016/j.scitotenv.2020.139128,Maybe,Exclude,Exclude,human,Yes
+R1437,10.1016/j.ecolind.2020.106299,Exclude,Maybe,Maybe,human,Yes
+R1438,10.1016/j.scitotenv.2023.167618,Include_Supporting,Maybe,Maybe,human,Yes
+R1439,10.1007/s11356-019-06482-3,Exclude,Exclude,Exclude,human,No
+R1440,10.1016/j.jhazmat.2021.125047,Exclude,Exclude,Exclude,human,No
+R1441,10.1016/j.envint.2019.104982,Exclude,Exclude,Exclude,human,No
+R1442,10.1016/j.envpol.2021.117402,Exclude,Exclude,Exclude,human,No
+R1443,10.1016/j.scitotenv.2021.146964,Exclude,Exclude,Exclude,human,No
+R1444,10.1016/j.envint.2017.10.016,Exclude,Exclude,Exclude,human,No
+R1445,10.1111/1751-7915.70084,Exclude,Exclude,Exclude,human,No
+R1446,10.1016/j.scitotenv.2022.156427,Exclude,Exclude,Exclude,human,No
+R1447,10.1016/j.envpol.2023.123285,Exclude,Exclude,Exclude,human,No
+R1448,10.1007/s00253-026-13815-z,Exclude,Exclude,Exclude,human,No
+R1449,10.3389/fmicb.2025.1710583,Exclude,Exclude,Exclude,human,No
+R1450,10.3390/ijerph192113829,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1451,10.1016/j.biortech.2020.124161,Exclude,Exclude,Exclude,human,No
+R1452,10.1016/j.envint.2018.03.044,Maybe,Exclude,Exclude,human,Yes
+R1453,10.3389/fmicb.2023.1193907,Exclude,Exclude,Exclude,human,No
+R1454,10.1016/j.scitotenv.2019.134023,Exclude,Exclude,Exclude,human,No
+R1455,10.3389/fmicb.2017.02603,Exclude,Exclude,Exclude,human,No
+R1456,10.1016/j.scitotenv.2022.156805,Exclude,Exclude,Exclude,human,No
+R1457,10.1016/j.chemosphere.2022.134671,Exclude,Exclude,Exclude,human,No
+R1458,10.1016/j.biortech.2021.126197,Exclude,Exclude,Exclude,human,No
+R1459,10.3389/fmicb.2022.1100102,Include_Core,Exclude,Exclude,human,Yes
+R1460,10.1016/j.scitotenv.2021.145643,Exclude,Exclude,Exclude,human,No
+R1461,10.1002/wer.1008,Exclude,Exclude,Exclude,human,No
+R1462,10.1016/j.envpol.2023.123169,Exclude,Exclude,Exclude,human,No
+R1463,10.1016/j.scitotenv.2022.155250,Exclude,Exclude,Exclude,human,No
+R1464,10.1016/j.watres.2012.11.027,Exclude,Exclude,Exclude,human,No
+R1465,10.1016/j.envpol.2022.119870,Exclude,Exclude,Exclude,human,No
+R1466,10.1016/j.wroa.2020.100065,Exclude,Exclude,Exclude,human,No
+R1467,10.1016/j.ecoenv.2013.01.016,Exclude,Exclude,Exclude,human,No
+R1468,10.1016/j.scitotenv.2023.167862,Exclude,Exclude,Exclude,human,No
+R1469,10.1080/07388551.2020.1805585,Exclude,Exclude,Exclude,human,No
+R1470,10.3389/fmicb.2017.02298,Maybe,Exclude,Exclude,human,Yes
+R1471,10.1016/j.scitotenv.2013.01.032,Exclude,Exclude,Exclude,human,No
+R1472,10.1016/j.jhazmat.2021.127495,Exclude,Exclude,Exclude,human,No
+R1473,10.1016/j.scitotenv.2021.147448,Exclude,Exclude,Exclude,human,No
+R1474,10.1016/j.scitotenv.2023.164291,Exclude,Exclude,Exclude,human,No
+R1475,10.3390/microorganisms8101567,Exclude,Exclude,Exclude,human,No
+R1476,10.1016/j.envint.2019.105026,Exclude,Exclude,Exclude,human,No
+R1477,10.3390/antibiotics13070668,Exclude,Exclude,Exclude,human,No
+R1478,10.1016/j.scitotenv.2023.164523,Exclude,Exclude,Exclude,human,No
+R1479,10.3389/fmicb.2021.717809,Exclude,Exclude,Exclude,human,No
+R1480,10.1016/j.watres.2017.10.007,Exclude,Exclude,Exclude,human,No
+R1481,10.1016/j.jes.2024.10.030,Exclude,Exclude,Exclude,human,No
+R1482,10.1007/s12223-023-01083-7,Exclude,Exclude,Exclude,human,No
+R1483,10.1007/s11356-024-33844-3,Exclude,Exclude,Exclude,human,No
+R1484,10.3390/ijms27073255,Exclude,Exclude,Exclude,human,No
+R1485,10.1016/j.scitotenv.2020.140997,Exclude,Exclude,Exclude,human,No
+R1486,10.3390/life14091065,Exclude,Exclude,Exclude,human,No
+R1487,10.1016/j.envres.2021.112373,Exclude,Exclude,Exclude,human,No
+R1488,10.1016/j.scitotenv.2018.08.130,Exclude,Exclude,Exclude,human,No
+R1489,10.1016/j.biortech.2020.123228,Exclude,Exclude,Exclude,human,No
+R1490,10.1016/j.envpol.2023.123115,Exclude,Exclude,Exclude,human,No
+R1491,10.1016/j.jes.2024.01.005,Exclude,Exclude,Exclude,human,No
+R1492,10.1111/lam.12325,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1493,10.1016/j.envpol.2025.126851,Exclude,Exclude,Exclude,human,No
+R1494,10.1016/j.jhazmat.2025.137413,Exclude,Exclude,Exclude,human,No
+R1495,10.2196/33365,Exclude,Exclude,Exclude,human,No
+R1496,10.1016/j.celrep.2026.117128,Include_Core,,Include_Core,model decision retained (non-exclusion),No
+R1497,10.1016/j.jenvman.2026.128630,Exclude,Exclude,Exclude,human,No
+R1498,10.1016/j.scitotenv.2023.162772,Exclude,Exclude,Exclude,human,No
+R1499,10.1007/s11274-022-03334-0,Exclude,Exclude,Exclude,human,No
+R1500,10.3390/antibiotics11070849,Exclude,Exclude,Exclude,human,No
+R1501,10.1016/j.scitotenv.2019.136312,Exclude,Exclude,Exclude,human,No
+R1502,10.3390/ijerph191912853,Exclude,Exclude,Exclude,human,No
+R1503,10.3390/antibiotics11060747,Exclude,Exclude,Exclude,human,No
+R1504,10.3390/antibiotics14020131,Exclude,Exclude,Exclude,human,No
+R1505,10.1007/s11356-025-36253-2,Exclude,Exclude,Exclude,human,No
+R1506,10.2166/wh.2025.372,Exclude,Exclude,Exclude,human,No
+R1507,10.1016/j.watres.2020.116455,Exclude,Exclude,Exclude,human,No
+R1508,10.2174/0929867329666220802093415,Exclude,Exclude,Exclude,human,No
+R1509,10.1016/j.jenvman.2024.122115,Exclude,Exclude,Exclude,human,No
+R1510,10.1007/s11356-021-17733-7,Exclude,Exclude,Exclude,human,No
+R1511,10.3390/ijerph182111046,Exclude,Exclude,Exclude,human,No
+R1512,10.1016/j.envres.2020.110664,Exclude,Exclude,Exclude,human,No
+R1513,10.1007/s10661-020-08678-4,Exclude,Exclude,Exclude,human,No
+R1514,10.3390/ijerph21080983,Exclude,Exclude,Exclude,human,No
+R1515,10.3390/ijerph20105868,Maybe,Exclude,Exclude,human,Yes
+R1516,10.1016/j.jhazmat.2018.07.092,Exclude,Exclude,Exclude,human,No
+R1517,10.1016/j.heliyon.2020.e03899,Exclude,Exclude,Exclude,human,No
+R1518,10.1016/j.ese.2022.100145,Exclude,Exclude,Exclude,human,No
+R1519,10.3390/molecules26164890,Include_Supporting,,Include_Supporting,model decision retained (non-exclusion),No
+R1520,10.1016/j.chemosphere.2020.128177,Exclude,Exclude,Exclude,human,No
+R1521,10.1016/j.scitotenv.2024.170433,Exclude,Exclude,Exclude,human,No
+R1522,10.3389/fmicb.2024.1339469,Exclude,Exclude,Exclude,human,No
+R1523,10.1016/j.jhin.2016.01.010,Exclude,Exclude,Exclude,human,No
+R1524,10.3390/antibiotics10091070,Exclude,Exclude,Exclude,human,No
+R1525,10.1016/j.imj.2024.100092,Exclude,Exclude,Exclude,human,No
+R1526,10.1016/j.scitotenv.2026.181385,Exclude,Exclude,Exclude,human,No
+R1527,10.1002/wer.1233,Exclude,Exclude,Exclude,human,No
+R1528,10.1016/j.scitotenv.2020.142865,Exclude,Exclude,Exclude,human,No
+R1529,10.3389/fcimb.2022.946184,Exclude,Exclude,Exclude,human,No
+R1530,10.1128/aem.00083-26,Exclude,Exclude,Exclude,human,No

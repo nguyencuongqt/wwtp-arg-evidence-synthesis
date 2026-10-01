@@ -1,0 +1,10 @@
+exclusion_code,description,n_excluded_at_screening,n_excluded_at_eligibility_reassessment,n_total
+E1,Not ARG/MGE-related,139,0,139
+E3,No fate or removal evidence,106,10,116
+E9,Matrix outside scope,96,4,100
+E11,Synthetic wastewater only,72,5,77
+E6,Methods development only,28,0,28
+E5,Not a research article,6,0,6
+E2,Not a wastewater-treatment system,3,0,3
+E4,Review article,3,0,3
+E7,Not in English,1,0,1

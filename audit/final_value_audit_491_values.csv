@@ -1,0 +1,492 @@
+audit_id,row_id,record_id,doi,dataset,target,gene_family,matrix_or_route,treatment,extracted_value,extracted_unit,decision,correct_value,correct_unit,page_and_location,reviewer_initials
+VA0001,O_000062,R0052,10.1016/j.envpol.2022.120618,percent_removal,tetM,tet,fresh swine manure -> composted swine manure (animal_manure_to_composted_manure),composting,92.0,percent,Wrong matrix/stage,,,"p. 5, Results and discussion, section 3.3",XCN
+VA0002,O_000063,R0052,10.1016/j.envpol.2022.120618,percent_removal,sul2,sul,fresh swine manure -> composted swine manure (animal_manure_to_composted_manure),composting,48.0,percent,Wrong matrix/stage,,,"p. 5, Results and discussion, section 3.3",XCN
+VA0003,O_000114,R0090,10.1016/j.watres.2023.120761,log10_reduction,ermB,erm,influent -> effluent (influent_to_final_effluent),activated sludge-based WWTP,2.3,log-units removal,Correct,,,"p. 5, Results 3.2",XCN
+VA0004,O_000117,R0090,10.1016/j.watres.2023.120761,log10_reduction,sul1,sul,influent -> effluent (influent_to_final_effluent),activated sludge-based WWTP,1.2,log-units removal,Correct,,,"p. 6, Results 3.2",XCN
+VA0005,O_000190,R0132,10.1007/s11356-023-31287-w,percent_removal,intI1,intI1,influent -> final effluent (influent_to_final_effluent),vermifiltration,98.24,percent,Wrong matrix/stage,,,"p. 7, Results",XCN
+VA0006,O_000191,R0132,10.1007/s11356-023-31287-w,percent_removal,tetO,tet,influent -> final effluent (influent_to_final_effluent),vermifiltration,28.2,percent,Not a treatment comparison,,,"p. 7, Results",XCN
+VA0007,O_000192,R0132,10.1007/s11356-023-31287-w,percent_removal,tetW,tet,influent -> final effluent (influent_to_final_effluent),vermifiltration,24.8,percent,Not a treatment comparison,,,"p. 7, Results",XCN
+VA0008,O_000193,R0132,10.1007/s11356-023-31287-w,percent_removal,tetM,tet,influent -> final effluent (influent_to_final_effluent),vermifiltration,20.2,percent,Not a treatment comparison,,,"p. 7, Results",XCN
+VA0009,O_000194,R0132,10.1007/s11356-023-31287-w,percent_removal,tetQ,tet,influent -> final effluent (influent_to_final_effluent),vermifiltration,25.4,percent,Not a treatment comparison,,,"p. 7, Results",XCN
+VA0010,O_000195,R0132,10.1007/s11356-023-31287-w,percent_removal,sul1,sul,influent -> final effluent (influent_to_final_effluent),vermifiltration,29.6,percent,Not a treatment comparison,,,"p. 7, Results",XCN
+VA0011,O_000196,R0132,10.1007/s11356-023-31287-w,percent_removal,sul2,sul,influent -> final effluent (influent_to_final_effluent),vermifiltration,80.8,percent,Not a treatment comparison,,,"p. 7, Results",XCN
+VA0012,O_000292,R0180,10.1007/s41742-023-00552-8,log10_reduction,blaTEM,bla,influent -> final effluent (influent_to_final_effluent),anaerobic digestion followed by anaerobic ponds,3.07,log,Correct,,,"p. 7, Results",XCN
+VA0013,O_000293,R0180,10.1007/s41742-023-00552-8,log10_reduction,ermB,erm,influent -> final effluent (influent_to_final_effluent),anaerobic digestion followed by anaerobic ponds,1.54,log,Correct,,,"p. 7, Results",XCN
+VA0014,O_000317,R0196,10.1016/j.watres.2020.116752,log10_reduction,ermB,erm,influent -> final effluent (influent_to_final_effluent),AB-line versus aerobic granular sludge,0.22,logs,Not a treatment comparison,,,"p. 6, Results 3.2.1",XCN
+VA0015,O_000493,R0280,10.1061/JHTRBP.HZENG-1601,log10_reduction,sul1,sul,influent -> final effluent (influent_to_final_effluent),modified SBR,3.0,orders of magnitude,Not a treatment comparison,,,"p. 4, Results and Discussion",XCN
+VA0016,O_000494,R0280,10.1061/JHTRBP.HZENG-1601,log10_reduction,tetA,tet,influent -> final effluent (influent_to_final_effluent),modified SBR,2.0,orders of magnitude,Not a treatment comparison,,,"p. 5, Results and Discussion",XCN
+VA0017,O_000496,R0280,10.1061/JHTRBP.HZENG-1601,log10_reduction,qnrS,qnr,influent -> final effluent (influent_to_final_effluent),modified SBR,1.0,orders of magnitude,Not a treatment comparison,,,"p. 5, Results and Discussion",XCN
+VA0018,O_000499,R0280,10.1061/JHTRBP.HZENG-1601,log10_reduction,intI1,intI1,influent -> final effluent (influent_to_final_effluent),modified SBR,1.4,orders of magnitude,Not a treatment comparison,,,"p. 4, Results and Discussion",XCN
+VA0019,O_000518,R0293,10.1007/s10661-025-14745-5,log10_reduction,tetM,tet,influent -> secondary effluent (influent_to_secondary_effluent),secondary biological treatment,0.27,log,Correct,,,"p. 15, Results and discussion",XCN
+VA0020,O_000540,R0307,10.3389/fmicb.2017.01282,log10_reduction,mcr-1,other,influent -> secondary effluent (influent_to_secondary_effluent),mechanical separation; activated sludge; sedimentation,1.0,log scale,Group or range value,,,"p. 4, Results / Comparing Different WWTPs According to the Presence of mcr-1 Gene",XCN
+VA0021,O_000666,R0367,10.1016/j.chemosphere.2022.137362,percent_removal,tetX,tet,activated sludge -> anaerobic sludge (activated_sludge_to_anaerobic_sludge),anaerobic digestion,70.0,percent,Not a treatment comparison,,,"p. 4, Results 3.1",XCN
+VA0022,O_000922,R0495,10.1016/j.scitotenv.2020.144176,percent_removal,vanA,other,influent -> effluent (influent_to_final_effluent),activated sludge,72.9,%,Not a treatment comparison,,,"p. 4, Results",XCN
+VA0023,O_000941,R0505,10.1016/j.envint.2013.01.019,log10_reduction,intI1,intI1,influent -> effluent (influent_to_final_effluent),municipal wastewater treatment systems,1.5,orders of magnitude,Group or range value,,,"p. 5, Results 3.3",XCN
+VA0024,O_000977,R0520,10.1016/j.wroa.2026.100506,percent_removal,blaOXA,bla,influent -> effluent (influent_to_final_effluent),conventional wastewater treatment,59.8,percent,Group or range value,,,"p. 1, Results",XCN
+VA0025,O_000978,R0520,10.1016/j.wroa.2026.100506,percent_removal,blaSHV,bla,influent -> effluent (influent_to_final_effluent),conventional wastewater treatment,59.8,percent,Group or range value,,,"p. 1, Results",XCN
+VA0026,O_000979,R0520,10.1016/j.wroa.2026.100506,percent_removal,blaTEM,bla,influent -> effluent (influent_to_final_effluent),conventional wastewater treatment,59.8,percent,Group or range value,,,"p. 1, Results",XCN
+VA0027,O_000980,R0520,10.1016/j.wroa.2026.100506,percent_removal,ermB,erm,influent -> effluent (influent_to_final_effluent),conventional wastewater treatment,59.8,percent,Group or range value,,,"p. 1, Results",XCN
+VA0028,O_000981,R0520,10.1016/j.wroa.2026.100506,percent_removal,intI1,intI1,influent -> effluent (influent_to_final_effluent),conventional wastewater treatment,59.8,percent,Group or range value,,,"p. 1, Results",XCN
+VA0029,O_000982,R0520,10.1016/j.wroa.2026.100506,percent_removal,qnrS,qnr,influent -> effluent (influent_to_final_effluent),conventional wastewater treatment,59.8,percent,Group or range value,,,"p. 1, Results",XCN
+VA0030,O_000983,R0520,10.1016/j.wroa.2026.100506,percent_removal,tetM,tet,influent -> effluent (influent_to_final_effluent),conventional wastewater treatment,59.8,percent,Group or range value,,,"p. 1, Results",XCN
+VA0031,O_001089,R0569,10.1016/j.psep.2024.10.092,percent_removal,qnrS,qnr,influent -> effluent (influent_to_final_effluent),reactive electrochemical ceramic membrane,85.21,percent,Not a treatment comparison,,,"p. 4, Results and discussion",XCN
+VA0032,O_001118,R0591,10.1007/s11356-022-24545-w,log10_reduction,blaCTX-M,bla,influent -> final effluent (influent_to_final_effluent),MWWTP,4.54,log,Correct,,,"p. 4, Results - Occurrence of ARGs in eDNA and iDNA",XCN
+VA0033,O_001119,R0591,10.1007/s11356-022-24545-w,log10_reduction,tetA,tet,influent -> final effluent (influent_to_final_effluent),MWWTP,4.47,log,Correct,,,"p. 4, Results - Occurrence of ARGs in eDNA and iDNA",XCN
+VA0034,O_001120,R0591,10.1007/s11356-022-24545-w,log10_reduction,sul1,sul,influent -> final effluent (influent_to_final_effluent),MWWTP,4.07,log,Correct,,,"p. 4, Results - Occurrence of ARGs in eDNA and iDNA",XCN
+VA0035,O_001121,R0591,10.1007/s11356-022-24545-w,log10_reduction,aadA,other,influent -> final effluent (influent_to_final_effluent),MWWTP,4.02,log,Correct,,,"p. 4, Results - Occurrence of ARGs in eDNA and iDNA",XCN
+VA0036,O_001122,R0591,10.1007/s11356-022-24545-w,log10_reduction,ermB,erm,influent -> final effluent (influent_to_final_effluent),MWWTP,3.64,log,Correct,,,"p. 4, Results - Occurrence of ARGs in eDNA and iDNA",XCN
+VA0037,O_001131,R0595,10.1016/j.jece.2025.116510,percent_removal,sul2,sul,influent -> effluent (influent_to_final_effluent),baffled photobioreactor,10.0,%,Group or range value,,,"p. 4, Results 3.1",XCN
+VA0038,O_001182,R0620,10.1016/j.cej.2023.146916,percent_removal,intI1,intI1,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),PMS/O3,78.0,percent,Not a treatment comparison,,,"p. 5, Results",XCN
+VA0039,O_001183,R0620,10.1016/j.cej.2023.146916,percent_removal,intI1,intI1,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),ozonation,66.0,percent,Not a treatment comparison,,,"p. 5, Results",XCN
+VA0040,O_001507,R0804,10.2166/wrd.2022.018,log10_reduction,blaTEM,bla,influent -> effluent (influent_to_final_effluent),AnMBR,4.0,LRV,Group or range value,,,"p. 11, Results",XCN
+VA0041,O_001596,R0841,10.1016/j.biortech.2019.122513,percent_removal,tetM,tet,sewage sludge -> composted sludge (sewage_sludge_to_biosolids),sludge composting,91.7,percent,Group or range value,,,"p. 5, Results, section 3.2",XCN
+VA0042,O_001597,R0841,10.1016/j.biortech.2019.122513,percent_removal,tetQ,tet,sewage sludge -> composted sludge (sewage_sludge_to_biosolids),sludge composting,98.0,percent,Group or range value,,,"p. 5, Results, section 3.2",XCN
+VA0043,O_001598,R0841,10.1016/j.biortech.2019.122513,percent_removal,blaTEM,bla,sewage sludge -> composted sludge (sewage_sludge_to_biosolids),sludge composting,68.5,percent,Group or range value,,,"Results, section 3.2",XCN
+VA0044,O_001599,R0841,10.1016/j.biortech.2019.122513,percent_removal,blaOXA,bla,sewage sludge -> composted sludge (sewage_sludge_to_biosolids),sludge composting,90.2,percent,Group or range value,,,"Results, section 3.2",XCN
+VA0045,O_001600,R0841,10.1016/j.biortech.2019.122513,percent_removal,ermB,erm,sewage sludge -> composted sludge (sewage_sludge_to_biosolids),sludge composting,23.9,percent,Group or range value,,,"p. 5, Results, section 3.2",XCN
+VA0046,O_001601,R0841,10.1016/j.biortech.2019.122513,percent_removal,mefA,erm,sewage sludge -> composted sludge (sewage_sludge_to_biosolids),sludge composting,99.3,percent,Group or range value,,,"p. 5, Results, section 3.2",XCN
+VA0047,O_001602,R0841,10.1016/j.biortech.2019.122513,percent_removal,mexF,other,sewage sludge -> composted sludge (sewage_sludge_to_biosolids),sludge composting,94.4,percent,Group or range value,,,"p. 5, Results, section 3.2",XCN
+VA0048,O_001664,R0869,10.1016/j.scitotenv.2021.149344,percent_removal,intI1,intI1,sewage sludge -> aerobically digested sludge (sewage_sludge_to_anaerobic_sludge),aerobic sludge digestion,86.1,percent,Wrong matrix/stage,,,"p. 4, Results 3.2",XCN
+VA0049,O_001712,R0885,10.1007/s11783-019-1116-5,log10_reduction,tetA,tet,influent -> secondary effluent (influent_to_secondary_effluent),biological treatment (CASS),1.19,orders of magnitude,Group or range value,,,"p. 5, Results",XCN
+VA0050,O_001713,R0885,10.1007/s11783-019-1116-5,log10_reduction,tetO,tet,influent -> secondary effluent (influent_to_secondary_effluent),biological treatment (CASS),1.56,orders of magnitude,Group or range value,,,"p. 5, Results",XCN
+VA0051,O_001714,R0885,10.1007/s11783-019-1116-5,log10_reduction,tetW,tet,influent -> secondary effluent (influent_to_secondary_effluent),biological treatment (CASS),1.34,orders of magnitude,Group or range value,,,"p. 5, Results",XCN
+VA0052,O_001715,R0885,10.1007/s11783-019-1116-5,log10_reduction,sulI,sul,influent -> secondary effluent (influent_to_secondary_effluent),biological treatment (CASS),0.88,orders of magnitude,Group or range value,,,"p. 5, Results",XCN
+VA0053,O_001716,R0885,10.1007/s11783-019-1116-5,log10_reduction,sulII,sul,influent -> secondary effluent (influent_to_secondary_effluent),biological treatment (CASS),0.76,orders of magnitude,Group or range value,,,"p. 5, Results",XCN
+VA0054,O_001717,R0885,10.1007/s11783-019-1116-5,log10_reduction,blaCTX-M,bla,influent -> secondary effluent (influent_to_secondary_effluent),biological treatment (CASS),0.98,orders of magnitude,Group or range value,,,"p. 5, Results",XCN
+VA0055,O_001718,R0885,10.1007/s11783-019-1116-5,log10_reduction,tetA,tet,secondary effluent -> final effluent (secondary_effluent_to_final_effluent),UV disinfection,0.41,orders of magnitude,Correct,,,"p. 6, Results",XCN
+VA0056,O_001719,R0885,10.1007/s11783-019-1116-5,log10_reduction,tetO,tet,secondary effluent -> final effluent (secondary_effluent_to_final_effluent),UV disinfection,0.28,orders of magnitude,Correct,,,"p. 6, Results",XCN
+VA0057,O_001720,R0885,10.1007/s11783-019-1116-5,log10_reduction,tetW,tet,secondary effluent -> final effluent (secondary_effluent_to_final_effluent),UV disinfection,0.27,orders of magnitude,Correct,,,"p. 6, Results",XCN
+VA0058,O_001721,R0885,10.1007/s11783-019-1116-5,log10_reduction,sulI,sul,secondary effluent -> final effluent (secondary_effluent_to_final_effluent),UV disinfection,0.27,orders of magnitude,Correct,,,"p. 6, Results",XCN
+VA0059,O_001722,R0885,10.1007/s11783-019-1116-5,log10_reduction,sulII,sul,secondary effluent -> final effluent (secondary_effluent_to_final_effluent),UV disinfection,0.33,orders of magnitude,Correct,,,"p. 6, Results",XCN
+VA0060,O_001723,R0885,10.1007/s11783-019-1116-5,log10_reduction,blaCTX-M,bla,secondary effluent -> final effluent (secondary_effluent_to_final_effluent),UV disinfection,0.29,orders of magnitude,Correct,,,"p. 6, Results",XCN
+VA0061,O_001724,R0885,10.1007/s11783-019-1116-5,log10_reduction,intI1,intI1,secondary effluent -> final effluent (secondary_effluent_to_final_effluent),UV disinfection,0.3,orders of magnitude,Correct,,,"p. 6, Results",XCN
+VA0062,O_001727,R0885,10.1007/s11783-019-1116-5,log10_reduction,tetO,tet,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),activated carbon adsorption,1.1,orders of magnitude,Group or range value,,,"p. 7, Results",XCN
+VA0063,O_001728,R0885,10.1007/s11783-019-1116-5,log10_reduction,tetW,tet,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),activated carbon adsorption,1.02,orders of magnitude,Group or range value,,,"p. 7, Results",XCN
+VA0064,O_001729,R0885,10.1007/s11783-019-1116-5,log10_reduction,blaCTX-M,bla,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),activated carbon adsorption,0.53,orders of magnitude,Group or range value,,,"p. 7, Results",XCN
+VA0065,O_001731,R0885,10.1007/s11783-019-1116-5,log10_reduction,intI1,intI1,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),activated carbon adsorption,1.15,orders of magnitude,Correct,,,"p. 7, Results",XCN
+VA0066,O_001734,R0885,10.1007/s11783-019-1116-5,log10_reduction,sulI,sul,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),ozonation + AGAC,2.75,orders of magnitude,Correct,,,"p. 8, Results",XCN
+VA0067,O_001735,R0885,10.1007/s11783-019-1116-5,log10_reduction,sulII,sul,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),ozonation + AGAC,2.63,orders of magnitude,Correct,,,"p. 8, Results",XCN
+VA0068,O_001736,R0885,10.1007/s11783-019-1116-5,log10_reduction,intI1,intI1,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),ozonation + AGAC,2.44,orders of magnitude,Correct,,,"p. 8, Results",XCN
+VA0069,O_001752,R0896,10.1089/mdr.2017.0406,percent_removal,tetW,tet,activated sludge -> secondary effluent (activated_sludge_to_secondary_effluent),biological treatment,24.0,%,Not a treatment comparison,,,"p. 8, Results",XCN
+VA0070,O_002110,R1028,10.1021/es303652q,log10_reduction,mecA,bla,secondary effluent / filtered wastewater effluent -> UV-treated wastewater effluent (secondary_effluent_to_final_effluent),UV disinfection,3.0,log,Not a treatment comparison,,,"p. 7, Results / Discussion",XCN
+VA0071,O_002111,R1028,10.1021/es303652q,log10_reduction,vanA,other,secondary effluent / filtered wastewater effluent -> UV-treated wastewater effluent (secondary_effluent_to_final_effluent),UV disinfection,3.0,log,Not a treatment comparison,,,"p. 7, Results / Discussion",XCN
+VA0072,O_002112,R1028,10.1021/es303652q,log10_reduction,tet(A),tet,secondary effluent / filtered wastewater effluent -> UV-treated wastewater effluent (secondary_effluent_to_final_effluent),UV disinfection,1.0,log,Not a treatment comparison,,,"p. 7, Results / Discussion",XCN
+VA0073,O_002113,R1028,10.1021/es303652q,log10_reduction,ampC,bla,secondary effluent / filtered wastewater effluent -> UV-treated wastewater effluent (secondary_effluent_to_final_effluent),UV disinfection,1.0,log,Not a treatment comparison,,,"p. 7, Results / Discussion",XCN
+VA0074,O_002249,R1063,10.1016/j.watres.2019.115277,percent_removal,blaOXA-1,bla,influent -> effluent (influent_to_final_effluent),mechanical-biological wastewater treatment,47.19,%,Not a treatment comparison,,,"p. 4, Results 3.4",XCN
+VA0075,O_002250,R1063,10.1016/j.watres.2019.115277,percent_removal,blaNDM,bla,influent -> effluent (influent_to_final_effluent),mechanical-biological wastewater treatment,56.8,%,Not a treatment comparison,,,"p. 4, Results 3.4",XCN
+VA0076,O_002251,R1063,10.1016/j.watres.2019.115277,percent_removal,blaKPC,bla,influent -> effluent (influent_to_final_effluent),mechanical-biological wastewater treatment,96.0,%,Not a treatment comparison,,,"p. 4, Results 3.4",XCN
+VA0077,O_002252,R1063,10.1016/j.watres.2019.115277,percent_removal,blaVIM,bla,influent -> effluent (influent_to_final_effluent),mechanical-biological wastewater treatment,98.7,%,Not a treatment comparison,,,"p. 4, Results 3.4",XCN
+VA0078,O_004540,R1070,10.2175/106143012X13373575831394,log10_reduction,intI1,intI1,raw sludge -> digested sludge (sewage_sludge_to_anaerobic_sludge),,2.0,log reduction,Correct,,,"p. 1, abstract",XCN
+VA0079,O_004547,R1070,10.2175/106143012X13373575831394,log10_reduction,intI1,intI1,raw sludge -> digested sludge (sewage_sludge_to_anaerobic_sludge),,2.0,log reduction,Duplicate row,,,"p. 9, conclusions",XCN
+VA0080,O_002415,R1122,10.1021/acs.est.6b02640,log10_reduction,sul1,sul,secondary effluent -> ozonated effluent (secondary_effluent_to_final_effluent),ozonation,2.0,log units,Correct,,,"p. 5, Results 3.2",XCN
+VA0081,O_002474,R1135,10.1016/j.scitotenv.2015.01.046,percent_removal,ermB,erm,influent -> secondary effluent (influent_to_secondary_effluent),conventional wastewater treatment,98.0,percent,Group or range value,,,"p. 6, 3.3.2.1. WWPT 1",XCN
+VA0082,O_002476,R1135,10.1016/j.scitotenv.2015.01.046,percent_removal,ermB,erm,influent -> secondary effluent (influent_to_secondary_effluent),conventional wastewater treatment,99.7,percent,Correct,,,"p. 7, 3.3.2.3. WWTP 3",XCN
+VA0083,O_002571,R1169,10.1016/j.biortech.2018.06.021,log10_reduction,mcr-1,other,influent -> final effluent (influent_to_final_effluent),WWTP,3.0,logs,Group or range value,,,"p. 5, Results, section 3.3",XCN
+VA0084,O_002597,R1177,10.1016/j.jhazmat.2021.128155,log10_reduction,blaTEM,bla,influent -> effluent (influent_to_final_effluent),biological treatment,0.17,log units,Correct,,,"p. 17, Results 3.3",XCN
+VA0085,M_000047,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,effluent [final_effluent],UVC photoreactor,128865724.16,copies/mL,Correct,,,"p. 5, Table 1",XCN
+VA0086,M_000051,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,effluent [final_effluent],UVC photoreactor,1420869186.69,copies/mL,Correct,,,"p. 5, Table 1",XCN
+VA0087,M_006189,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,final effluent [final_effluent],,10000000.0,copies/mL,Cited literature value,,,text,XCN
+VA0088,M_006190,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,Effluent [final_effluent],,10036730.45,copies/mL,Correct,,,Table_1,XCN
+VA0089,M_006192,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,Effluent [final_effluent],,1420869186.69,copies/mL,Duplicate row,,,Table_1,XCN
+VA0090,M_006194,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,Effluent [final_effluent],,27669783277.93,copies/mL,Group or range value,,,Table_1,XCN
+VA0091,M_006195,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,Effluent [final_effluent],,310042.8,copies/mL,Group or range value,,,Table_1,XCN
+VA0092,M_006207,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,Effluent [final_effluent],,128865724.16,copies/mL,Duplicate row,,,Table_1,XCN
+VA0093,M_006210,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,Effluent [final_effluent],,2245098039.22,copies/mL,Group or range value,,,Table_1,XCN
+VA0094,M_006211,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,Effluent [final_effluent],,3136765.82,copies/mL,Correct,,,Table_1,XCN
+VA0095,M_006212,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,Effluent [final_effluent],,649679.38,copies/mL,Group or range value,,,Table_1,XCN
+VA0096,M_003096,R0080,10.1007/s11356-022-18749-3,liquid_abundance,intI1,intI1,final effluent [final_effluent],,10000000.0,copies/mL,Correct,,,"p. 8, text",XCN
+VA0097,M_000286,R0170,10.1016/j.jhazmat.2021.127352,liquid_abundance,intI1,intI1,effluent [final_effluent],EGSB anaerobic reactor,19300000.0,copies/mL,Correct,,,"p. 4, Results 3.1.1",XCN
+VA0098,M_000287,R0170,10.1016/j.jhazmat.2021.127352,liquid_abundance,intI1,intI1,effluent [final_effluent],EGSB anaerobic reactor,2270000.0,copies/mL,Correct,,,"p. 4, Results 3.1.1",XCN
+VA0099,M_006297,R0180,10.1007/s41742-023-00552-8,liquid_abundance,intI1,intI1,effluent [final_effluent],,5.0,log copies mL-1,Group or range value,,,"p. 9, text",XCN
+VA0100,M_003160,R0211,10.1016/j.watres.2022.118571,liquid_abundance,sul1,sul,effluent [final_effluent],,7.5,log10 gene copies mL^-1,Correct,,,"p. 9, text",XCN
+VA0101,M_003161,R0211,10.1016/j.watres.2022.118571,liquid_abundance,intI1,intI1,effluent [final_effluent],,7.0,log10 gene copies mL^-1,Correct,,,"p. 9, text",XCN
+VA0102,M_000518,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,intI1,intI1,final effluent [final_effluent],activated sludge,2100.0,copies/ml,Correct,,,"p. 4, Results 3.3; Table 4",XCN
+VA0103,M_000530,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,sul1,sul,final effluent [final_effluent],activated sludge,15000.0,copies/ml,Correct,,,"p. 5, Results 3.3; Table 4",XCN
+VA0104,M_000534,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,sul2,sul,final effluent [final_effluent],activated sludge,6200.0,copies/ml,Correct,,,"p. 4, Results 3.3; Table 4",XCN
+VA0105,M_006316,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,intI1,intI1,Effluent [final_effluent],,2100.0,copies/ml,Duplicate row,,,"p. 4, Table_4",XCN
+VA0106,M_006321,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,sul1,sul,Effluent [final_effluent],,1500.0,copies/ml,Corrected,4.176,log10 copies/mL,Table_4,XCN
+VA0107,M_006326,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,sul2,sul,Effluent [final_effluent],,620.0,copies/ml,Corrected,3.792,log10 copies/mL,Table_4,XCN
+VA0108,M_001028,R0489,10.1016/j.scitotenv.2020.140466,liquid_abundance,intI1,intI1,final effluent [final_effluent],municipal WWTP effluent,369.7,copies/mL,Correct,,,"p. 5, Results 3.1",XCN
+VA0109,M_001229,R0570,10.1007/s11356-024-35832-z,liquid_abundance,sul2,sul,effluent [final_effluent],township WWTPs,301000.0,copies/mL,Correct,,,"p. 7, Results and discussion; Occurrence and abundance of ARGs",XCN
+VA0110,M_001231,R0570,10.1007/s11356-024-35832-z,liquid_abundance,sul1,sul,effluent [final_effluent],township WWTPs,278000.0,copies/mL,Correct,,,"p. 7, Results and discussion; Occurrence and abundance of ARGs",XCN
+VA0111,M_001263,R0591,10.1007/s11356-022-24545-w,liquid_abundance,intI1,intI1,final effluent [final_effluent],MWWTP,540.0,copies/mL,Wrong matrix/stage,,,"p. 6, Results - Network analysis between MGEs and ARGs",XCN
+VA0112,M_001266,R0591,10.1007/s11356-022-24545-w,liquid_abundance,intI1,intI1,final effluent [final_effluent],MWWTP,125.0,copies/mL,Wrong matrix/stage,,,"p. 6, Results - Network analysis between MGEs and ARGs",XCN
+VA0113,M_004047,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,sul1,sul,municipal WWTP effluent WAE [final_effluent],,100000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0114,M_004048,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,intI1,intI1,municipal WWTP effluent WAE [final_effluent],,100000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0115,M_004052,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,sul1,sul,municipal WWTP effluent WBE [final_effluent],,10000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0116,M_004053,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,intI1,intI1,municipal WWTP effluent WBE [final_effluent],,10000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0117,M_001495,R0713,10.1002/wer.11104,liquid_abundance,sul1,sul,final effluent [final_effluent],WWTP overall,1740000.0,gene copies/mL,Correct,,,"p. 6, Table 1",XCN
+VA0118,M_001498,R0713,10.1002/wer.11104,liquid_abundance,intI1,intI1,final effluent [final_effluent],WWTP overall,5740000.0,gene copies/mL,Correct,,,"p. 6, Table 1",XCN
+VA0119,M_001518,R0727,10.1016/j.watres.2023.120747,liquid_abundance,sul1,sul,effluent [final_effluent],MABR,132000.0,copies/mL,Correct,,,"p. 5, Results 3.3",XCN
+VA0120,M_001519,R0727,10.1016/j.watres.2023.120747,liquid_abundance,sul2,sul,effluent [final_effluent],MABR,56100.0,copies/mL,Correct,,,"p. 5, Results 3.3",XCN
+VA0121,M_003736,R0807,10.1016/j.ijheh.2024.114517,liquid_abundance,sul1,sul,WWTP effluents [final_effluent],,4.0,log gene copies/mL,Cited literature value,,,"p. 2, text",XCN
+VA0122,M_003737,R0807,10.1016/j.ijheh.2024.114517,liquid_abundance,sul1,sul,WWTP effluents [final_effluent],,6.0,log gene copies/mL,Cited literature value,,,"p. 9, text",XCN
+VA0123,M_003745,R0807,10.1016/j.ijheh.2024.114517,liquid_abundance,sul1,sul,kick-off of biodegradation (inoculum + WWTP effluent) [final_effluent],,6.0,log copies/mL,Wrong matrix/stage,,,"p. 9, text",XCN
+VA0124,M_003748,R0807,10.1016/j.ijheh.2024.114517,liquid_abundance,sul1,sul,WWTP effluent contribution estimate [final_effluent],,6.0,log copies/mL,Wrong matrix/stage,,,"p. 9, text",XCN
+VA0125,M_007470,R0815,10.1002/jctb.7329,liquid_abundance,sul2,sul,primary sedimentation effluent [final_effluent],,10000.0,gene copies L^-1,Wrong matrix/stage,,,"p. 7, text",XCN
+VA0126,M_007471,R0815,10.1002/jctb.7329,liquid_abundance,sul2,sul,MBR effluent / eDNA [final_effluent],,1000000.0,gene copies L^-1,Duplicate row,,,Figure_8,XCN
+VA0127,M_007472,R0815,10.1002/jctb.7329,liquid_abundance,sul2,sul,MBR effluent / eDNA [final_effluent],,1000000.0,gene copies L^-1,Wrong matrix/stage,,,"p. 8, text",XCN
+VA0128,M_007473,R0815,10.1002/jctb.7329,liquid_abundance,sul2,sul,primary sedimentation effluent / Bacterial DNA [final_effluent],,3000.0,gene copies L^-1,Wrong matrix/stage,,,Figure_7,XCN
+VA0129,M_007474,R0815,10.1002/jctb.7329,liquid_abundance,sul2,sul,primary sedimentation effluent / eDNA [final_effluent],,30000000.0,gene copies L^-1,Wrong matrix/stage,,,Figure_7,XCN
+VA0130,M_007699,R0939,10.1016/j.apcatb.2018.12.030,liquid_abundance,sul1,sul,CAS effluent [final_effluent],,10.0,copies/mL,Group or range value,,,"p. 7, text",XCN
+VA0131,M_007700,R0939,10.1016/j.apcatb.2018.12.030,liquid_abundance,sul1,sul,MBR effluent [final_effluent],,10.0,copies/mL,Group or range value,,,"p. 7, text",XCN
+VA0132,M_006767,R0972,10.1007/s11783-021-1392-8,liquid_abundance,sul2,sul,effluent [final_effluent],,20000000.0,copies/mL,Correct,,,"p. 6, text",XCN
+VA0133,M_004098,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,effluent [final_effluent],,5.0,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0134,M_004100,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,effluent [final_effluent],,4.94,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0135,M_004108,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,effluent [final_effluent],,4.97,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0136,M_004110,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,effluent [final_effluent],,4.97,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0137,M_004118,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,effluent [final_effluent],,5.7,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0138,M_004120,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,effluent [final_effluent],,6.12,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0139,M_004128,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,effluent [final_effluent],,5.59,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0140,M_004130,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,effluent [final_effluent],,6.02,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0141,M_004138,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,effluent [final_effluent],,6.02,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0142,M_004140,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,effluent [final_effluent],,6.96,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0143,M_008208,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Nanjing, China domestic AS effluent (prior to disinfection) [final_effluent]",,6.08,log10 copies/mL,Cited literature value,,,Table_4,XCN
+VA0144,M_008216,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Nanjing, China domestic A/O effluent (prior to disinfection) [final_effluent]",,5.0,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0145,M_008218,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Nanjing, China domestic A/O effluent (prior to disinfection) [final_effluent]",,4.94,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0146,M_008226,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Wuxi, China 56% industrial and 44% domestic A2O-MBR effluent (prior to disinfection) [final_effluent]",,4.97,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0147,M_008228,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Wuxi, China 56% industrial and 44% domestic A2O-MBR effluent (prior to disinfection) [final_effluent]",,4.97,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0148,M_008236,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Jingjiang, China VC production wastewater A/O effluent (prior to disinfection) [final_effluent]",,5.7,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0149,M_008238,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Jingjiang, China VC production wastewater A/O effluent (prior to disinfection) [final_effluent]",,6.12,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0150,M_008246,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Taicang, China cephalosporins production wastewater UASB/aerobic effluent (prior to disinfection) [final_effluent]",,5.59,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0151,M_008248,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Taicang, China cephalosporins production wastewater UASB/aerobic effluent (prior to disinfection) [final_effluent]",,6.02,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0152,M_008256,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Shanghai, China petroleum chemical wastewater A/O effluent (prior to disinfection) [final_effluent]",,6.02,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0153,M_008258,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Shanghai, China petroleum chemical wastewater A/O effluent (prior to disinfection) [final_effluent]",,6.96,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0154,M_002216,R1017,10.3390/W12061729,liquid_abundance,intI1,intI1,final effluent [final_effluent],Plant B conventional WWTP,2.4,log10 copies/mL,Correct,,,"p. 3, Table 1",XCN
+VA0155,M_004925,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,sul1,sul,septic tank effluent [final_effluent],,5.2,log gene copies/mL,Wrong matrix/stage,,,"p. 17, text",XCN
+VA0176,M_000024,R0016,10.1002/wer.1125,liquid_abundance,sulI,sul,influent [influent],influent,1100000000.0,copies/L,Correct,,,"p. 4, Results and Discussion",XCN
+VA0177,M_006170,R0016,10.1002/wer.1125,liquid_abundance,sul1,sul,raw influent [influent],,1100000000.0,copies/L,Duplicate row,,,"p. 4, text",XCN
+VA0178,M_000044,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,influent [influent],UVC photoreactor,167.87,copies/mL,Correct,,,"p. 5, Table 1",XCN
+VA0179,M_000045,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,effluent [final_effluent],UVC photoreactor,119.54,copies/mL,Correct,,,"p. 5, Table 1",XCN
+VA0180,M_000046,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,influent [influent],UVC photoreactor,86630662.31,copies/mL,Correct,,,"p. 5, Table 1",XCN
+VA0181,M_000048,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,influent [influent],UVC photoreactor,38003.17,copies/mL,Correct,,,"p. 5, Table 1",XCN
+VA0182,M_000049,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,effluent [final_effluent],UVC photoreactor,1279542.17,copies/mL,Correct,,,"p. 5, Table 1",XCN
+VA0183,M_000050,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,influent [influent],UVC photoreactor,723608728.28,copies/mL,Correct,,,"p. 5, Table 1",XCN
+VA0184,M_006180,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,Effluent [final_effluent],,1279542.17,copies/mL,Duplicate row,,,Table_1,XCN
+VA0185,M_006181,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,Influent [influent],,14282295.03,copies/mL,Group or range value,,,Table_1,XCN
+VA0186,M_006182,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,Effluent [final_effluent],,14282295.03,copies/mL,Group or range value,,,Table_1,XCN
+VA0187,M_006183,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,Influent [influent],,26406.54,copies/mL,Correct,,,Table_1,XCN
+VA0188,M_006184,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,Influent [influent],,38003.17,copies/mL,Duplicate row,,,Table_1,XCN
+VA0189,M_006185,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,Effluent [final_effluent],,54885.58,copies/mL,Correct,,,Table_1,XCN
+VA0190,M_006186,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,Influent [influent],,684.29,copies/mL,Group or range value,,,"p. 5, Table_1",XCN
+VA0191,M_006187,R0038,10.1007/s11356-025-35988-2,liquid_abundance,ermB,erm,Effluent [final_effluent],,825.44,copies/mL,Group or range value,,,"p. 5, Table_1",XCN
+VA0192,M_006191,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,Influent [influent],,141359988.63,copies/mL,Correct,,,Table_1,XCN
+VA0193,M_006193,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,Influent [influent],,27669783277.93,copies/mL,Group or range value,,,Table_1,XCN
+VA0194,M_006196,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,Influent [influent],,723608728.28,copies/mL,Duplicate row,,,Table_1,XCN
+VA0195,M_006197,R0038,10.1007/s11356-025-35988-2,liquid_abundance,intI1,intI1,Influent [influent],,839951.45,copies/mL,Group or range value,,,Table_1,XCN
+VA0196,M_006198,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,Effluent [final_effluent],,0.24,copies/mL,Group or range value,,,"p. 5, Table_1",XCN
+VA0197,M_006199,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,Effluent [final_effluent],,119.54,copies/mL,Duplicate row,,,"p. 5, Table_1",XCN
+VA0198,M_006200,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,Influent [influent],,167.87,copies/mL,Duplicate row,,,"p. 5, Table_1",XCN
+VA0199,M_006201,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,Influent [influent],,1798.34,copies/mL,Group or range value,,,"p. 5, Table_1",XCN
+VA0200,M_006202,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,Effluent [final_effluent],,1798.34,copies/mL,Group or range value,,,"p. 5, Table_1",XCN
+VA0201,M_006203,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,Influent [influent],,2.9,copies/mL,Group or range value,,,"p. 5, Table_1",XCN
+VA0202,M_006204,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,Influent [influent],,21.66,copies/mL,Correct,,,"p. 5, Table_1",XCN
+VA0203,M_006205,R0038,10.1007/s11356-025-35988-2,liquid_abundance,qnrB,qnr,Effluent [final_effluent],,7.08,copies/mL,Correct,,,"p. 5, Table_1",XCN
+VA0204,M_006206,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,Influent [influent],,10714127.18,copies/mL,Correct,,,Table_1,XCN
+VA0205,M_006208,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,Influent [influent],,1787720.18,copies/mL,Group or range value,,,Table_1,XCN
+VA0206,M_006209,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,Influent [influent],,2245098039.22,copies/mL,Group or range value,,,Table_1,XCN
+VA0207,M_006213,R0038,10.1007/s11356-025-35988-2,liquid_abundance,sul1,sul,Influent [influent],,86630662.31,copies/mL,Duplicate row,,,Table_1,XCN
+VA0208,M_000118,R0060,10.1016/j.jhazmat.2019.121025,liquid_abundance,qnrS,qnr,secondary effluent [secondary_effluent],microfiltration,0.46,copies/mL,Wrong matrix/stage,,,"p. 4, Results 3.1",XCN
+VA0209,M_000119,R0060,10.1016/j.jhazmat.2019.121025,liquid_abundance,intI1,intI1,secondary effluent [secondary_effluent],microfiltration,11300.0,copies/mL,Wrong matrix/stage,,,"p. 4, Results 3.1",XCN
+VA0210,M_000149,R0092,10.1016/j.scitotenv.2024.175046,liquid_abundance,intI1,intI1,influent [influent],activated sludge,83000000000.0,copies/L,Group or range value,,,"p. 4, Results 3.2.1",XCN
+VA0211,M_003162,R0211,10.1016/j.watres.2022.118571,liquid_abundance,blaCTXM,bla,effluent [final_effluent],,2.1,log10 gene copies mL^-1,Correct,,,"p. 9, text",XCN
+VA0212,M_003163,R0211,10.1016/j.watres.2022.118571,liquid_abundance,qnrS,qnr,effluent [final_effluent],,3.1,log10 gene copies mL^-1,Correct,,,"p. 9, text",XCN
+VA0213,M_003164,R0211,10.1016/j.watres.2022.118571,liquid_abundance,tetO,tet,effluent [final_effluent],,3.2,log10 gene copies mL^-1,Correct,,,"p. 9, text",XCN
+VA0214,M_000492,R0262,10.1016/j.watres.2019.05.100,liquid_abundance,sul1,sul,influent [influent],WWTP influent,6.54,log copies/mL,Group or range value,,,"p. 5, Results 3.1",XCN
+VA0215,M_000493,R0262,10.1016/j.watres.2019.05.100,liquid_abundance,ermB,erm,influent [influent],WWTP influent,6.54,log copies/mL,Group or range value,,,"p. 5, Results 3.1",XCN
+VA0216,M_000494,R0262,10.1016/j.watres.2019.05.100,liquid_abundance,intI1,intI1,influent [influent],WWTP influent,6.54,log copies/mL,Group or range value,,,"p. 5, Results 3.1",XCN
+VA0217,M_000499,R0262,10.1016/j.watres.2019.05.100,liquid_abundance,blaCTX-M,bla,influent [influent],WWTP influent,4.4,log copies/mL,Correct,,,"p. 5, Results 3.1",XCN
+VA0218,M_000514,R0267,10.1016/j.envint.2020.105914,liquid_abundance,mecA,bla,influent [influent],activated sludge,1180.0,copies/ml,Correct,,,"p. 1, Results, section 3.2/summary statement in provided text",XCN
+VA0219,M_000517,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,intI1,intI1,raw sewage [influent],activated sludge,23000.0,copies/ml,Correct,,,"p. 4, Results 3.3; Table 4",XCN
+VA0220,M_000521,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(A),tet,raw sewage [influent],activated sludge,1600.0,copies/ml,Correct,,,"p. 4, Results 3.3; Table 4",XCN
+VA0221,M_000522,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(A),tet,final effluent [final_effluent],activated sludge,350.0,copies/ml,Correct,,,"p. 4, Results 3.3; Table 4",XCN
+VA0222,M_000525,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(B),tet,raw sewage [influent],activated sludge,1900.0,copies/ml,Correct,,,"p. 4, Results 3.3; Table 4",XCN
+VA0223,M_000526,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(B),tet,final effluent [final_effluent],activated sludge,18.0,copies/ml,Correct,,,"p. 4, Results 3.3; Table 4",XCN
+VA0224,M_000527,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(M),tet,raw sewage [influent],activated sludge,1000.0,copies/ml,Correct,,,"p. 4, Results 3.3; Table 4",XCN
+VA0225,M_000529,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,sul1,sul,raw sewage [influent],activated sludge,76000.0,copies/ml,Correct,,,"p. 3, Results 3.3; Table 4",XCN
+VA0226,M_000533,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,sul2,sul,raw sewage [influent],activated sludge,26000.0,copies/ml,Correct,,,"p. 5, Results 3.3; Table 4",XCN
+VA0227,M_006318,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,intI1,intI1,Raw sewage [influent],,23000.0,copies/ml,Duplicate row,,,"p. 4, Table_4",XCN
+VA0228,M_006323,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,sul1,sul,Raw sewage [influent],,76000.0,copies/ml,Duplicate row,,,"p. 5, Table_4",XCN
+VA0229,M_006325,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,sul2,sul,Raw sewage [influent],,26000.0,copies/ml,Duplicate row,,,"p. 4, Table_4",XCN
+VA0230,M_006327,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(A),tet,Raw sewage [influent],,1600.0,copies/ml,Duplicate row,,,"p. 4, Table_4",XCN
+VA0231,M_006328,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(A),tet,Effluent [final_effluent],,35.0,copies/ml,Corrected,2.544,log10 copies/mL,Table_4,XCN
+VA0232,M_006329,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(B),tet,Effluent [final_effluent],,18.0,copies/ml,Duplicate row,,,"p. 5, Table_4",XCN
+VA0233,M_006330,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(B),tet,Raw sewage [influent],,1900.0,copies/ml,Duplicate row,,,"p. 4, Table_4",XCN
+VA0234,M_006333,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(M),tet,Raw sewage [influent],,1000.0,copies/ml,Duplicate row,,,"p. 4, Table_4",XCN
+VA0235,M_006334,R0268,10.1016/j.chemosphere.2015.10.044,liquid_abundance,tet(M),tet,Effluent [final_effluent],,25.0,copies/ml,Correct,,,"p. 5, Table_4",XCN
+VA0236,M_000847,R0411,10.1016/j.envpol.2022.119649,liquid_abundance,intl1,intI1,influent [influent],activated sludge process,5.63,log copies/ml,Correct,,,"p. 5, Results 3.4 Fate and removal of metal and antibiotic resistance genes as well as integrons",XCN
+VA0237,M_007177,R0411,10.1016/j.envpol.2022.119649,liquid_abundance,intI1,intI1,influent collected from STPs [influent],,5.63,log copies/ml,Duplicate row,,,text,XCN
+VA0238,M_000886,R0427,10.1016/j.scitotenv.2024.173217,liquid_abundance,sul1,sul,influent [influent],conventional wastewater treatment,4100000000.0,copies/L,Correct,,,"p. 2, Abstract; Table 1",XCN
+VA0239,M_000888,R0427,10.1016/j.scitotenv.2024.173217,liquid_abundance,tetA,tet,influent [influent],conventional wastewater treatment,520000000.0,copies/L,Correct,,,"p. 2, Abstract; Table 1",XCN
+VA0240,M_000890,R0427,10.1016/j.scitotenv.2024.173217,liquid_abundance,blaTEM,bla,influent [influent],conventional wastewater treatment,110000000.0,copies/L,Correct,,,"p. 2, Abstract; Table 1",XCN
+VA0241,M_000892,R0427,10.1016/j.scitotenv.2024.173217,liquid_abundance,blaOXA-48,bla,influent [influent],conventional wastewater treatment,21000000.0,copies/L,Correct,,,"p. 2, Abstract; Table 1",XCN
+VA0242,M_000894,R0427,10.1016/j.scitotenv.2024.173217,liquid_abundance,blaCTX-M-1 group,bla,influent [influent],conventional wastewater treatment,11000000.0,copies/L,Correct,,,"p. 2, Abstract; Table 1",XCN
+VA0243,M_000896,R0427,10.1016/j.scitotenv.2024.173217,liquid_abundance,blaKPC,bla,influent [influent],conventional wastewater treatment,940000.0,copies/L,Correct,,,"p. 2, Abstract; Table 1",XCN
+VA0244,M_000898,R0427,10.1016/j.scitotenv.2024.173217,liquid_abundance,intI1,intI1,influent [influent],conventional wastewater treatment,5500000000.0,copies/L,Correct,,,Abstract; Table 1,XCN
+VA0245,M_000997,R0482,10.2166/wst.2021.088,liquid_abundance,tetA,tet,secondary effluent [secondary_effluent],raw water / before treatment,126000.0,copies/mL,Correct,,,"p. 5, Results and Discussion",XCN
+VA0246,M_000998,R0482,10.2166/wst.2021.088,liquid_abundance,tetC,tet,secondary effluent [secondary_effluent],raw water / before treatment,1380000.0,copies/mL,Correct,,,"p. 5, Results and Discussion",XCN
+VA0247,M_000999,R0482,10.2166/wst.2021.088,liquid_abundance,sulI,sul,secondary effluent [secondary_effluent],raw water / before treatment,2950000.0,copies/mL,Correct,,,"p. 5, Results and Discussion",XCN
+VA0248,M_001000,R0482,10.2166/wst.2021.088,liquid_abundance,sulII,sul,secondary effluent [secondary_effluent],raw water / before treatment,1450000.0,copies/mL,Correct,,,"p. 5, Results and Discussion",XCN
+VA0249,M_001001,R0482,10.2166/wst.2021.088,liquid_abundance,intI1,intI1,secondary effluent [secondary_effluent],raw water / before treatment,39000000.0,copies/mL,Correct,,,"p. 5, Results and Discussion",XCN
+VA0250,M_001003,R0482,10.2166/wst.2021.088,liquid_abundance,tetA,tet,secondary effluent [secondary_effluent],PS alone at optimum concentration,24000.0,copies/mL,Wrong matrix/stage,,,"p. 5, Results and Discussion",XCN
+VA0251,M_001004,R0482,10.2166/wst.2021.088,liquid_abundance,tetC,tet,secondary effluent [secondary_effluent],PS alone at optimum concentration,51600.0,copies/mL,Wrong matrix/stage,,,"p. 5, Results and Discussion",XCN
+VA0252,M_001005,R0482,10.2166/wst.2021.088,liquid_abundance,sulI,sul,secondary effluent [secondary_effluent],PS alone at optimum concentration,895000.0,copies/mL,Wrong matrix/stage,,,Results and Discussion,XCN
+VA0253,M_001006,R0482,10.2166/wst.2021.088,liquid_abundance,sulII,sul,secondary effluent [secondary_effluent],PS alone at optimum concentration,427000.0,copies/mL,Wrong matrix/stage,,,Results and Discussion,XCN
+VA0254,M_001007,R0482,10.2166/wst.2021.088,liquid_abundance,intI1,intI1,secondary effluent [secondary_effluent],PS alone at optimum concentration,1510000.0,copies/mL,Wrong matrix/stage,,,Results and Discussion,XCN
+VA0255,M_001040,R0495,10.1016/j.scitotenv.2020.144176,liquid_abundance,mecA,bla,influent [influent],activated sludge,11000.0,copy number/ml,Correct,,,"p. 5, Table 2",XCN
+VA0256,M_001042,R0495,10.1016/j.scitotenv.2020.144176,liquid_abundance,mecA,bla,effluent [final_effluent],activated sludge,670.0,copy number/ml,Correct,,,"p. 4, Table 2",XCN
+VA0257,M_001228,R0570,10.1007/s11356-024-35832-z,liquid_abundance,sul2,sul,influent [influent],township WWTPs,4340000.0,copies/mL,Correct,,,"p. 7, Results and discussion; Occurrence and abundance of ARGs",XCN
+VA0258,M_001230,R0570,10.1007/s11356-024-35832-z,liquid_abundance,sul1,sul,influent [influent],township WWTPs,3950000.0,copies/mL,Correct,,,"p. 7, Results and discussion; Occurrence and abundance of ARGs",XCN
+VA0259,M_001232,R0570,10.1007/s11356-024-35832-z,liquid_abundance,tetM,tet,influent [influent],township WWTPs,410000.0,copies/mL,Correct,,,"p. 7, Results and discussion; Occurrence and abundance of ARGs",XCN
+VA0260,M_001233,R0570,10.1007/s11356-024-35832-z,liquid_abundance,tetM,tet,effluent [final_effluent],township WWTPs,33700.0,copies/mL,Correct,,,"p. 7, Results and discussion; Occurrence and abundance of ARGs",XCN
+VA0261,M_001234,R0570,10.1007/s11356-024-35832-z,liquid_abundance,tetQ,tet,influent [influent],township WWTPs,409000.0,copies/mL,Correct,,,"p. 7, Results and discussion; Occurrence and abundance of ARGs",XCN
+VA0262,M_001235,R0570,10.1007/s11356-024-35832-z,liquid_abundance,tetQ,tet,effluent [final_effluent],township WWTPs,33200.0,copies/mL,Correct,,,"p. 7, Results and discussion; Occurrence and abundance of ARGs",XCN
+VA0263,M_001261,R0591,10.1007/s11356-022-24545-w,liquid_abundance,intI1,intI1,influent [influent],MWWTP,185000.0,copies/mL,Wrong matrix/stage,,,"p. 6, Results - Network analysis between MGEs and ARGs",XCN
+VA0264,M_001264,R0591,10.1007/s11356-022-24545-w,liquid_abundance,intI1,intI1,influent [influent],MWWTP,502000.0,copies/mL,Wrong matrix/stage,,,"p. 6, Results - Network analysis between MGEs and ARGs",XCN
+VA0265,M_001302,R0612,10.1021/acsestwater.5c00883,liquid_abundance,sul1,sul,influent [influent],activated sludge,578000.0,genome copies/mL,Correct,,,"p. 2, Results and Discussion, ARG Removal",XCN
+VA0266,M_001310,R0619,10.1016/j.watres.2024.121392,liquid_abundance,tetQ,tet,secondary effluent [secondary_effluent],none,5.44,log10(copies/mL),Correct,,,"p. 2, Results/Methods text",XCN
+VA0267,M_001311,R0619,10.1016/j.watres.2024.121392,liquid_abundance,tetE,tet,secondary effluent [secondary_effluent],none,6.85,log10(copies/mL),Correct,,,"p. 2, Results/Methods text",XCN
+VA0268,M_001312,R0619,10.1016/j.watres.2024.121392,liquid_abundance,sul1,sul,secondary effluent [secondary_effluent],none,6.68,log10(copies/mL),Correct,,,"p. 2, Results/Methods text",XCN
+VA0269,M_001313,R0619,10.1016/j.watres.2024.121392,liquid_abundance,sul2,sul,secondary effluent [secondary_effluent],none,5.47,log10(copies/mL),Correct,,,"p. 2, Results/Methods text",XCN
+VA0270,M_001316,R0619,10.1016/j.watres.2024.121392,liquid_abundance,blaOXA,bla,secondary effluent [secondary_effluent],none,5.24,log10(copies/mL),Correct,,,"p. 2, Results/Methods text",XCN
+VA0271,M_001317,R0619,10.1016/j.watres.2024.121392,liquid_abundance,blaPSE,bla,secondary effluent [secondary_effluent],none,4.44,log10(copies/mL),Correct,,,"p. 2, Results/Methods text",XCN
+VA0272,M_001318,R0619,10.1016/j.watres.2024.121392,liquid_abundance,intI1,intI1,secondary effluent [secondary_effluent],none,6.79,log10(copies/mL),Correct,,,"p. 2, Results/Methods text",XCN
+VA0273,M_004037,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,sul1,sul,municipal WWTP influent WAI [influent],,10000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0274,M_004038,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,intI1,intI1,municipal WWTP influent WAI [influent],,10000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0275,M_004039,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,qnrB,qnr,municipal WWTP influent WAI [influent],,10000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0276,M_004040,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,blaTEM,bla,municipal WWTP influent WAI [influent],,1000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0277,M_004041,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,ermB,erm,municipal WWTP influent WAI [influent],,1000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0278,M_004042,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,intI1,intI1,municipal WWTP influent WBI [influent],,1000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0279,M_004043,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,sul1,sul,municipal WWTP influent WBI [influent],,1000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0280,M_004044,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,qnrB,qnr,municipal WWTP influent WBI [influent],,1000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0281,M_004045,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,blaTEM,bla,municipal WWTP influent WBI [influent],,1000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0282,M_004046,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,ermB,erm,municipal WWTP influent WBI [influent],,1000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0283,M_004049,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,qnrB,qnr,municipal WWTP effluent WAE [final_effluent],,1000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0284,M_004050,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,blaTEM,bla,municipal WWTP effluent WAE [final_effluent],,10000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0285,M_004051,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,ermB,erm,municipal WWTP effluent WAE [final_effluent],,10000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0286,M_004054,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,qnrB,qnr,municipal WWTP effluent WBE [final_effluent],,1000000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0287,M_004055,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,blaTEM,bla,municipal WWTP effluent WBE [final_effluent],,10000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0288,M_004056,R0628,10.1016/j.clwat.2025.100076,liquid_abundance,ermB,erm,municipal WWTP effluent WBE [final_effluent],,10000.0,gene copies/mL (>=),Group or range value,,,Table_3,XCN
+VA0289,M_001414,R0681,10.1016/j.watres.2023.119986,liquid_abundance,sul2,sul,influent [influent],hybrid filter system,1000.0,copies/mL,Group or range value,,,"p. 3, Results 3.1.1 Influents and effluents",XCN
+VA0290,M_001415,R0681,10.1016/j.watres.2023.119986,liquid_abundance,tetC,tet,influent [influent],hybrid filter system,10000000.0,copies/mL,Group or range value,,,"p. 3, Results 3.1.1 Influents and effluents",XCN
+VA0291,M_001416,R0681,10.1016/j.watres.2023.119986,liquid_abundance,intI1,intI1,influent [influent],hybrid filter system,22000000.0,copies/mL,Correct,,,"p. 4, Results 3.1.1 Influents and effluents",XCN
+VA0292,M_001494,R0713,10.1002/wer.11104,liquid_abundance,ermB,erm,final effluent [final_effluent],WWTP overall,1770000.0,gene copies/mL,Correct,,,"p. 6, Table 1",XCN
+VA0293,M_001496,R0713,10.1002/wer.11104,liquid_abundance,tet(W),tet,final effluent [final_effluent],WWTP overall,1630000.0,gene copies/mL,Correct,,,"p. 6, Table 1",XCN
+VA0294,M_001497,R0713,10.1002/wer.11104,liquid_abundance,blaCTXM,bla,final effluent [final_effluent],WWTP overall,15400.0,gene copies/mL,Correct,,,"p. 6, Table 1",XCN
+VA0295,M_001638,R0784,10.3390/antibiotics12111586,liquid_abundance,ermB,erm,influent [influent],WWTP treatment,125110.9,copies/mL,Correct,,,"p. 6, Table 3",XCN
+VA0296,M_001639,R0784,10.3390/antibiotics12111586,liquid_abundance,ermB,erm,final effluent [final_effluent],WWTP treatment,11394.3,copies/mL,Correct,,,"p. 6, Table 3",XCN
+VA0297,M_001640,R0784,10.3390/antibiotics12111586,liquid_abundance,tetB,tet,influent [influent],WWTP treatment,2524.8,copies/mL,Correct,,,"p. 6, Table 3",XCN
+VA0298,M_001641,R0784,10.3390/antibiotics12111586,liquid_abundance,tetB,tet,final effluent [final_effluent],WWTP treatment,311.7,copies/mL,Correct,,,"p. 6, Table 3",XCN
+VA0299,M_001642,R0784,10.3390/antibiotics12111586,liquid_abundance,blaKPC,bla,influent [influent],WWTP treatment,153214.4,copies/mL,Correct,,,"p. 6, Table 3",XCN
+VA0300,M_001643,R0784,10.3390/antibiotics12111586,liquid_abundance,blaKPC,bla,final effluent [final_effluent],WWTP treatment,11630.9,copies/mL,Correct,,,"p. 6, Table 3",XCN
+VA0301,M_003726,R0795,10.1016/j.jece.2026.121488,liquid_abundance,qnrS,qnr,untreated secondary effluent [secondary_effluent],,30100000.0,copies/mL,Correct,,,"p. 5, text",XCN
+VA0302,M_003727,R0795,10.1016/j.jece.2026.121488,liquid_abundance,aac(6')-Ib-cr,qnr,untreated secondary effluent [secondary_effluent],,1030000.0,copies/mL,Correct,,,"p. 5, text",XCN
+VA0303,M_003728,R0795,10.1016/j.jece.2026.121488,liquid_abundance,tetW,tet,untreated secondary effluent [secondary_effluent],,997.0,copies/mL,Correct,,,"p. 5, text",XCN
+VA0304,M_003730,R0795,10.1016/j.jece.2026.121488,liquid_abundance,intI1,intI1,untreated secondary effluent [secondary_effluent],,117000.0,copies/mL,Correct,,,"p. 5, text",XCN
+VA0305,M_007462,R0815,10.1002/jctb.7329,liquid_abundance,ampC,bla,primary sedimentation effluent / Bacterial DNA [final_effluent],,100000.0,gene copies L^-1,Wrong matrix/stage,,,"p. 8, Figure_7",XCN
+VA0306,M_007463,R0815,10.1002/jctb.7329,liquid_abundance,ampC,bla,primary sedimentation effluent / Bacterial DNA [final_effluent],,100000.0,gene copies L^-1,Wrong matrix/stage,,,Figure_7,XCN
+VA0307,M_007464,R0815,10.1002/jctb.7329,liquid_abundance,ampC,bla,primary sedimentation effluent [final_effluent],,1000000.0,gene copies L^-1,Wrong matrix/stage,,,"p. 7, text",XCN
+VA0308,M_007465,R0815,10.1002/jctb.7329,liquid_abundance,ampC,bla,MBR effluent / eDNA [final_effluent],,1000000.0,gene copies L^-1,Wrong matrix/stage,,,"p. 8, Figure_8",XCN
+VA0309,M_007466,R0815,10.1002/jctb.7329,liquid_abundance,ampC,bla,primary sedimentation effluent / eDNA [final_effluent],,80000000.0,gene copies L^-1,Wrong matrix/stage,,,Figure_7,XCN
+VA0310,M_007467,R0815,10.1002/jctb.7329,liquid_abundance,qnrA,qnr,primary sedimentation effluent [final_effluent],,10000.0,gene copies L^-1,Wrong matrix/stage,,,"p. 7, text",XCN
+VA0311,M_007468,R0815,10.1002/jctb.7329,liquid_abundance,qnrA,qnr,primary sedimentation effluent / Bacterial DNA [final_effluent],,2000.0,gene copies L^-1,Wrong matrix/stage,,,Figure_7,XCN
+VA0312,M_007469,R0815,10.1002/jctb.7329,liquid_abundance,qnrA,qnr,primary sedimentation effluent / Bacterial DNA [final_effluent],,5000.0,gene copies L^-1,Wrong matrix/stage,,,Figure_7,XCN
+VA0313,M_007475,R0815,10.1002/jctb.7329,liquid_abundance,tetA,tet,primary sedimentation effluent / Bacterial DNA [final_effluent],,100000.0,gene copies L^-1,Wrong matrix/stage,,,Figure_7,XCN
+VA0314,M_007476,R0815,10.1002/jctb.7329,liquid_abundance,tetA,tet,primary sedimentation effluent / Bacterial DNA [final_effluent],,100000.0,gene copies L^-1,Wrong matrix/stage,,,Figure_7,XCN
+VA0315,M_007477,R0815,10.1002/jctb.7329,liquid_abundance,tetA,tet,primary sedimentation effluent [final_effluent],,1000000.0,gene copies L^-1,Wrong matrix/stage,,,"p. 7, text",XCN
+VA0316,M_007478,R0815,10.1002/jctb.7329,liquid_abundance,tetA,tet,MBR effluent / eDNA [final_effluent],,100000000.0,gene copies L^-1,Wrong matrix/stage,,,"p. 8, Figure_8",XCN
+VA0317,M_007479,R0815,10.1002/jctb.7329,liquid_abundance,tetA,tet,primary sedimentation effluent / eDNA [final_effluent],,40000000.0,gene copies L^-1,Wrong matrix/stage,,,Figure_7,XCN
+VA0318,M_006669,R0820,10.3390/antibiotics13080711,liquid_abundance,blaCTX-M,bla,hospital effluent before treatment [final_effluent],,2.9,log10 copy/mL,Wrong matrix/stage,,,"p. 10, text",XCN
+VA0319,M_006670,R0820,10.3390/antibiotics13080711,liquid_abundance,blaIMP,bla,hospital effluent before treatment [final_effluent],,3.3,log10 copy/mL,Wrong matrix/stage,,,"p. 10, text",XCN
+VA0320,M_006673,R0820,10.3390/antibiotics13080711,liquid_abundance,blaTEM,bla,hospital effluent before treatment [final_effluent],,5.9,log10 copy/mL,Wrong matrix/stage,,,"p. 10, text",XCN
+VA0321,M_006703,R0825,10.1111/tmi.13986,liquid_abundance,qnrB,qnr,WWTP_tertiary effluent (reuse water) [final_effluent],,3.37,log10 gene copy no./L,Correct,,,"p. 5, Figure_2",XCN
+VA0322,M_006705,R0825,10.1111/tmi.13986,liquid_abundance,qnrB,qnr,WWTP_secondary effluent [final_effluent],,5.46,log10 gene copy no./L,Wrong matrix/stage,,,"p. 5, Figure_2",XCN
+VA0323,M_006706,R0825,10.1111/tmi.13986,liquid_abundance,qnrB,qnr,Veterinary Hospital_secondary effluent [final_effluent],,6.46,log10 gene copy no./L,Correct,,,"p. 5, Figure_2",XCN
+VA0324,M_006707,R0825,10.1111/tmi.13986,liquid_abundance,qnrB,qnr,Veterinary Hospital_tertiary effluent [final_effluent],,6.46,log10 gene copy no./L,Correct,,,"p. 5, Figure_2",XCN
+VA0325,M_006708,R0825,10.1111/tmi.13986,liquid_abundance,qnrB,qnr,Pig Farm – Biodigester_secondary effluent [final_effluent],,6.98,log10 gene copy no./L,Correct,,,"p. 5, Figure_2",XCN
+VA0326,M_001771,R0846,10.1021/acs.estlett.9b00521,liquid_abundance,sul1,sul,influent [influent],AWTF influent,16000000000.0,copies/L,Group or range value,,,"p. 3, Results and Discussion",XCN
+VA0327,M_001772,R0846,10.1021/acs.estlett.9b00521,liquid_abundance,ermB,erm,influent [influent],AWTF influent,1400000.0,copies/L,Group or range value,,,"p. 3, Results and Discussion",XCN
+VA0328,M_001786,R0849,10.1089/ees.2020.0189,liquid_abundance,sul1,sul,secondary effluent [secondary_effluent],none,186000.0,copies/mL,Correct,,,"p. 2, Methods - Wastewater sampling",XCN
+VA0329,M_001787,R0849,10.1089/ees.2020.0189,liquid_abundance,sul2,sul,secondary effluent [secondary_effluent],none,72400.0,copies/mL,Correct,,,"p. 2, Methods - Wastewater sampling",XCN
+VA0330,M_001788,R0849,10.1089/ees.2020.0189,liquid_abundance,tetO,tet,secondary effluent [secondary_effluent],none,3180.0,copies/mL,Correct,,,"p. 2, Methods - Wastewater sampling",XCN
+VA0331,M_001789,R0849,10.1089/ees.2020.0189,liquid_abundance,tetX,tet,secondary effluent [secondary_effluent],none,22100.0,copies/mL,Correct,,,"p. 2, Methods - Wastewater sampling",XCN
+VA0332,M_004057,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,blaCTX-M,bla,influent [influent],,2.53,log10 copies/mL,Group or range value,,,"p. 4, text",XCN
+VA0333,M_004058,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,blaCTX-M,bla,influent [influent],,3.99,log10 copies/mL,Group or range value,,,"p. 4, text",XCN
+VA0334,M_004075,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,tetA,tet,"influent, plant D [influent]",,4.18,log10 copies/mL,Group or range value,,,text,XCN
+VA0335,M_004076,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,tetA,tet,"influent, plant D [influent]",,5.05,log10 copies/mL,Group or range value,,,text,XCN
+VA0336,M_004077,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,tetO,tet,"influent, plant D [influent]",,4.35,log10 copies/mL,Group or range value,,,text,XCN
+VA0337,M_004078,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,tetO,tet,"influent, plant D [influent]",,4.91,log10 copies/mL,Group or range value,,,text,XCN
+VA0338,M_004079,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,tetW,tet,"influent, plant D [influent]",,6.12,log10 copies/mL,Group or range value,,,text,XCN
+VA0339,M_004080,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,tetW,tet,"influent, plant D [influent]",,6.7,log10 copies/mL,Group or range value,,,text,XCN
+VA0340,M_004081,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,sulI,sul,"influent, plant D [influent]",,5.49,log10 copies/mL,Group or range value,,,text,XCN
+VA0341,M_004082,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,sulI,sul,"influent, plant D [influent]",,5.84,log10 copies/mL,Group or range value,,,text,XCN
+VA0342,M_004083,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,sulII,sul,"influent, plant D [influent]",,6.88,log10 copies/mL,Group or range value,,,text,XCN
+VA0343,M_004084,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,sulII,sul,"influent, plant D [influent]",,7.53,log10 copies/mL,Group or range value,,,text,XCN
+VA0344,M_004085,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,blaCTX-M,bla,"influent, plant D [influent]",,3.72,log10 copies/mL,Group or range value,,,text,XCN
+VA0345,M_004086,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,blaCTX-M,bla,"influent, plant D [influent]",,4.69,log10 copies/mL,Group or range value,,,text,XCN
+VA0346,M_004087,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,intI1,intI1,"influent, plant D [influent]",,6.49,log10 copies/mL,Group or range value,,,text,XCN
+VA0347,M_004088,R0855,10.1016/j.envpol.2016.01.043,liquid_abundance,intI1,intI1,"influent, plant D [influent]",,7.36,log10 copies/mL,Group or range value,,,text,XCN
+VA0348,M_001828,R0864,10.1371/journal.pone.0131532,liquid_abundance,intI1,intI1,influent [influent],activated sludge,65400000.0,copies/L,Correct,,,"p. 8, Results and Discussion - Quantitative analysis of the bacterial communities and the intl1 gene",XCN
+VA0349,M_001839,R0867,10.1016/j.jenvman.2018.09.043,liquid_abundance,blaTEM-2,bla,influent [influent],two stage tandem biological oxidation process,1100000000.0,copies/mL,Correct,,,"p. 6, Results 3.4",XCN
+VA0350,M_001840,R0867,10.1016/j.jenvman.2018.09.043,liquid_abundance,blaTEM-2,bla,final effluent [final_effluent],two stage tandem biological oxidation process,190000000.0,copies/mL,Correct,,,"p. 6, Results 3.4",XCN
+VA0351,M_001853,R0872,10.1016/j.envpol.2021.118512,liquid_abundance,tetX,tet,secondary effluent [secondary_effluent],municipal wastewater treatment,123000.0,copies/mL,Wrong matrix/stage,,,"p. 5, Results, 3.3 Abundance and diversity of ARGs and MGEs",XCN
+VA0352,M_001854,R0872,10.1016/j.envpol.2021.118512,liquid_abundance,tetX,tet,secondary effluent [secondary_effluent],municipal wastewater treatment,409000.0,copies/mL,Wrong matrix/stage,,,"p. 5, Results, 3.3 Abundance and diversity of ARGs and MGEs",XCN
+VA0353,M_003762,R0892,10.2166/wrd.2021.097,liquid_abundance,ermB,erm,influent (1-IF) [influent],,120.0,copies/mL,Correct,,,"p. 11, text",XCN
+VA0354,M_003763,R0892,10.2166/wrd.2021.097,liquid_abundance,sul1,sul,influent (1-IF) [influent],,155000.0,copies/mL,Correct,,,"p. 11, text",XCN
+VA0355,M_003781,R0902,10.1016/j.watres.2017.10.025,liquid_abundance,blaNDM-1,bla,influent [influent],,7.25,log copies/mL,Correct,,,"p. 7, text",XCN
+VA0356,M_003782,R0902,10.1016/j.watres.2017.10.025,liquid_abundance,blaCTX,bla,influent [influent],,5.75,log copies/mL,Correct,,,"p. 7, text",XCN
+VA0357,M_003783,R0902,10.1016/j.watres.2017.10.025,liquid_abundance,blaOXA,bla,influent [influent],,4.8,log copies/mL,Correct,,,"p. 7, text",XCN
+VA0358,M_003784,R0902,10.1016/j.watres.2017.10.025,liquid_abundance,blaTEM,bla,influent [influent],,6.77,log copies/mL,Correct,,,text,XCN
+VA0359,M_003785,R0902,10.1016/j.watres.2017.10.025,liquid_abundance,intI1,intI1,influent [influent],,8.14,log copies/mL,Correct,,,text,XCN
+VA0360,M_001956,R0909,10.1016/j.watres.2017.01.010,liquid_abundance,intI1,intI1,influent [influent],WWTP main process,7040000.0,copies/mL,Correct,,,"p. 4, Results 3.1",XCN
+VA0361,M_001959,R0909,10.1016/j.watres.2017.01.010,liquid_abundance,intI1,intI1,secondary effluent [secondary_effluent],WWTP main process,88900.0,copies/mL,Correct,,,"p. 4, Results 3.1",XCN
+VA0362,M_001990,R0917,10.1016/j.watres.2020.116273,liquid_abundance,sul2,sul,secondary effluent [secondary_effluent],unclear,844000.0,copies/mL,Correct,,,"p. 4, Results 3.1",XCN
+VA0363,M_001993,R0917,10.1016/j.watres.2020.116273,liquid_abundance,intI1,intI1,secondary effluent [secondary_effluent],unclear,490000.0,copies/mL,Correct,,,"p. 4, Results 3.1",XCN
+VA0364,M_002000,R0922,10.1007/s11356-021-15351-x,liquid_abundance,blaTEM,bla,secondary effluent [secondary_effluent],microalgae-bacteria consortium treatment,302000.0,copies/mL,Correct,,,"p. 8, Results and discussion - ARG abundances",XCN
+VA0365,M_002001,R0922,10.1007/s11356-021-15351-x,liquid_abundance,ermB,erm,secondary effluent [secondary_effluent],microalgae-bacteria consortium treatment,33500.0,copies/mL,Correct,,,"p. 8, Results and discussion - ARG abundances",XCN
+VA0366,M_002002,R0922,10.1007/s11356-021-15351-x,liquid_abundance,blaTEM,bla,secondary effluent [secondary_effluent],microalgae-bacteria consortium treatment,83700.0,copies/mL,Wrong matrix/stage,,,"p. 8, Results and discussion - ARG abundances",XCN
+VA0367,M_002003,R0922,10.1007/s11356-021-15351-x,liquid_abundance,ermB,erm,secondary effluent [secondary_effluent],microalgae-bacteria consortium treatment,584.0,copies/mL,Wrong matrix/stage,,,"p. 8, Results and discussion - ARG abundances",XCN
+VA0368,M_007696,R0939,10.1016/j.apcatb.2018.12.030,liquid_abundance,blaTEM,bla,CAS effluent [final_effluent],,19600.0,copies/mL DNA,Group or range value,,,text,XCN
+VA0369,M_007697,R0939,10.1016/j.apcatb.2018.12.030,liquid_abundance,qnrS,qnr,CAS effluent [final_effluent],,10.0,copies/mL,Group or range value,,,"p. 7, text",XCN
+VA0370,M_007698,R0939,10.1016/j.apcatb.2018.12.030,liquid_abundance,qnrS,qnr,MBR effluent [final_effluent],,10.0,copies/mL,Group or range value,,,"p. 7, text",XCN
+VA0371,M_002071,R0954,10.1016/j.ecoenv.2018.05.049,liquid_abundance,sulI,sul,influent [influent],swine wastewater treatment plant,1170000000.0,copies/L,Correct,,,"p. 3, Results 3.1",XCN
+VA0372,M_002072,R0954,10.1016/j.ecoenv.2018.05.049,liquid_abundance,mphB,erm,influent [influent],swine wastewater treatment plant,6900000.0,copies/L,Correct,,,"p. 3, Results 3.1",XCN
+VA0373,M_002073,R0954,10.1016/j.ecoenv.2018.05.049,liquid_abundance,qnrD,qnr,influent [influent],swine wastewater treatment plant,37000.0,copies/L,Correct,,,"p. 3, Results 3.1",XCN
+VA0374,M_002079,R0957,10.1016/j.scitotenv.2018.10.111,liquid_abundance,NDM-1,bla,influent [influent],A2/O activated sludge,95000000.0,copies/L,Correct,,,"p. 5, Results 3.1.1 Wastewater treatment plant",XCN
+VA0375,M_002081,R0957,10.1016/j.scitotenv.2018.10.111,liquid_abundance,NDM-1,bla,secondary effluent [secondary_effluent],A2/O activated sludge,7000000.0,copies/L,Correct,,,"p. 1, Results 3.1.1 Wastewater treatment plant",XCN
+VA0376,M_002085,R0957,10.1016/j.scitotenv.2018.10.111,liquid_abundance,NDM-1,bla,raw wastewater [influent],coagulation-sedimentation-filtration-chlorination,210000.0,copies/L,Wrong matrix/stage,,,"p. 5, Results 3.1.3 Drinking water treatment plant",XCN
+VA0377,M_002089,R0957,10.1016/j.scitotenv.2018.10.111,liquid_abundance,NDM-1,bla,final effluent [final_effluent],coagulation-sedimentation-filtration-chlorination,62000.0,copies/L,Wrong matrix/stage,,,"p. 5, Results 3.1.3 Drinking water treatment plant",XCN
+VA0378,M_002120,R0972,10.1007/s11783-021-1392-8,liquid_abundance,int1,intI1,influent [influent],RWTP1/RWTP2/RWTP3,8.4,copies/mL,Corrected,5.924,log10 copies/mL,"p. 6, Results 3.1.2 ARGs",XCN
+VA0379,M_002122,R0972,10.1007/s11783-021-1392-8,liquid_abundance,sul2,sul,secondary effluent [secondary_effluent],RWTP1,20000000.0,copies/mL,Correct,,,"p. 6, Results 3.1.2 ARGs",XCN
+VA0380,M_002123,R0972,10.1007/s11783-021-1392-8,liquid_abundance,ermB,erm,secondary effluent [secondary_effluent],RWTP1,2700000.0,copies/mL,Correct,,,"p. 6, Results 3.1.2 ARGs",XCN
+VA0381,M_002124,R0972,10.1007/s11783-021-1392-8,liquid_abundance,tetB,tet,secondary effluent [secondary_effluent],RWTP1,1600000.0,copies/mL,Correct,,,"p. 6, Results 3.1.2 ARGs",XCN
+VA0382,M_006766,R0972,10.1007/s11783-021-1392-8,liquid_abundance,ermB,erm,effluent [final_effluent],,2700000.0,copies/mL,Duplicate row,,,"p. 6, text",XCN
+VA0383,M_006768,R0972,10.1007/s11783-021-1392-8,liquid_abundance,tetB,tet,effluent [final_effluent],,1600000.0,copies/mL,Duplicate row,,,"p. 6, text",XCN
+VA0384,M_002134,R0986,10.1007/s11356-014-3665-2,liquid_abundance,intI1,intI1,influent [influent],WWTP,52400000000.0,copies/mL,Correct,,,"p. 7, Results / Abundance of target genes",XCN
+VA0385,M_002135,R0986,10.1007/s11356-014-3665-2,liquid_abundance,sul1,sul,influent [influent],WWTP,52900000000.0,copies/mL,Correct,,,"p. 7, Results / Abundance of target genes",XCN
+VA0386,M_004091,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,influent [influent],,5.64,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0387,M_004092,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,effluent [final_effluent],,3.71,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0388,M_004093,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,influent [influent],,5.49,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0389,M_004094,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,effluent [final_effluent],,3.01,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0390,M_004095,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,influent [influent],,6.14,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0391,M_004096,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,effluent [final_effluent],,4.75,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0392,M_004097,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,influent [influent],,6.89,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0393,M_004099,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,influent [influent],,6.87,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0394,M_004101,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,influent [influent],,5.59,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0395,M_004102,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,effluent [final_effluent],,3.39,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0396,M_004103,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,influent [influent],,5.75,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0397,M_004104,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,effluent [final_effluent],,2.85,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0398,M_004105,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,influent [influent],,6.29,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0399,M_004106,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,effluent [final_effluent],,4.59,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0400,M_004107,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,influent [influent],,7.04,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0401,M_004109,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,influent [influent],,7.12,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0402,M_004111,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,influent [influent],,2.37,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0403,M_004112,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,effluent [final_effluent],,4.38,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0404,M_004113,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,influent [influent],,3.24,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0405,M_004114,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,effluent [final_effluent],,3.55,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0406,M_004115,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,influent [influent],,2.99,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0407,M_004116,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,effluent [final_effluent],,5.32,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0408,M_004117,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,influent [influent],,5.11,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0409,M_004119,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,influent [influent],,5.2,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0410,M_004121,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,influent [influent],,4.12,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0411,M_004122,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,effluent [final_effluent],,4.58,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0412,M_004123,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,influent [influent],,4.15,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0413,M_004124,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,effluent [final_effluent],,1.77,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0414,M_004125,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,influent [influent],,3.23,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0415,M_004126,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,effluent [final_effluent],,3.7,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0416,M_004127,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,influent [influent],,6.35,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0417,M_004129,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,influent [influent],,6.32,log10 copies/mL,Correct,,,"p. 5, Table_4",XCN
+VA0418,M_004131,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,influent [influent],,5.04,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0419,M_004132,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,effluent [final_effluent],,4.07,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0420,M_004133,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,influent [influent],,4.47,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0421,M_004134,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,effluent [final_effluent],,2.91,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0422,M_004135,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,influent [influent],,5.88,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0423,M_004136,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,effluent [final_effluent],,4.2,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0424,M_004137,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,influent [influent],,6.66,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0425,M_004139,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,influent [influent],,7.2,log10 copies/mL,Correct,,,"p. 6, Table_4",XCN
+VA0426,M_008203,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Nanjing, China domestic AS influent (after primary settling) [influent]",,7.7,log10 copies/mL,Cited literature value,,,Table_4,XCN
+VA0427,M_008204,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Nanjing, China domestic AS effluent (prior to disinfection) [final_effluent]",,6.15,log10 copies/mL,Cited literature value,,,Table_4,XCN
+VA0428,M_008205,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetC,tet,"Nanjing, China domestic AS influent (after primary settling) [influent]",,7.91,log10 copies/mL,Cited literature value,,,Table_4,XCN
+VA0429,M_008206,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetC,tet,"Nanjing, China domestic AS effluent (prior to disinfection) [final_effluent]",,6.14,log10 copies/mL,Cited literature value,,,Table_4,XCN
+VA0430,M_008207,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Nanjing, China domestic AS influent (after primary settling) [influent]",,7.31,log10 copies/mL,Cited literature value,,,Table_4,XCN
+VA0431,M_008209,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Nanjing, China domestic A/O influent (after primary settling) [influent]",,5.64,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0432,M_008210,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Nanjing, China domestic A/O effluent (prior to disinfection) [final_effluent]",,3.71,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0433,M_008211,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Nanjing, China domestic A/O influent (after primary settling) [influent]",,5.49,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0434,M_008212,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Nanjing, China domestic A/O effluent (prior to disinfection) [final_effluent]",,3.01,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0435,M_008213,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Nanjing, China domestic A/O influent (after primary settling) [influent]",,6.14,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0436,M_008214,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Nanjing, China domestic A/O effluent (prior to disinfection) [final_effluent]",,4.75,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0437,M_008215,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Nanjing, China domestic A/O influent (after primary settling) [influent]",,6.89,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0438,M_008217,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Nanjing, China domestic A/O influent (after primary settling) [influent]",,6.87,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0439,M_008219,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Wuxi, China 56% industrial and 44% domestic A2O-MBR influent (after primary settling) [influent]",,5.59,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0440,M_008220,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Wuxi, China 56% industrial and 44% domestic A2O-MBR effluent (prior to disinfection) [final_effluent]",,3.39,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0441,M_008221,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Wuxi, China 56% industrial and 44% domestic A2O-MBR influent (after primary settling) [influent]",,5.75,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0442,M_008222,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Wuxi, China 56% industrial and 44% domestic A2O-MBR effluent (prior to disinfection) [final_effluent]",,2.85,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0443,M_008223,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Wuxi, China 56% industrial and 44% domestic A2O-MBR influent (after primary settling) [influent]",,6.29,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0444,M_008224,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Wuxi, China 56% industrial and 44% domestic A2O-MBR effluent (prior to disinfection) [final_effluent]",,4.59,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0445,M_008225,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Wuxi, China 56% industrial and 44% domestic A2O-MBR influent (after primary settling) [influent]",,7.04,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0446,M_008227,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Wuxi, China 56% industrial and 44% domestic A2O-MBR influent (after primary settling) [influent]",,7.12,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0447,M_008229,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Jingjiang, China VC production wastewater A/O influent (after primary settling) [influent]",,2.37,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0448,M_008230,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Jingjiang, China VC production wastewater A/O effluent (prior to disinfection) [final_effluent]",,4.38,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0449,M_008231,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Jingjiang, China VC production wastewater A/O influent (after primary settling) [influent]",,3.24,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0450,M_008232,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Jingjiang, China VC production wastewater A/O effluent (prior to disinfection) [final_effluent]",,3.55,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0451,M_008233,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Jingjiang, China VC production wastewater A/O influent (after primary settling) [influent]",,2.99,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0452,M_008234,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Jingjiang, China VC production wastewater A/O effluent (prior to disinfection) [final_effluent]",,5.32,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0453,M_008235,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Jingjiang, China VC production wastewater A/O influent (after primary settling) [influent]",,5.11,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0454,M_008237,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Jingjiang, China VC production wastewater A/O influent (after primary settling) [influent]",,5.2,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0455,M_008239,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Taicang, China cephalosporins production wastewater UASB/aerobic influent (after primary settling) [influent]",,4.12,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0456,M_008240,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Taicang, China cephalosporins production wastewater UASB/aerobic effluent (prior to disinfection) [final_effluent]",,4.58,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0457,M_008241,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Taicang, China cephalosporins production wastewater UASB/aerobic influent (after primary settling) [influent]",,4.15,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0458,M_008242,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Taicang, China cephalosporins production wastewater UASB/aerobic effluent (prior to disinfection) [final_effluent]",,1.77,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0459,M_008243,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Taicang, China cephalosporins production wastewater UASB/aerobic influent (after primary settling) [influent]",,3.23,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0460,M_008244,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Taicang, China cephalosporins production wastewater UASB/aerobic effluent (prior to disinfection) [final_effluent]",,3.7,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0461,M_008245,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Taicang, China cephalosporins production wastewater UASB/aerobic influent (after primary settling) [influent]",,6.35,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0462,M_008247,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Taicang, China cephalosporins production wastewater UASB/aerobic influent (after primary settling) [influent]",,6.32,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0463,M_008249,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Shanghai, China petroleum chemical wastewater A/O influent (after primary settling) [influent]",,5.04,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0464,M_008250,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetG,tet,"Shanghai, China petroleum chemical wastewater A/O effluent (prior to disinfection) [final_effluent]",,4.07,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0465,M_008251,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Shanghai, China petroleum chemical wastewater A/O influent (after primary settling) [influent]",,4.47,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0466,M_008252,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetW,tet,"Shanghai, China petroleum chemical wastewater A/O effluent (prior to disinfection) [final_effluent]",,2.91,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0467,M_008253,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Shanghai, China petroleum chemical wastewater A/O influent (after primary settling) [influent]",,5.88,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0468,M_008254,R1012,10.1007/s11356-014-2613-5,liquid_abundance,tetX,tet,"Shanghai, China petroleum chemical wastewater A/O effluent (prior to disinfection) [final_effluent]",,4.2,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0469,M_008255,R1012,10.1007/s11356-014-2613-5,liquid_abundance,sul1,sul,"Shanghai, China petroleum chemical wastewater A/O influent (after primary settling) [influent]",,6.66,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0470,M_008257,R1012,10.1007/s11356-014-2613-5,liquid_abundance,intI1,intI1,"Shanghai, China petroleum chemical wastewater A/O influent (after primary settling) [influent]",,7.2,log10 copies/mL,Duplicate row,,,Table_4,XCN
+VA0471,M_002215,R1017,10.3390/W12061729,liquid_abundance,tetA,tet,influent [influent],Plant A conventional WWTP,5.3,log10 copies/mL,Correct,,,"p. 4, Table 1",XCN
+VA0472,M_002228,R1026,10.1016/j.biortech.2020.122825,liquid_abundance,blaTEM,bla,influent [influent],membrane bioreactor,3300000000000.0,copies/ml,Corrected,3.3 × 10^13,copies/mL,"p. 5, Results, 3.3.1 Distribution of cell-free ARGs",XCN
+VA0473,M_002282,R1049,10.1016/j.marpolbul.2019.110856,liquid_abundance,ermB,erm,influent [influent],UASB-CAST,121000.0,copies·mL−1,Correct,,,"p. 3, Results 3.2",XCN
+VA0474,M_002283,R1049,10.1016/j.marpolbul.2019.110856,liquid_abundance,sulII,sul,secondary effluent [secondary_effluent],UASB-CAST,486000.0,copies·mL−1,Correct,,,"p. 3, Results 3.2",XCN
+VA0475,M_002284,R1049,10.1016/j.marpolbul.2019.110856,liquid_abundance,sulII,sul,influent [influent],A/O,3770000.0,copies·mL−1,Wrong matrix/stage,,,"p. 4, Results 3.2",XCN
+VA0476,M_002285,R1049,10.1016/j.marpolbul.2019.110856,liquid_abundance,sulII,sul,influent [influent],A2/O-Fenton,120000000.0,copies·mL−1,Group or range value,,,"p. 4, Results 3.2",XCN
+VA0477,M_002289,R1051,10.1016/j.seppur.2020.116946,liquid_abundance,tetQ,tet,influent [influent],not applicable,968000.0,copies/mL,Group or range value,,,"p. 4, Results",XCN
+VA0478,M_002331,R1061,10.1016/j.scitotenv.2018.10.305,liquid_abundance,sul1,sul,secondary effluent [secondary_effluent],MBR and parallel processes,106.09,copies/mL,Corrected,6.09,log10 copies/mL,"p. 4, Results 3.1",XCN
+VA0479,M_002608,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,ermB,erm,raw wastewater [influent],not applicable,6.5,log gene copies/mL,Correct,,,"p. 17, Results, section 3.3.1",XCN
+VA0480,M_002609,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,qnrS,qnr,raw wastewater [influent],not applicable,6.2,log gene copies/mL,Correct,,,"p. 17, Results, section 3.3.1",XCN
+VA0481,M_002610,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,tetO,tet,raw wastewater [influent],not applicable,5.7,log gene copies/mL,Correct,,,"p. 17, Results, section 3.3.1",XCN
+VA0482,M_004921,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,ermB,erm,raw wastewater [influent],,6.5,log gene copies/mL,Duplicate row,,,"p. 17, text",XCN
+VA0483,M_004922,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,qnrS,qnr,raw wastewater [influent],,6.2,log gene copies/mL,Duplicate row,,,"p. 17, text",XCN
+VA0484,M_004923,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,tetO,tet,raw wastewater [influent],,5.7,log gene copies/mL,Duplicate row,,,"p. 17, text",XCN
+VA0485,M_004924,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,ermB,erm,septic tank effluent [final_effluent],,5.9,log gene copies/mL,Wrong matrix/stage,,,"p. 17, text",XCN
+VA0486,M_004926,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,tetO,tet,septic tank effluent [final_effluent],,5.1,log gene copies/mL,Wrong matrix/stage,,,"p. 17, text",XCN
+VA0487,M_008757,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,ermB,erm,raw wastewater [influent],,6.5,log gene copies/mL,Duplicate row,,,"p. 17, text",XCN
+VA0488,M_008758,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,qnrS,qnr,raw wastewater [influent],,6.2,log gene copies/mL,Duplicate row,,,"p. 17, text",XCN
+VA0489,M_008759,R1145,10.1016/j.watres.2019.07.004,liquid_abundance,tetO,tet,raw wastewater [influent],,5.7,log gene copies/mL,Duplicate row,,,"p. 17, text",XCN
+VA0490,M_002632,R1158,10.5004/dwt.2020.25712,liquid_abundance,tetA,tet,secondary effluent [secondary_effluent],none,1420000.0,copies mL–1,Correct,,,"p. 4, Results 3.2",XCN
+VA0491,M_002633,R1158,10.5004/dwt.2020.25712,liquid_abundance,sulI,sul,secondary effluent [secondary_effluent],none,851000.0,copies mL–1,Correct,,,"p. 4, Results 3.2",XCN
+VA0492,M_002634,R1158,10.5004/dwt.2020.25712,liquid_abundance,intI1,intI1,secondary effluent [secondary_effluent],none,15000000.0,copies mL–1,Correct,,,"p. 4, Results 3.2",XCN
+VA0493,M_002635,R1158,10.5004/dwt.2020.25712,liquid_abundance,tetA,tet,secondary effluent [secondary_effluent],PAC pretreatment,7600.0,copies mL–1,Wrong matrix/stage,,,"p. 4, Results 3.2",XCN
+VA0494,M_002636,R1158,10.5004/dwt.2020.25712,liquid_abundance,sulII,sul,secondary effluent [secondary_effluent],PFS pretreatment,781000.0,copies mL–1,Wrong matrix/stage,,,"p. 4, Results 3.2",XCN
+VA0495,M_002641,R1163,10.1016/j.cej.2017.02.076,liquid_abundance,sulI,sul,secondary effluent [secondary_effluent],none,662000.0,copies/mL,Correct,,,"p. 3, Results and discussion, Section 3.1",XCN
+VA0496,M_002642,R1163,10.1016/j.cej.2017.02.076,liquid_abundance,sulII,sul,secondary effluent [secondary_effluent],none,90200.0,copies/mL,Correct,,,"p. 3, Results and discussion, Section 3.1",XCN
+VA0497,M_002643,R1163,10.1016/j.cej.2017.02.076,liquid_abundance,tetQ,tet,secondary effluent [secondary_effluent],none,31200.0,copies/mL,Correct,,,"p. 3, Results and discussion, Section 3.1",XCN
+VA0498,M_002764,R1223,10.1016/j.envpol.2019.03.111,liquid_abundance,sul2,sul,influent [influent],hybrid constructed wetland influent,22400000.0,copies/mL,Correct,,,"p. 6, Results, section 3.3",XCN
+VA0499,M_002765,R1223,10.1016/j.envpol.2019.03.111,liquid_abundance,ermB,erm,influent [influent],hybrid constructed wetland influent,11700000.0,copies/mL,Correct,,,"p. 6, Results, section 3.3",XCN
+VA0500,M_002768,R1223,10.1016/j.envpol.2019.03.111,liquid_abundance,sul1,sul,influent [influent],hybrid constructed wetland influent,3450000.0,copies/mL,Correct,,,"p. 6, Results, section 3.3",XCN
+VA0501,M_002769,R1223,10.1016/j.envpol.2019.03.111,liquid_abundance,tetG,tet,influent [influent],hybrid constructed wetland influent,1040000.0,copies/mL,Correct,,,"p. 6, Results, section 3.3",XCN
+VA0502,M_002770,R1223,10.1016/j.envpol.2019.03.111,liquid_abundance,tetO,tet,influent [influent],hybrid constructed wetland influent,7750000.0,copies/mL,Correct,,,"Results, section 3.3",XCN
+VA0503,M_002771,R1223,10.1016/j.envpol.2019.03.111,liquid_abundance,qnrS,qnr,influent [influent],hybrid constructed wetland influent,8410000.0,copies/mL,Correct,,,"p. 6, Results, section 3.3",XCN
+VA0504,M_002772,R1223,10.1016/j.envpol.2019.03.111,liquid_abundance,qnrD,qnr,influent [influent],hybrid constructed wetland influent,38000.0,copies/mL,Correct,,,"p. 6, Results, section 3.3",XCN
+VA0505,M_002774,R1225,10.1007/s11356-014-2800-4,liquid_abundance,sul1,sul,influent [influent],constructed wetland,1970000.0,copies/mL,Group or range value,,,"p. 5, Results, Occurrence and removal of ARGs in the ICW",XCN
+VA0506,M_002912,R1406,10.1371/journal.pone.0156383,liquid_abundance,blaKPC-2,bla,influent [influent],WWTP,220000.0,copies/ml water,Correct,,,"p. 6, Table 2",XCN
+VA0507,M_002913,R1406,10.1371/journal.pone.0156383,liquid_abundance,blaKPC-2,bla,final effluent [final_effluent],WWTP,1500.0,copies/ml water,Correct,,,"p. 1, Table 2",XCN
+VA0508,M_002914,R1406,10.1371/journal.pone.0156383,liquid_abundance,blaGES-1,bla,influent [influent],WWTP,950000.0,copies/ml water,Correct,,,"p. 6, Table 2",XCN
+VA0509,M_002915,R1406,10.1371/journal.pone.0156383,liquid_abundance,blaGES-1,bla,final effluent [final_effluent],WWTP,210000.0,copies/ml water,Correct,,,"p. 5, Table 2",XCN
+VA0510,M_002916,R1406,10.1371/journal.pone.0156383,liquid_abundance,blaIMP-1,bla,influent [influent],WWTP,280000.0,copies/ml water,Correct,,,"p. 6, Table 2",XCN
+VA0511,M_002917,R1406,10.1371/journal.pone.0156383,liquid_abundance,blaIMP-1,bla,final effluent [final_effluent],WWTP,140000.0,copies/ml water,Correct,,,"p. 5, Table 2",XCN

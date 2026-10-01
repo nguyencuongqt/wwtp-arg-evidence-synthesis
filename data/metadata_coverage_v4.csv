@@ -1,0 +1,15 @@
+variable,scope,denominator_studies,studies_with_data,coverage_percent,note
+Route,Route-defined removal studies,68,68,100.0,Studies with valid removal between defined treatment stages (after eligibility audit).
+Treatment category assigned,Route-defined removal studies,68,64,94.1,Studies with valid removal between defined treatment stages (after eligibility audit).
+Influent COD,Influent quality (136-study core),136,13,9.6,136-study quantitative core after eligibility and value audits.
+Influent BOD,Influent quality (136-study core),136,8,5.9,136-study quantitative core after eligibility and value audits.
+Influent TN,Influent quality (136-study core),136,10,7.4,136-study quantitative core after eligibility and value audits.
+Influent NH4+,Influent quality (136-study core),136,11,8.1,136-study quantitative core after eligibility and value audits.
+Influent TP,Influent quality (136-study core),136,12,8.8,136-study quantitative core after eligibility and value audits.
+Influent TSS,Influent quality (136-study core),136,13,9.6,136-study quantitative core after eligibility and value audits.
+Influent pH,Influent quality (136-study core),136,16,11.8,136-study quantitative core after eligibility and value audits.
+HRT,Operating conditions (264 candidate removal studies),264,75,28.4,Operating-condition audit of 264 candidate removal studies before the eligibility re-assessment; not re-derived afterwards.
+SRT,Operating conditions (264 candidate removal studies),264,26,9.8,Operating-condition audit of 264 candidate removal studies before the eligibility re-assessment; not re-derived afterwards.
+Temperature,Operating conditions (264 candidate removal studies),264,80,30.3,Operating-condition audit of 264 candidate removal studies before the eligibility re-assessment; not re-derived afterwards.
+pH,Operating conditions (264 candidate removal studies),264,71,26.9,Operating-condition audit of 264 candidate removal studies before the eligibility re-assessment; not re-derived afterwards.
+COD,Operating conditions (264 candidate removal studies),264,6,2.3,Operating-condition audit of 264 candidate removal studies before the eligibility re-assessment; not re-derived afterwards.

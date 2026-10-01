@@ -1,0 +1,101 @@
+check_id,audit_id,record_id,doi,target,matrix_or_route,first_reviewer_XCN,second_reviewer_TU,second_reviewer_correct_value,second_reviewer_correct_unit,agreement,final_decision,final_decision_by
+UC001,VA0251,R0482,10.2166/wst.2021.088,tetC,secondary effluent [secondary_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC002,VA0190,R0038,10.1007/s11356-025-35988-2,ermB,Influent [influent],Group or range value,Correct,,,disagree,Group or range value,authors (disagreement review)
+UC003,VA0074,R1063,10.1016/j.watres.2019.115277,blaOXA-1,influent -> effluent (influent_to_final_effluent),Not a treatment comparison,Not a treatment comparison,,,agree,Not a treatment comparison,both reviewers
+UC004,VA0123,R0807,10.1016/j.ijheh.2024.114517,sul1,kick-off of biodegradation (inoculum + WWTP effluent) [final_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC005,VA0378,R0972,10.1007/s11783-021-1392-8,int1,influent [influent],Corrected,Group or range value,,,disagree,Corrected,authors (disagreement review)
+UC006,VA0490,R1158,10.5004/dwt.2020.25712,tetA,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC007,VA0032,R0591,10.1007/s11356-022-24545-w,blaCTX-M,influent -> final effluent (influent_to_final_effluent),Correct,Correct,,,agree,Correct,both reviewers
+UC008,VA0252,R0482,10.2166/wst.2021.088,sulI,secondary effluent [secondary_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC009,VA0112,R0591,10.1007/s11356-022-24545-w,intI1,final effluent [final_effluent],Wrong matrix/stage,Wrong matrix/stage,,,agree,Wrong matrix/stage,both reviewers
+UC010,VA0064,R0885,10.1007/s11783-019-1116-5,blaCTX-M,secondary effluent -> treated effluent (secondary_effluent_to_final_effluent),Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC011,VA0477,R1051,10.1016/j.seppur.2020.116946,tetQ,influent [influent],Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC012,VA0214,R0262,10.1016/j.watres.2019.05.100,sul1,influent [influent],Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC013,VA0232,R0268,10.1016/j.chemosphere.2015.10.044,tet(B),Effluent [final_effluent],Duplicate row,Correct,,,agree (same value kept; reviewers retained opposite copies of a duplicate pair),Duplicate row,both reviewers
+UC014,VA0021,R0367,10.1016/j.chemosphere.2022.137362,tetX,activated sludge -> anaerobic sludge (activated_sludge_to_anaerobic_sludge),Not a treatment comparison,Correct,,,disagree,Not a treatment comparison,authors (disagreement review)
+UC015,VA0180,R0038,10.1007/s11356-025-35988-2,sul1,influent [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC016,VA0429,R1012,10.1007/s11356-014-2613-5,tetC,"Nanjing, China domestic AS effluent (prior to disinfection) [final_effluent]",Cited literature value,Correct,,,disagree,Cited literature value,authors (disagreement review)
+UC017,VA0421,R1012,10.1007/s11356-014-2613-5,tetW,effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC018,VA0313,R0815,10.1002/jctb.7329,tetA,primary sedimentation effluent / Bacterial DNA [final_effluent],Wrong matrix/stage,Wrong matrix/stage,,,agree,Wrong matrix/stage,both reviewers
+UC019,VA0098,R0170,10.1016/j.jhazmat.2021.127352,intI1,effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC020,VA0475,R1049,10.1016/j.marpolbul.2019.110856,sulII,influent [influent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC021,VA0319,R0820,10.3390/antibiotics13080711,blaIMP,hospital effluent before treatment [final_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC022,VA0472,R1026,10.1016/j.biortech.2020.122825,blaTEM,influent [influent],Corrected,Correct,,,disagree,Corrected,authors (disagreement review)
+UC023,VA0382,R0972,10.1007/s11783-021-1392-8,ermB,effluent [final_effluent],Duplicate row,Correct,,,disagree,Duplicate row,authors (disagreement review)
+UC024,VA0125,R0815,10.1002/jctb.7329,sul2,primary sedimentation effluent [final_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC025,VA0099,R0180,10.1007/s41742-023-00552-8,intI1,effluent [final_effluent],Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC026,VA0071,R1028,10.1021/es303652q,vanA,secondary effluent / filtered wastewater effluent -> UV-treated wastewater effluent (secondary_effluent_to_final_effluent),Not a treatment comparison,Not a treatment comparison,,,agree,Not a treatment comparison,both reviewers
+UC027,VA0381,R0972,10.1007/s11783-021-1392-8,tetB,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC028,VA0332,R0855,10.1016/j.envpol.2016.01.043,blaCTX-M,influent [influent],Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC029,VA0107,R0268,10.1016/j.chemosphere.2015.10.044,sul2,Effluent [final_effluent],Corrected,Correct,,,disagree,Corrected,authors (disagreement review)
+UC030,VA0127,R0815,10.1002/jctb.7329,sul2,MBR effluent / eDNA [final_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC031,VA0087,R0038,10.1007/s11356-025-35988-2,intI1,final effluent [final_effluent],Cited literature value,Cited literature value,,,agree,Cited literature value,both reviewers
+UC032,VA0427,R1012,10.1007/s11356-014-2613-5,tetG,"Nanjing, China domestic AS effluent (prior to disinfection) [final_effluent]",Cited literature value,Correct,,,disagree,Cited literature value,authors (disagreement review)
+UC033,VA0494,R1158,10.5004/dwt.2020.25712,sulII,secondary effluent [secondary_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC034,VA0364,R0922,10.1007/s11356-021-15351-x,blaTEM,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC035,VA0120,R0727,10.1016/j.watres.2023.120747,sul2,effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC036,VA0478,R1061,10.1016/j.scitotenv.2018.10.305,sul1,secondary effluent [secondary_effluent],Corrected,Corrected,1230000.0,copies/mL,agree,Corrected,both reviewers
+UC037,VA0379,R0972,10.1007/s11783-021-1392-8,sul2,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC038,VA0491,R1158,10.5004/dwt.2020.25712,sulI,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC039,VA0253,R0482,10.2166/wst.2021.088,sulII,secondary effluent [secondary_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC040,VA0016,R0280,10.1061/JHTRBP.HZENG-1601,tetA,influent -> final effluent (influent_to_final_effluent),Not a treatment comparison,Correct,,,disagree,Not a treatment comparison,authors (disagreement review)
+UC041,VA0370,R0939,10.1016/j.apcatb.2018.12.030,qnrS,MBR effluent [final_effluent],Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC042,VA0307,R0815,10.1002/jctb.7329,ampC,primary sedimentation effluent [final_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC043,VA0009,R0132,10.1007/s11356-023-31287-w,tetQ,influent -> final effluent (influent_to_final_effluent),Not a treatment comparison,Correct,,,disagree,Not a treatment comparison,authors (disagreement review)
+UC044,VA0457,R1012,10.1007/s11356-014-2613-5,tetW,"Taicang, China cephalosporins production wastewater UASB/aerobic influent (after primary settling) [influent]",Duplicate row,Correct,,,disagree,Duplicate row,authors (disagreement review)
+UC045,VA0396,R1012,10.1007/s11356-014-2613-5,tetW,influent [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC046,VA0043,R0841,10.1016/j.biortech.2019.122513,blaTEM,sewage sludge -> composted sludge (sewage_sludge_to_biosolids),Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC047,VA0359,R0902,10.1016/j.watres.2017.10.025,intI1,influent [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC048,VA0192,R0038,10.1007/s11356-025-35988-2,intI1,Influent [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC049,VA0053,R0885,10.1007/s11783-019-1116-5,sulII,influent -> secondary effluent (influent_to_secondary_effluent),Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC050,VA0306,R0815,10.1002/jctb.7329,ampC,primary sedimentation effluent / Bacterial DNA [final_effluent],Wrong matrix/stage,Wrong matrix/stage,,,agree,Wrong matrix/stage,both reviewers
+UC051,VA0132,R0972,10.1007/s11783-021-1392-8,sul2,effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC052,VA0249,R0482,10.2166/wst.2021.088,intI1,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC053,VA0001,R0052,10.1016/j.envpol.2022.120618,tetM,fresh swine manure -> composted swine manure (animal_manure_to_composted_manure),Wrong matrix/stage,Not a treatment comparison,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC054,VA0115,R0628,10.1016/j.clwat.2025.100076,sul1,municipal WWTP effluent WBE [final_effluent],Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC055,VA0395,R1012,10.1007/s11356-014-2613-5,tetG,effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC056,VA0470,R1012,10.1007/s11356-014-2613-5,intI1,"Shanghai, China petroleum chemical wastewater A/O influent (after primary settling) [influent]",Duplicate row,Correct,,,disagree,Duplicate row,authors (disagreement review)
+UC057,VA0272,R0619,10.1016/j.watres.2024.121392,intI1,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC058,VA0025,R0520,10.1016/j.wroa.2026.100506,blaSHV,influent -> effluent (influent_to_final_effluent),Group or range value,Not a treatment comparison,,,disagree,Group or range value,authors (disagreement review)
+UC059,VA0090,R0038,10.1007/s11356-025-35988-2,intI1,Effluent [final_effluent],Group or range value,Correct,,,disagree,Group or range value,authors (disagreement review)
+UC060,VA0184,R0038,10.1007/s11356-025-35988-2,ermB,Effluent [final_effluent],Duplicate row,Correct,,,disagree,Duplicate row,authors (disagreement review)
+UC061,VA0485,R1145,10.1016/j.watres.2019.07.004,ermB,septic tank effluent [final_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC062,VA0014,R0196,10.1016/j.watres.2020.116752,ermB,influent -> final effluent (influent_to_final_effluent),Not a treatment comparison,Not a treatment comparison,,,agree,Not a treatment comparison,both reviewers
+UC063,VA0121,R0807,10.1016/j.ijheh.2024.114517,sul1,WWTP effluents [final_effluent],Cited literature value,Cited literature value,,,agree,Cited literature value,both reviewers
+UC064,VA0461,R1012,10.1007/s11356-014-2613-5,sul1,"Taicang, China cephalosporins production wastewater UASB/aerobic influent (after primary settling) [influent]",Duplicate row,Correct,,,disagree,Duplicate row,authors (disagreement review)
+UC065,VA0223,R0268,10.1016/j.chemosphere.2015.10.044,tet(B),final effluent [final_effluent],Correct,Duplicate row,,,agree (same value kept; reviewers retained opposite copies of a duplicate pair),Correct,both reviewers
+UC066,VA0231,R0268,10.1016/j.chemosphere.2015.10.044,tet(A),Effluent [final_effluent],Corrected,Correct,,,disagree,Corrected,authors (disagreement review)
+UC067,VA0357,R0902,10.1016/j.watres.2017.10.025,blaOXA,influent [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC068,VA0294,R0713,10.1002/wer.11104,blaCTXM,final effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC069,VA0333,R0855,10.1016/j.envpol.2016.01.043,blaCTX-M,influent [influent],Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC070,VA0225,R0268,10.1016/j.chemosphere.2015.10.044,sul1,raw sewage [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC071,VA0213,R0211,10.1016/j.watres.2022.118571,tetO,effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC072,VA0075,R1063,10.1016/j.watres.2019.115277,blaNDM,influent -> effluent (influent_to_final_effluent),Not a treatment comparison,Not a treatment comparison,,,agree,Not a treatment comparison,both reviewers
+UC073,VA0141,R1012,10.1007/s11356-014-2613-5,sul1,effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC074,VA0106,R0268,10.1016/j.chemosphere.2015.10.044,sul1,Effluent [final_effluent],Corrected,Correct,,,disagree,Corrected,authors (disagreement review)
+UC075,VA0310,R0815,10.1002/jctb.7329,qnrA,primary sedimentation effluent [final_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC076,VA0072,R1028,10.1021/es303652q,tet(A),secondary effluent / filtered wastewater effluent -> UV-treated wastewater effluent (secondary_effluent_to_final_effluent),Not a treatment comparison,Not a treatment comparison,,,agree,Not a treatment comparison,both reviewers
+UC077,VA0100,R0211,10.1016/j.watres.2022.118571,sul1,effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC078,VA0291,R0681,10.1016/j.watres.2023.119986,intI1,influent [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC079,VA0244,R0427,10.1016/j.scitotenv.2024.173217,intI1,influent [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC080,VA0468,R1012,10.1007/s11356-014-2613-5,tetX,"Shanghai, China petroleum chemical wastewater A/O effluent (prior to disinfection) [final_effluent]",Duplicate row,Correct,,,disagree,Duplicate row,authors (disagreement review)
+UC081,VA0328,R0849,10.1089/ees.2020.0189,sul1,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC082,VA0511,R1406,10.1371/journal.pone.0156383,blaIMP-1,final effluent [final_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC083,VA0467,R1012,10.1007/s11356-014-2613-5,tetX,"Shanghai, China petroleum chemical wastewater A/O influent (after primary settling) [influent]",Duplicate row,Correct,,,disagree,Duplicate row,authors (disagreement review)
+UC084,VA0439,R1012,10.1007/s11356-014-2613-5,tetG,"Wuxi, China 56% industrial and 44% domestic A2O-MBR influent (after primary settling) [influent]",Duplicate row,Correct,,,disagree,Duplicate row,authors (disagreement review)
+UC085,VA0304,R0795,10.1016/j.jece.2026.121488,intI1,untreated secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC086,VA0010,R0132,10.1007/s11356-023-31287-w,sul1,influent -> final effluent (influent_to_final_effluent),Not a treatment comparison,Correct,,,disagree,Not a treatment comparison,authors (disagreement review)
+UC087,VA0219,R0268,10.1016/j.chemosphere.2015.10.044,intI1,raw sewage [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC088,VA0077,R1063,10.1016/j.watres.2019.115277,blaVIM,influent -> effluent (influent_to_final_effluent),Not a treatment comparison,Not a treatment comparison,,,agree,Not a treatment comparison,both reviewers
+UC089,VA0453,R1012,10.1007/s11356-014-2613-5,sul1,"Jingjiang, China VC production wastewater A/O influent (after primary settling) [influent]",Duplicate row,Correct,,,disagree,Duplicate row,authors (disagreement review)
+UC090,VA0361,R0909,10.1016/j.watres.2017.01.010,intI1,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC091,VA0201,R0038,10.1007/s11356-025-35988-2,qnrB,Influent [influent],Group or range value,Correct,,,disagree,Group or range value,authors (disagreement review)
+UC092,VA0263,R0591,10.1007/s11356-022-24545-w,intI1,influent [influent],Wrong matrix/stage,Wrong matrix/stage,,,agree,Wrong matrix/stage,both reviewers
+UC093,VA0128,R0815,10.1002/jctb.7329,sul2,primary sedimentation effluent / Bacterial DNA [final_effluent],Wrong matrix/stage,Wrong matrix/stage,,,agree,Wrong matrix/stage,both reviewers
+UC094,VA0279,R0628,10.1016/j.clwat.2025.100076,sul1,municipal WWTP influent WBI [influent],Group or range value,Group or range value,,,agree,Group or range value,both reviewers
+UC095,VA0322,R0825,10.1111/tmi.13986,qnrB,WWTP_secondary effluent [final_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC096,VA0303,R0795,10.1016/j.jece.2026.121488,tetW,untreated secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC097,VA0315,R0815,10.1002/jctb.7329,tetA,primary sedimentation effluent [final_effluent],Wrong matrix/stage,Correct,,,disagree,Wrong matrix/stage,authors (disagreement review)
+UC098,VA0356,R0902,10.1016/j.watres.2017.10.025,blaCTX,influent [influent],Correct,Correct,,,agree,Correct,both reviewers
+UC099,VA0375,R0957,10.1016/j.scitotenv.2018.10.111,NDM-1,secondary effluent [secondary_effluent],Correct,Correct,,,agree,Correct,both reviewers
+UC100,VA0122,R0807,10.1016/j.ijheh.2024.114517,sul1,WWTP effluents [final_effluent],Cited literature value,Cited literature value,,,agree,Cited literature value,both reviewers

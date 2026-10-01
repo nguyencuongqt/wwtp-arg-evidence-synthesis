@@ -1,22 +1,27 @@
 cff-version: 1.2.0
-message: "Please cite the associated manuscript and the archived repository release."
-title: "Reproducibility package for residual antibiotic resistance gene burden after wastewater treatment"
+message: "If you use this package, please cite the archived release and the associated article."
+title: "Reproducibility package for traceable synthesis of antibiotic resistance gene burdens across wastewater treatment systems"
 type: dataset
 authors:
   - family-names: "Nguyen"
     given-names: "Xuan Cuong"
-version: 1.0.0
-date-released: 2026-08-05
+    orcid: "https://orcid.org/0000-0002-1953-1456"
+  - family-names: "Unno"
+    given-names: "Tatsuya"
+version: 1.3.0
+date-released: 2026-10-01
+doi: 10.5281/zenodo.21818085
+repository-code: "https://github.com/nguyencuongqt/wwtp-arg-evidence-synthesis"
+license: CC-BY-4.0
 keywords:
   - antibiotic resistance genes
   - wastewater treatment
-  - environmental AMR surveillance
+  - effluent surveillance
   - evidence synthesis
-  - knowledge graph
+  - meta-analysis
   - large language model
-license: CC-BY-4.0
 abstract: >-
-  Public-safe frozen cohorts, deterministic analysis scripts, compact derived
-  results, and provenance metadata supporting a traceable evidence synthesis
-  of antibiotic resistance gene and mobile genetic element fate in wastewater
-  treatment systems.
+  Final datasets, human audit and critical-appraisal records, and deterministic code
+  that reproduce the quantitative results of a human-verified, large language
+  model-assisted synthesis of antibiotic resistance gene and mobile genetic element
+  removal and residual burden in wastewater treatment systems.

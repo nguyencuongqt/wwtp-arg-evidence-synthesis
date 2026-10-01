@@ -1,0 +1,3 @@
+route,studies,rows,median,iqr_low,iqr_high,min,max,bootstrap_ci_low,bootstrap_ci_high
+influent_to_final_effluent,1,1,1.85,1.85,1.85,1.85,1.85,,
+secondary_effluent_to_final_effluent,5,36,3.18,2.36,3.5,2.29,4.37,2.29,4.37

@@ -1,0 +1,23 @@
+critical_unit_id,final_overall_judgement,record_id,doi,outcome_id,target_name,matrix_before,matrix_after,treatment_process,gene_family,route
+R0090-U01,Critical concern / insufficient reporting,R0090,10.1016/j.watres.2023.120761,O_000114,ermB,influent,effluent,activated sludge-based WWTP,erm,influent_to_final_effluent
+R0090-U01,Critical concern / insufficient reporting,R0090,10.1016/j.watres.2023.120761,O_000117,sul1,influent,effluent,activated sludge-based WWTP,sul,influent_to_final_effluent
+R0170-U01,Critical concern / insufficient reporting,R0170,10.1016/j.jhazmat.2021.127352,O_000255,tetE,influent,effluent,EGSB anaerobic reactor,tet,influent_to_final_effluent
+R0262-U01,Critical concern / insufficient reporting,R0262,10.1016/j.watres.2019.05.100,O_000453,qnrS,influent,final effluent,WWTP treatment,qnr,influent_to_final_effluent
+R0262-U01,Critical concern / insufficient reporting,R0262,10.1016/j.watres.2019.05.100,O_000454,ermB,influent,final effluent,WWTP treatment,erm,influent_to_final_effluent
+R0262-U01,Critical concern / insufficient reporting,R0262,10.1016/j.watres.2019.05.100,O_000455,tetM,influent,final effluent,WWTP treatment,tet,influent_to_final_effluent
+R0262-U01,Critical concern / insufficient reporting,R0262,10.1016/j.watres.2019.05.100,O_000456,blaCTX-M,influent,final effluent,WWTP treatment,bla,influent_to_final_effluent
+R0262-U01,Critical concern / insufficient reporting,R0262,10.1016/j.watres.2019.05.100,O_000457,sul2,influent,final effluent,WWTP treatment,sul,influent_to_final_effluent
+R0262-U01,Critical concern / insufficient reporting,R0262,10.1016/j.watres.2019.05.100,O_000458,sul1,influent,final effluent,WWTP treatment,sul,influent_to_final_effluent
+R0262-U01,Critical concern / insufficient reporting,R0262,10.1016/j.watres.2019.05.100,O_000459,intI1,influent,final effluent,WWTP treatment,intI1,influent_to_final_effluent
+R0272-U01,Critical concern / insufficient reporting,R0272,10.1016/j.envpol.2025.126096,O_000483,class 1 integrons,influent,secondary effluent,activated sludge; tertiary UV treatment,intI1,influent_to_secondary_effluent
+R0505-U01,Critical concern / insufficient reporting,R0505,10.1016/j.envint.2013.01.019,O_000941,intI1,influent,effluent,municipal wastewater treatment systems,intI1,influent_to_final_effluent
+R0743-U01,Critical concern / insufficient reporting,R0743,10.1016/j.biortech.2025.132047,O_001390,tetQ,influent,secondary effluent,membrane bioreactor,tet,influent_to_secondary_effluent
+R0804-U01,Critical concern / insufficient reporting,R0804,10.2166/wrd.2022.018,O_001507,blaTEM,influent,effluent,AnMBR,bla,influent_to_final_effluent
+R0872-U01,Critical concern / insufficient reporting,R0872,10.1016/j.envpol.2021.118512,O_001681,aadA,influent,secondary effluent,municipal wastewater treatment,other,influent_to_secondary_effluent
+R0872-U01,Critical concern / insufficient reporting,R0872,10.1016/j.envpol.2021.118512,O_001682,sul1,influent,secondary effluent,municipal wastewater treatment,sul,influent_to_secondary_effluent
+R0872-U01,Critical concern / insufficient reporting,R0872,10.1016/j.envpol.2021.118512,O_001683,aac(6')-Ib,influent,secondary effluent,municipal wastewater treatment,other,influent_to_secondary_effluent
+R0872-U01,Critical concern / insufficient reporting,R0872,10.1016/j.envpol.2021.118512,O_001684,tetA,influent,secondary effluent,municipal wastewater treatment,tet,influent_to_secondary_effluent
+R0872-U01,Critical concern / insufficient reporting,R0872,10.1016/j.envpol.2021.118512,O_001685,mphB,influent,secondary effluent,municipal wastewater treatment,erm,influent_to_secondary_effluent
+R1158-U01,Critical concern / insufficient reporting,R1158,10.5004/dwt.2020.25712,O_002529,tetX,secondary effluent,treated effluent,coagulation (PAC)-sedimentation-UF,tet,secondary_effluent_to_final_effluent
+R1158-U02,Critical concern / insufficient reporting,R1158,10.5004/dwt.2020.25712,O_002530,sulI,secondary effluent,treated effluent,coagulation (PFS)-sedimentation-UF,sul,secondary_effluent_to_final_effluent
+R1158-U03,Critical concern / insufficient reporting,R1158,10.5004/dwt.2020.25712,O_002528,tetA,secondary effluent,treated effluent,direct UF,tet,secondary_effluent_to_final_effluent

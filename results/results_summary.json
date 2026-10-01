@@ -1,0 +1,1439 @@
+{
+ "family_main_route": {
+  "tet": {
+   "studies": 9,
+   "rows": 13,
+   "median": 2.53,
+   "iqr_low": 2.0,
+   "iqr_high": 3.0,
+   "min": 0.2,
+   "max": 8.36,
+   "bootstrap_ci_low": 1.84,
+   "bootstrap_ci_high": 3.0
+  },
+  "sul": {
+   "studies": 9,
+   "rows": 13,
+   "median": 2.29,
+   "iqr_low": 1.2,
+   "iqr_high": 4.07,
+   "min": 0.2,
+   "max": 7.48,
+   "bootstrap_ci_low": 0.6455,
+   "bootstrap_ci_high": 4.79
+  },
+  "bla": {
+   "studies": 12,
+   "rows": 21,
+   "median": 2.37,
+   "iqr_low": 1.69,
+   "iqr_high": 3.1025,
+   "min": 0.17,
+   "max": 4.54,
+   "bootstrap_ci_low": 1.38,
+   "bootstrap_ci_high": 3.135,
+   "dl": 2.307468835510099,
+   "dl_ci_low": 1.5744457358406256,
+   "dl_ci_high": 3.0404919351795723,
+   "i2_percent": 97.81525719840958
+  },
+  "intI1": {
+   "studies": 5,
+   "rows": 5,
+   "median": 1.8,
+   "iqr_low": 1.23,
+   "iqr_high": 2.9,
+   "min": 0.2,
+   "max": 5.81,
+   "bootstrap_ci_low": 0.2,
+   "bootstrap_ci_high": 5.81
+  },
+  "erm": {
+   "studies": 8,
+   "rows": 10,
+   "median": 2.575,
+   "iqr_low": 2.11,
+   "iqr_high": 3.21625,
+   "min": 1.12,
+   "max": 3.8049999999999997,
+   "bootstrap_ci_low": 1.8831250000000002,
+   "bootstrap_ci_high": 3.64
+  },
+  "qnr": {
+   "studies": 1,
+   "rows": 1,
+   "median": 2.65,
+   "iqr_low": 2.65,
+   "iqr_high": 2.65,
+   "min": 2.65,
+   "max": 2.65,
+   "bootstrap_ci_low": null,
+   "bootstrap_ci_high": null
+  }
+ },
+ "family_by_route": {
+  "tet|influent_to_final_effluent": {
+   "studies": 9,
+   "rows": 13,
+   "median": 2.53,
+   "iqr_low": 2.0,
+   "iqr_high": 3.0,
+   "min": 0.2,
+   "max": 8.36,
+   "bootstrap_ci_low": 1.84,
+   "bootstrap_ci_high": 4.47
+  },
+  "tet|influent_to_secondary_effluent": {
+   "studies": 5,
+   "rows": 10,
+   "median": 1.64,
+   "iqr_low": 0.3,
+   "iqr_high": 2.7,
+   "min": 0.27,
+   "max": 3.14,
+   "bootstrap_ci_low": 0.27,
+   "bootstrap_ci_high": 3.14
+  },
+  "tet|secondary_effluent_to_final_effluent": {
+   "studies": 2,
+   "rows": 6,
+   "median": 1.3399999999999999,
+   "iqr_low": 0.81,
+   "iqr_high": 1.8699999999999999,
+   "min": 0.28,
+   "max": 2.4,
+   "bootstrap_ci_low": 0.28,
+   "bootstrap_ci_high": 2.4
+  },
+  "sul|influent_to_final_effluent": {
+   "studies": 9,
+   "rows": 13,
+   "median": 2.29,
+   "iqr_low": 1.2,
+   "iqr_high": 4.07,
+   "min": 0.2,
+   "max": 7.48,
+   "bootstrap_ci_low": 0.6455,
+   "bootstrap_ci_high": 4.79
+  },
+  "sul|influent_to_secondary_effluent": {
+   "studies": 5,
+   "rows": 9,
+   "median": 1.3,
+   "iqr_low": 1.0,
+   "iqr_high": 1.6800000000000002,
+   "min": 1.0,
+   "max": 2.06,
+   "bootstrap_ci_low": 1.0,
+   "bootstrap_ci_high": 2.06
+  },
+  "sul|secondary_effluent_to_final_effluent": {
+   "studies": 4,
+   "rows": 10,
+   "median": 2.025,
+   "iqr_low": 1.87,
+   "iqr_high": 2.15,
+   "min": 1.48,
+   "max": 2.45,
+   "bootstrap_ci_low": 1.48,
+   "bootstrap_ci_high": 2.45
+  },
+  "bla|influent_to_final_effluent": {
+   "studies": 12,
+   "rows": 21,
+   "median": 2.37,
+   "iqr_low": 1.69,
+   "iqr_high": 3.1025,
+   "min": 0.17,
+   "max": 4.54,
+   "bootstrap_ci_low": 1.38,
+   "bootstrap_ci_high": 3.135,
+   "dl": 2.307468835510099,
+   "dl_ci_low": 1.5744457358406256,
+   "dl_ci_high": 3.0404919351795723,
+   "i2_percent": 97.81525719840958
+  },
+  "bla|influent_to_secondary_effluent": {
+   "studies": 2,
+   "rows": 4,
+   "median": 2.25,
+   "iqr_low": 1.5250000000000001,
+   "iqr_high": 2.975,
+   "min": 0.8,
+   "max": 3.7,
+   "bootstrap_ci_low": 0.8,
+   "bootstrap_ci_high": 3.7
+  },
+  "bla|secondary_effluent_to_final_effluent": {
+   "studies": 1,
+   "rows": 1,
+   "median": 0.29,
+   "iqr_low": 0.29,
+   "iqr_high": 0.29,
+   "min": 0.29,
+   "max": 0.29,
+   "bootstrap_ci_low": null,
+   "bootstrap_ci_high": null
+  },
+  "intI1|influent_to_final_effluent": {
+   "studies": 5,
+   "rows": 5,
+   "median": 1.8,
+   "iqr_low": 1.23,
+   "iqr_high": 2.9,
+   "min": 0.2,
+   "max": 5.81,
+   "bootstrap_ci_low": 0.2,
+   "bootstrap_ci_high": 5.81
+  },
+  "intI1|influent_to_secondary_effluent": {
+   "studies": 3,
+   "rows": 4,
+   "median": 1.3599999999999999,
+   "iqr_low": 1.08,
+   "iqr_high": 1.68,
+   "min": 0.8,
+   "max": 2.0,
+   "bootstrap_ci_low": 0.8,
+   "bootstrap_ci_high": 2.0
+  },
+  "intI1|secondary_effluent_to_final_effluent": {
+   "studies": 2,
+   "rows": 4,
+   "median": 2.125,
+   "iqr_low": 1.6375,
+   "iqr_high": 2.6125,
+   "min": 1.15,
+   "max": 3.1,
+   "bootstrap_ci_low": 1.15,
+   "bootstrap_ci_high": 3.1
+  },
+  "erm|influent_to_final_effluent": {
+   "studies": 8,
+   "rows": 10,
+   "median": 2.575,
+   "iqr_low": 2.11,
+   "iqr_high": 3.21625,
+   "min": 1.12,
+   "max": 3.8049999999999997,
+   "bootstrap_ci_low": 1.92,
+   "bootstrap_ci_high": 3.64
+  },
+  "erm|influent_to_secondary_effluent": {
+   "studies": 3,
+   "rows": 3,
+   "median": 1.22,
+   "iqr_low": 0.85,
+   "iqr_high": 1.96,
+   "min": 0.48,
+   "max": 2.7,
+   "bootstrap_ci_low": 0.48,
+   "bootstrap_ci_high": 2.7
+  },
+  "erm|secondary_effluent_to_final_effluent": null,
+  "qnr|influent_to_final_effluent": {
+   "studies": 1,
+   "rows": 1,
+   "median": 2.65,
+   "iqr_low": 2.65,
+   "iqr_high": 2.65,
+   "min": 2.65,
+   "max": 2.65,
+   "bootstrap_ci_low": null,
+   "bootstrap_ci_high": null
+  },
+  "qnr|influent_to_secondary_effluent": {
+   "studies": 1,
+   "rows": 1,
+   "median": 0.94,
+   "iqr_low": 0.94,
+   "iqr_high": 0.94,
+   "min": 0.94,
+   "max": 0.94,
+   "bootstrap_ci_low": null,
+   "bootstrap_ci_high": null
+  },
+  "qnr|secondary_effluent_to_final_effluent": null
+ },
+ "route": {
+  "influent_to_final_effluent": {
+   "studies": 20,
+   "rows": 66,
+   "median": 2.3024999999999998,
+   "iqr_low": 1.0775000000000001,
+   "iqr_high": 3.20125,
+   "min": 0.17,
+   "max": 7.715,
+   "bootstrap_ci_low": 1.4625,
+   "bootstrap_ci_high": 3.0,
+   "dl": 2.399047473293608,
+   "dl_ci_low": 1.8355042038865808,
+   "dl_ci_high": 2.962590742700635,
+   "i2_percent": 98.396925579878
+  },
+  "influent_to_secondary_effluent": {
+   "studies": 8,
+   "rows": 33,
+   "median": 1.51,
+   "iqr_low": 0.75875,
+   "iqr_high": 2.01125,
+   "min": 0.3,
+   "max": 2.7,
+   "bootstrap_ci_low": 0.635,
+   "bootstrap_ci_high": 2.045,
+   "dl": 1.4075016391321524,
+   "dl_ci_low": 0.8890201641211571,
+   "dl_ci_high": 1.9259831141431478,
+   "i2_percent": 86.28286006598805
+  },
+  "secondary_effluent_to_final_effluent": {
+   "studies": 4,
+   "rows": 21,
+   "median": 2.025,
+   "iqr_low": 1.5825,
+   "iqr_high": 2.1624999999999996,
+   "min": 0.33,
+   "max": 2.5,
+   "bootstrap_ci_low": 0.33,
+   "bootstrap_ci_high": 2.5
+  }
+ },
+ "treatment": {
+  "biological": {
+   "studies": 12,
+   "rows": 29,
+   "median": 1.875,
+   "iqr_low": 0.72875,
+   "iqr_high": 2.3387499999999997,
+   "min": 0.17,
+   "max": 3.8049999999999997,
+   "bootstrap_ci_low": 0.6975,
+   "bootstrap_ci_high": 2.3724999999999996,
+   "dl": 1.610664057137042,
+   "dl_ci_low": 1.0965383431420372,
+   "dl_ci_high": 2.124789771132047,
+   "i2_percent": 90.34961370306127
+  },
+  "disinfection": {
+   "studies": 14,
+   "rows": 65,
+   "median": 2.0,
+   "iqr_low": 0.97125,
+   "iqr_high": 2.53625,
+   "min": 0.2,
+   "max": 4.0,
+   "bootstrap_ci_low": 0.785,
+   "bootstrap_ci_high": 2.7,
+   "dl": 1.9632080331252877,
+   "dl_ci_low": 1.360666506525883,
+   "dl_ci_high": 2.5657495597246927,
+   "i2_percent": 94.75489255281077
+  },
+  "membrane": {
+   "studies": 3,
+   "rows": 10,
+   "median": 1.1,
+   "iqr_low": 0.7000000000000001,
+   "iqr_high": 4.4075,
+   "min": 0.3,
+   "max": 7.715,
+   "bootstrap_ci_low": 0.3,
+   "bootstrap_ci_high": 7.715
+  },
+  "physicochemical": {
+   "studies": 3,
+   "rows": 14,
+   "median": 2.5,
+   "iqr_low": 1.825,
+   "iqr_high": 3.285,
+   "min": 1.15,
+   "max": 4.07,
+   "bootstrap_ci_low": 1.15,
+   "bootstrap_ci_high": 4.07
+  }
+ },
+ "treatment_by_family": {
+  "biological|tet": {
+   "studies": 4,
+   "rows": 4,
+   "median": 2.0,
+   "iqr_low": 1.5675,
+   "iqr_high": 2.1325,
+   "min": 0.27,
+   "max": 2.53,
+   "bootstrap_ci_low": 0.27,
+   "bootstrap_ci_high": 2.53
+  },
+  "biological|sul": {
+   "studies": 3,
+   "rows": 4,
+   "median": 1.2,
+   "iqr_low": 1.1,
+   "iqr_high": 1.5550000000000002,
+   "min": 1.0,
+   "max": 1.9100000000000001,
+   "bootstrap_ci_low": 1.0,
+   "bootstrap_ci_high": 1.9100000000000001
+  },
+  "biological|bla": {
+   "studies": 7,
+   "rows": 11,
+   "median": 2.0,
+   "iqr_low": 0.525,
+   "iqr_high": 2.37,
+   "min": 0.17,
+   "max": 3.07,
+   "bootstrap_ci_low": 0.29,
+   "bootstrap_ci_high": 2.44
+  },
+  "biological|intI1": {
+   "studies": 2,
+   "rows": 2,
+   "median": 2.35,
+   "iqr_low": 2.075,
+   "iqr_high": 2.625,
+   "min": 1.8,
+   "max": 2.9,
+   "bootstrap_ci_low": 1.8,
+   "bootstrap_ci_high": 2.9
+  },
+  "biological|erm": {
+   "studies": 5,
+   "rows": 6,
+   "median": 2.5,
+   "iqr_low": 2.3,
+   "iqr_high": 2.65,
+   "min": 1.54,
+   "max": 3.8049999999999997,
+   "bootstrap_ci_low": 1.54,
+   "bootstrap_ci_high": 3.8049999999999997
+  },
+  "biological|qnr": {
+   "studies": 2,
+   "rows": 2,
+   "median": 1.795,
+   "iqr_low": 1.3675,
+   "iqr_high": 2.2225,
+   "min": 0.94,
+   "max": 2.65,
+   "bootstrap_ci_low": 0.94,
+   "bootstrap_ci_high": 2.65
+  },
+  "disinfection|tet": {
+   "studies": 7,
+   "rows": 15,
+   "median": 2.7,
+   "iqr_low": 1.06,
+   "iqr_high": 2.9975,
+   "min": 0.2,
+   "max": 3.14,
+   "bootstrap_ci_low": 0.28,
+   "bootstrap_ci_high": 3.0
+  },
+  "disinfection|sul": {
+   "studies": 9,
+   "rows": 19,
+   "median": 1.6800000000000002,
+   "iqr_low": 1.0,
+   "iqr_high": 2.0,
+   "min": 0.2,
+   "max": 3.0,
+   "bootstrap_ci_low": 0.6455,
+   "bootstrap_ci_high": 2.29
+  },
+  "disinfection|bla": {
+   "studies": 7,
+   "rows": 13,
+   "median": 3.0,
+   "iqr_low": 1.4,
+   "iqr_high": 3.35,
+   "min": 0.29,
+   "max": 4.0,
+   "bootstrap_ci_low": 0.8,
+   "bootstrap_ci_high": 3.7
+  },
+  "disinfection|intI1": {
+   "studies": 5,
+   "rows": 8,
+   "median": 1.3599999999999999,
+   "iqr_low": 1.33,
+   "iqr_high": 1.3699999999999999,
+   "min": 0.2,
+   "max": 2.0,
+   "bootstrap_ci_low": 0.2,
+   "bootstrap_ci_high": 2.0
+  },
+  "disinfection|erm": {
+   "studies": 4,
+   "rows": 8,
+   "median": 2.29,
+   "iqr_low": 1.5299999999999998,
+   "iqr_high": 2.79375,
+   "min": 0.48,
+   "max": 3.075,
+   "bootstrap_ci_low": 0.48,
+   "bootstrap_ci_high": 3.075
+  },
+  "disinfection|qnr": null,
+  "membrane|tet": {
+   "studies": 2,
+   "rows": 4,
+   "median": 4.33,
+   "iqr_low": 2.3149999999999995,
+   "iqr_high": 6.345,
+   "min": 0.3,
+   "max": 8.36,
+   "bootstrap_ci_low": 0.3,
+   "bootstrap_ci_high": 8.36
+  },
+  "membrane|sul": {
+   "studies": 2,
+   "rows": 4,
+   "median": 4.390000000000001,
+   "iqr_low": 2.845,
+   "iqr_high": 5.9350000000000005,
+   "min": 1.3,
+   "max": 7.48,
+   "bootstrap_ci_low": 1.3,
+   "bootstrap_ci_high": 7.48
+  },
+  "membrane|bla": null,
+  "membrane|intI1": {
+   "studies": 2,
+   "rows": 2,
+   "median": 3.3049999999999997,
+   "iqr_low": 2.0525,
+   "iqr_high": 4.557499999999999,
+   "min": 0.8,
+   "max": 5.81,
+   "bootstrap_ci_low": 0.8,
+   "bootstrap_ci_high": 5.81
+  },
+  "membrane|erm": null,
+  "membrane|qnr": null,
+  "physicochemical|tet": {
+   "studies": 2,
+   "rows": 4,
+   "median": 3.4349999999999996,
+   "iqr_low": 2.9175,
+   "iqr_high": 3.9524999999999997,
+   "min": 2.4,
+   "max": 4.47,
+   "bootstrap_ci_low": 2.4,
+   "bootstrap_ci_high": 4.47
+  },
+  "physicochemical|sul": {
+   "studies": 2,
+   "rows": 5,
+   "median": 3.2600000000000002,
+   "iqr_low": 2.8550000000000004,
+   "iqr_high": 3.665,
+   "min": 2.45,
+   "max": 4.07,
+   "bootstrap_ci_low": 2.45,
+   "bootstrap_ci_high": 4.07
+  },
+  "physicochemical|bla": {
+   "studies": 1,
+   "rows": 1,
+   "median": 4.54,
+   "iqr_low": 4.54,
+   "iqr_high": 4.54,
+   "min": 4.54,
+   "max": 4.54,
+   "bootstrap_ci_low": null,
+   "bootstrap_ci_high": null
+  },
+  "physicochemical|intI1": {
+   "studies": 2,
+   "rows": 2,
+   "median": 2.125,
+   "iqr_low": 1.6375,
+   "iqr_high": 2.6125,
+   "min": 1.15,
+   "max": 3.1,
+   "bootstrap_ci_low": 1.15,
+   "bootstrap_ci_high": 3.1
+  },
+  "physicochemical|erm": {
+   "studies": 1,
+   "rows": 1,
+   "median": 3.64,
+   "iqr_low": 3.64,
+   "iqr_high": 3.64,
+   "min": 3.64,
+   "max": 3.64,
+   "bootstrap_ci_low": null,
+   "bootstrap_ci_high": null
+  },
+  "physicochemical|qnr": null
+ },
+ "percent_removal": {
+  "rows": 59,
+  "studies": 19,
+  "rows_ge95": 21,
+  "rows_ge99": 10
+ },
+ "rob_sensitivity": {
+  "excluded_outcomes": 16,
+  "rows": 110,
+  "studies": 25,
+  "primary": {
+   "studies": 20,
+   "rows": 66,
+   "median": 2.3024999999999998,
+   "iqr_low": 1.0775000000000001,
+   "iqr_high": 3.20125,
+   "min": 0.17,
+   "max": 7.715,
+   "bootstrap_ci_low": 1.4625,
+   "bootstrap_ci_high": 3.0,
+   "dl": 2.399047473293608,
+   "dl_ci_low": 1.8355042038865808,
+   "dl_ci_high": 2.962590742700635,
+   "i2_percent": 98.396925579878
+  },
+  "restricted": {
+   "studies": 18,
+   "rows": 57,
+   "median": 2.3024999999999998,
+   "iqr_low": 0.8825000000000001,
+   "iqr_high": 3.60375,
+   "min": 0.17,
+   "max": 7.715,
+   "bootstrap_ci_low": 1.1408750000000003,
+   "bootstrap_ci_high": 3.4025,
+   "dl": 2.4428813983747877,
+   "dl_ci_low": 1.8263195967871328,
+   "dl_ci_high": 3.0594431999624425,
+   "i2_percent": 98.56402670035423
+  },
+  "family_restricted": {
+   "tet": {
+    "studies": 8,
+    "rows": 12,
+    "median": 2.4975,
+    "iqr_low": 1.96,
+    "iqr_high": 3.3674999999999997,
+    "min": 0.2,
+    "max": 8.36,
+    "bootstrap_ci_low": 1.84,
+    "bootstrap_ci_high": 4.47
+   },
+   "sul": {
+    "studies": 7,
+    "rows": 10,
+    "median": 3.0,
+    "iqr_low": 1.46775,
+    "iqr_high": 4.43,
+    "min": 0.2,
+    "max": 7.48,
+    "bootstrap_ci_low": 0.6455,
+    "bootstrap_ci_high": 4.79
+   },
+   "bla": {
+    "studies": 11,
+    "rows": 20,
+    "median": 2.3,
+    "iqr_low": 1.38,
+    "iqr_high": 3.135,
+    "min": 0.17,
+    "max": 4.54,
+    "bootstrap_ci_low": 0.76,
+    "bootstrap_ci_high": 3.2,
+    "dl": 2.2950176467309253,
+    "dl_ci_low": 1.4920881855268102,
+    "dl_ci_high": 3.0979471079350405,
+    "i2_percent": 98.01356222583813
+   },
+   "intI1": {
+    "studies": 4,
+    "rows": 4,
+    "median": 2.065,
+    "iqr_low": 0.9724999999999999,
+    "iqr_high": 3.6275,
+    "min": 0.2,
+    "max": 5.81,
+    "bootstrap_ci_low": 0.2,
+    "bootstrap_ci_high": 5.81
+   },
+   "erm": {
+    "studies": 6,
+    "rows": 8,
+    "median": 2.7875,
+    "iqr_low": 1.78,
+    "iqr_high": 3.4987500000000002,
+    "min": 1.12,
+    "max": 3.8049999999999997,
+    "bootstrap_ci_low": 1.33,
+    "bootstrap_ci_high": 3.7225
+   },
+   "qnr": null
+  },
+  "treatment_primary": {
+   "biological": {
+    "studies": 12,
+    "rows": 29,
+    "median": 1.875,
+    "iqr_low": 0.72875,
+    "iqr_high": 2.3387499999999997,
+    "min": 0.17,
+    "max": 3.8049999999999997,
+    "bootstrap_ci_low": 0.6975,
+    "bootstrap_ci_high": 2.3724999999999996,
+    "dl": 1.610664057137042,
+    "dl_ci_low": 1.0965383431420372,
+    "dl_ci_high": 2.124789771132047,
+    "i2_percent": 90.34961370306127
+   },
+   "disinfection": {
+    "studies": 14,
+    "rows": 65,
+    "median": 2.0,
+    "iqr_low": 0.97125,
+    "iqr_high": 2.53625,
+    "min": 0.2,
+    "max": 4.0,
+    "bootstrap_ci_low": 1.0975,
+    "bootstrap_ci_high": 2.5225,
+    "dl": 1.9632080331252877,
+    "dl_ci_low": 1.360666506525883,
+    "dl_ci_high": 2.5657495597246927,
+    "i2_percent": 94.75489255281077
+   },
+   "membrane": {
+    "studies": 3,
+    "rows": 10,
+    "median": 1.1,
+    "iqr_low": 0.7000000000000001,
+    "iqr_high": 4.4075,
+    "min": 0.3,
+    "max": 7.715,
+    "bootstrap_ci_low": 0.3,
+    "bootstrap_ci_high": 7.715
+   },
+   "physicochemical": {
+    "studies": 3,
+    "rows": 14,
+    "median": 2.5,
+    "iqr_low": 1.825,
+    "iqr_high": 3.285,
+    "min": 1.15,
+    "max": 4.07,
+    "bootstrap_ci_low": 1.15,
+    "bootstrap_ci_high": 4.07
+   }
+  },
+  "treatment_restricted": {
+   "biological": {
+    "studies": 10,
+    "rows": 20,
+    "median": 1.47,
+    "iqr_low": 0.66625,
+    "iqr_high": 2.30375,
+    "min": 0.17,
+    "max": 3.8049999999999997,
+    "bootstrap_ci_low": 0.525,
+    "bootstrap_ci_high": 2.375,
+    "dl": 1.5300555762514958,
+    "dl_ci_low": 0.8947439212295595,
+    "dl_ci_high": 2.1653672312734322,
+    "i2_percent": 91.33098256717692
+   },
+   "disinfection": {
+    "studies": 13,
+    "rows": 64,
+    "median": 2.0,
+    "iqr_low": 0.785,
+    "iqr_high": 2.7,
+    "min": 0.2,
+    "max": 4.0,
+    "bootstrap_ci_low": 0.785,
+    "bootstrap_ci_high": 2.7,
+    "dl": 1.9609413075118745,
+    "dl_ci_low": 1.3182470159626747,
+    "dl_ci_high": 2.6036355990610742,
+    "i2_percent": 95.15657947619552
+   },
+   "membrane": {
+    "studies": 2,
+    "rows": 9,
+    "median": 4.4075,
+    "iqr_low": 2.75375,
+    "iqr_high": 6.061249999999999,
+    "min": 1.1,
+    "max": 7.715,
+    "bootstrap_ci_low": 1.1,
+    "bootstrap_ci_high": 7.715
+   },
+   "physicochemical": {
+    "studies": 3,
+    "rows": 14,
+    "median": 2.5,
+    "iqr_low": 1.825,
+    "iqr_high": 3.285,
+    "min": 1.15,
+    "max": 4.07,
+    "bootstrap_ci_low": 1.15,
+    "bootstrap_ci_high": 4.07
+   }
+  }
+ },
+ "tier2": {
+  "rows": 38,
+  "studies": 7,
+  "route": {
+   "influent_to_final_effluent": {
+    "studies": 1,
+    "rows": 1,
+    "median": 1.85,
+    "iqr_low": 1.85,
+    "iqr_high": 1.85,
+    "min": 1.85,
+    "max": 1.85,
+    "bootstrap_ci_low": null,
+    "bootstrap_ci_high": null
+   },
+   "influent_to_secondary_effluent": null,
+   "secondary_effluent_to_final_effluent": {
+    "studies": 5,
+    "rows": 36,
+    "median": 3.18,
+    "iqr_low": 2.36,
+    "iqr_high": 3.5,
+    "min": 2.29,
+    "max": 4.37,
+    "bootstrap_ci_low": 2.29,
+    "bootstrap_ci_high": 4.37
+   }
+  },
+  "treatment": {
+   "biological": {
+    "studies": 1,
+    "rows": 1,
+    "median": 1.85,
+    "iqr_low": 1.85,
+    "iqr_high": 1.85,
+    "min": 1.85,
+    "max": 1.85,
+    "bootstrap_ci_low": null,
+    "bootstrap_ci_high": null
+   },
+   "disinfection": {
+    "studies": 2,
+    "rows": 19,
+    "median": 2.9349999999999996,
+    "iqr_low": 2.6475,
+    "iqr_high": 3.2224999999999997,
+    "min": 2.36,
+    "max": 3.51,
+    "bootstrap_ci_low": 2.36,
+    "bootstrap_ci_high": 3.51
+   },
+   "membrane": {
+    "studies": 2,
+    "rows": 12,
+    "median": 2.7350000000000003,
+    "iqr_low": 2.5125,
+    "iqr_high": 2.9575,
+    "min": 2.29,
+    "max": 3.18,
+    "bootstrap_ci_low": 2.29,
+    "bootstrap_ci_high": 3.18
+   },
+   "physicochemical": {
+    "studies": 1,
+    "rows": 4,
+    "median": 3.5,
+    "iqr_low": 3.5,
+    "iqr_high": 3.5,
+    "min": 3.5,
+    "max": 3.5,
+    "bootstrap_ci_low": null,
+    "bootstrap_ci_high": null
+   }
+  }
+ },
+ "all_tiers_pooled": {
+  "rows": 164,
+  "studies": 37,
+  "main_route": {
+   "studies": 21,
+   "rows": 67,
+   "median": 2.3,
+   "iqr_low": 1.175,
+   "iqr_high": 3.0,
+   "min": 0.17,
+   "max": 7.715,
+   "bootstrap_ci_low": 1.75,
+   "bootstrap_ci_high": 3.0,
+   "dl": 2.3707863776525704,
+   "dl_ci_low": 1.8285724915143817,
+   "dl_ci_high": 2.9130002637907593,
+   "i2_percent": 98.31473024818193
+  },
+  "route": {
+   "influent_to_secondary_effluent": {
+    "studies": 8,
+    "rows": 33,
+    "median": 1.51,
+    "iqr_low": 0.75875,
+    "iqr_high": 2.01125,
+    "min": 0.3,
+    "max": 2.7,
+    "bootstrap_ci_low": 0.635,
+    "bootstrap_ci_high": 2.045,
+    "dl": 1.4075016391321524,
+    "dl_ci_low": 0.8890201641211571,
+    "dl_ci_high": 1.9259831141431478,
+    "i2_percent": 86.28286006598805
+   },
+   "secondary_effluent_to_final_effluent": {
+    "studies": 9,
+    "rows": 57,
+    "median": 2.36,
+    "iqr_low": 2.05,
+    "iqr_high": 3.18,
+    "min": 0.33,
+    "max": 4.37,
+    "bootstrap_ci_low": 2.0,
+    "bootstrap_ci_high": 3.5,
+    "dl": 2.571964178323312,
+    "dl_ci_low": 1.9818953487002153,
+    "dl_ci_high": 3.162033007946409,
+    "i2_percent": 93.50017582735066
+   }
+  },
+  "family_main_route": {
+   "tet": {
+    "studies": 10,
+    "rows": 14,
+    "median": 2.2649999999999997,
+    "iqr_low": 1.8875000000000002,
+    "iqr_high": 2.9987500000000002,
+    "min": 0.2,
+    "max": 8.36,
+    "bootstrap_ci_low": 1.85,
+    "bootstrap_ci_high": 3.7325,
+    "dl": 2.8666867438172776,
+    "dl_ci_low": 1.9698473335219355,
+    "dl_ci_high": 3.7635261541126197,
+    "i2_percent": 93.24245951097397
+   },
+   "sul": {
+    "studies": 9,
+    "rows": 13,
+    "median": 2.29,
+    "iqr_low": 1.2,
+    "iqr_high": 4.07,
+    "min": 0.2,
+    "max": 7.48,
+    "bootstrap_ci_low": 0.6455,
+    "bootstrap_ci_high": 4.79
+   },
+   "bla": {
+    "studies": 12,
+    "rows": 21,
+    "median": 2.37,
+    "iqr_low": 1.69,
+    "iqr_high": 3.1025,
+    "min": 0.17,
+    "max": 4.54,
+    "bootstrap_ci_low": 1.38,
+    "bootstrap_ci_high": 3.135,
+    "dl": 2.307468835510099,
+    "dl_ci_low": 1.5744457358406256,
+    "dl_ci_high": 3.0404919351795723,
+    "i2_percent": 97.81525719840958
+   },
+   "intI1": {
+    "studies": 5,
+    "rows": 5,
+    "median": 1.8,
+    "iqr_low": 1.23,
+    "iqr_high": 2.9,
+    "min": 0.2,
+    "max": 5.81,
+    "bootstrap_ci_low": 0.2,
+    "bootstrap_ci_high": 5.81
+   },
+   "erm": {
+    "studies": 8,
+    "rows": 10,
+    "median": 2.575,
+    "iqr_low": 2.11,
+    "iqr_high": 3.21625,
+    "min": 1.12,
+    "max": 3.8049999999999997,
+    "bootstrap_ci_low": 1.71,
+    "bootstrap_ci_high": 3.64
+   },
+   "qnr": {
+    "studies": 1,
+    "rows": 1,
+    "median": 2.65,
+    "iqr_low": 2.65,
+    "iqr_high": 2.65,
+    "min": 2.65,
+    "max": 2.65,
+    "bootstrap_ci_low": null,
+    "bootstrap_ci_high": null
+   }
+  }
+ },
+ "abundance_all_scales": {
+  "tet|influent": {
+   "studies": 9,
+   "rows": 27,
+   "median": 5.3,
+   "iqr_low": 5.04,
+   "iqr_high": 5.7,
+   "min": 3.204119982655925,
+   "max": 6.453167520902546,
+   "bootstrap_ci_low": 3.4022269815293265,
+   "bootstrap_ci_high": 5.7160033436348
+  },
+  "tet|secondary_effluent": {
+   "studies": 7,
+   "rows": 10,
+   "median": 5.6201248157594,
+   "iqr_low": 4.208782145426607,
+   "iqr_high": 6.148644172191528,
+   "min": 2.998695158311656,
+   "max": 6.204119982655925,
+   "bootstrap_ci_low": 3.923409696834772,
+   "bootstrap_ci_high": 6.152288344383057
+  },
+  "tet|final_effluent": {
+   "studies": 7,
+   "rows": 25,
+   "median": 3.71,
+   "iqr_low": 2.84686840113842,
+   "iqr_high": 4.5121919961438435,
+   "min": 1.9709700043360188,
+   "max": 6.212187604403958,
+   "bootstrap_ci_low": 2.49373680227684,
+   "bootstrap_ci_high": 4.524383992287687
+  },
+  "sul|influent": {
+   "studies": 14,
+   "rows": 22,
+   "median": 6.340484859232949,
+   "iqr_low": 5.415481959605132,
+   "iqr_high": 6.873025167527789,
+   "min": 3.369215857410143,
+   "max": 10.723455672035186,
+   "bootstrap_ci_low": 5.476129768295411,
+   "bootstrap_ci_high": 6.832850838917578
+  },
+  "sul|secondary_effluent": {
+   "studies": 10,
+   "rows": 15,
+   "median": 6.002464780042294,
+   "iqr_low": 5.746562813603134,
+   "iqr_high": 6.154568444291761,
+   "min": 5.0646257552075316,
+   "max": 7.301029995663981,
+   "bootstrap_ci_low": 5.537334266376558,
+   "bootstrap_ci_high": 6.1952975045532845
+  },
+  "sul|final_effluent": {
+   "studies": 9,
+   "rows": 21,
+   "median": 5.59,
+   "iqr_low": 5.0,
+   "iqr_high": 7.301029995663981,
+   "min": 3.9841958447491272,
+   "max": 8.110137418612748,
+   "bootstrap_ci_low": 4.5,
+   "bootstrap_ci_high": 7.5
+  },
+  "bla|influent": {
+   "studies": 13,
+   "rows": 26,
+   "median": 5.185299584791648,
+   "iqr_low": 4.181805989946072,
+   "iqr_high": 6.26,
+   "min": 2.5,
+   "max": 13.518513939877888,
+   "bootstrap_ci_low": 4.181805989946072,
+   "bootstrap_ci_high": 6.26
+  },
+  "bla|secondary_effluent": {
+   "studies": 4,
+   "rows": 6,
+   "median": 4.342549020007128,
+   "iqr_low": 3.4338235300106925,
+   "iqr_high": 5.000001735739287,
+   "min": 2.2,
+   "max": 5.480006942957151,
+   "bootstrap_ci_low": 2.2,
+   "bootstrap_ci_high": 5.480006942957151
+  },
+  "bla|final_effluent": {
+   "studies": 10,
+   "rows": 29,
+   "median": 3.7328066608857524,
+   "iqr_low": 2.8695561020256197,
+   "iqr_high": 4.9064762069677945,
+   "min": 2.1,
+   "max": 8.278753600952829,
+   "bootstrap_ci_low": 2.7925,
+   "bootstrap_ci_high": 5.534330503374056
+  },
+  "intI1|influent": {
+   "studies": 13,
+   "rows": 18,
+   "median": 6.740362689494244,
+   "iqr_low": 5.63,
+   "iqr_high": 7.342422680822207,
+   "min": 4.361727836017593,
+   "max": 10.719331286983726,
+   "bootstrap_ci_low": 5.63,
+   "bootstrap_ci_high": 7.342422680822207
+  },
+  "intI1|secondary_effluent": {
+   "studies": 6,
+   "rows": 6,
+   "median": 6.2400980400142565,
+   "iqr_low": 5.223688416316749,
+   "iqr_high": 7.079568444291761,
+   "min": 4.948901760970213,
+   "max": 7.5910646070264995,
+   "bootstrap_ci_low": 5.008543811358187,
+   "bootstrap_ci_high": 7.3835779330410904
+  },
+  "intI1|final_effluent": {
+   "studies": 10,
+   "rows": 20,
+   "median": 6.389455946198987,
+   "iqr_low": 4.35,
+   "iqr_high": 6.955197895775112,
+   "min": 2.4,
+   "max": 8.077073178441909,
+   "bootstrap_ci_low": 4.2,
+   "bootstrap_ci_high": 7.0
+  },
+  "erm|influent": {
+   "studies": 7,
+   "rows": 8,
+   "median": 5.08278537031645,
+   "iqr_low": 4.1698073765041554,
+   "iqr_high": 5.7986475741258285,
+   "min": 2.0791812460476247,
+   "max": 7.068185861746161,
+   "bootstrap_ci_low": 3.838849090737255,
+   "bootstrap_ci_high": 6.5
+  },
+  "erm|secondary_effluent": {
+   "studies": 2,
+   "rows": 2,
+   "median": 5.478204285597917,
+   "iqr_low": 5.001624546317381,
+   "iqr_high": 5.954784024878451,
+   "min": 4.525044807036846,
+   "max": 6.431363764158987,
+   "bootstrap_ci_low": 4.525044807036846,
+   "bootstrap_ci_high": 6.431363764158987
+  },
+  "erm|final_effluent": {
+   "studies": 3,
+   "rows": 4,
+   "median": 5.423256430746415,
+   "iqr_low": 4.739972040268512,
+   "iqr_high": 5.83561484855411,
+   "min": 4.056687649790608,
+   "max": 6.247973266361806,
+   "bootstrap_ci_low": 4.056687649790608,
+   "bootstrap_ci_high": 6.247973266361806
+  },
+  "qnr|influent": {
+   "studies": 5,
+   "rows": 7,
+   "median": 3.8,
+   "iqr_low": 1.7803157713590672,
+   "iqr_high": 5.752289796207361,
+   "min": 1.568201724066995,
+   "max": 6.2,
+   "bootstrap_ci_low": 1.568201724066995,
+   "bootstrap_ci_high": 6.2
+  },
+  "qnr|secondary_effluent": {
+   "studies": 1,
+   "rows": 2,
+   "median": 6.745701860149508,
+   "iqr_low": 6.745701860149508,
+   "iqr_high": 6.745701860149508,
+   "min": 6.745701860149508,
+   "max": 6.745701860149508,
+   "bootstrap_ci_low": null,
+   "bootstrap_ci_high": null
+  },
+  "qnr|final_effluent": {
+   "studies": 4,
+   "rows": 9,
+   "median": 3.2800000000000002,
+   "iqr_low": 2.690943313648429,
+   "iqr_high": 3.52,
+   "min": 1.4637732545937159,
+   "max": 3.7,
+   "bootstrap_ci_low": 1.4637732545937159,
+   "bootstrap_ci_high": 3.7
+  }
+ },
+ "abundance_full_scale": {
+  "tet|influent": {
+   "studies": 7,
+   "rows": 24,
+   "median": 5.3,
+   "iqr_low": 4.2211134907646635,
+   "iqr_high": 5.45612679118177,
+   "min": 3.204119982655925,
+   "max": 5.7160033436348,
+   "bootstrap_ci_low": 3.4022269815293265,
+   "bootstrap_ci_high": 5.6122535823635396
+  },
+  "tet|secondary_effluent": {
+   "studies": 2,
+   "rows": 3,
+   "median": 6.174559991327962,
+   "iqr_low": 6.159779995663981,
+   "iqr_high": 6.189339986991944,
+   "min": 6.145,
+   "max": 6.204119982655925,
+   "bootstrap_ci_low": 6.145,
+   "bootstrap_ci_high": 6.204119982655925
+  },
+  "tet|final_effluent": {
+   "studies": 7,
+   "rows": 25,
+   "median": 3.71,
+   "iqr_low": 2.84686840113842,
+   "iqr_high": 4.5121919961438435,
+   "min": 1.9709700043360188,
+   "max": 6.212187604403958,
+   "bootstrap_ci_low": 2.49373680227684,
+   "bootstrap_ci_high": 4.524383992287687
+  },
+  "sul|influent": {
+   "studies": 10,
+   "rows": 16,
+   "median": 6.054789273452194,
+   "iqr_low": 5.415481959605132,
+   "iqr_high": 6.615978523607048,
+   "min": 4.647893470125805,
+   "max": 10.723455672035186,
+   "bootstrap_ci_low": 5.3,
+   "bootstrap_ci_high": 6.617043412569485
+  },
+  "sul|secondary_effluent": {
+   "studies": 5,
+   "rows": 7,
+   "median": 6.09,
+   "iqr_low": 6.074999999999999,
+   "iqr_high": 6.176091259055681,
+   "min": 5.686636269262293,
+   "max": 7.301029995663981,
+   "bootstrap_ci_low": 5.686636269262293,
+   "bootstrap_ci_high": 7.301029995663981
+  },
+  "sul|final_effluent": {
+   "studies": 7,
+   "rows": 16,
+   "median": 5.59,
+   "iqr_low": 4.98065282287798,
+   "iqr_high": 6.770789621973291,
+   "min": 3.9841958447491272,
+   "max": 7.5,
+   "bootstrap_ci_low": 4.5,
+   "bootstrap_ci_high": 7.301029995663981
+  },
+  "bla|influent": {
+   "studies": 12,
+   "rows": 25,
+   "median": 5.081511595040247,
+   "iqr_low": 4.14670266374911,
+   "iqr_high": 5.650368523506664,
+   "min": 2.5,
+   "max": 13.518513939877888,
+   "bootstrap_ci_low": 4.111599337552149,
+   "bootstrap_ci_high": 5.85357901567111
+  },
+  "bla|secondary_effluent": {
+   "studies": 3,
+   "rows": 5,
+   "median": 3.845098040014257,
+   "iqr_low": 3.0225490200071286,
+   "iqr_high": 4.342549020007128,
+   "min": 2.2,
+   "max": 4.84,
+   "bootstrap_ci_low": 2.2,
+   "bootstrap_ci_high": 4.84
+  },
+  "bla|final_effluent": {
+   "studies": 10,
+   "rows": 29,
+   "median": 3.7328066608857524,
+   "iqr_low": 2.8695561020256197,
+   "iqr_high": 4.9064762069677945,
+   "min": 2.1,
+   "max": 8.278753600952829,
+   "bootstrap_ci_low": 2.7925,
+   "bootstrap_ci_high": 5.593760360418232
+  },
+  "intI1|influent": {
+   "studies": 10,
+   "rows": 14,
+   "median": 6.332181344747122,
+   "iqr_low": 5.5325,
+   "iqr_high": 6.864393164785528,
+   "min": 4.361727836017593,
+   "max": 10.719331286983726,
+   "bootstrap_ci_low": 5.222788874162134,
+   "bootstrap_ci_high": 7.440181344747122
+  },
+  "intI1|secondary_effluent": {
+   "studies": 2,
+   "rows": 2,
+   "median": 5.869450880485107,
+   "iqr_low": 5.40917632072766,
+   "iqr_high": 6.329725440242553,
+   "min": 4.948901760970213,
+   "max": 6.79,
+   "bootstrap_ci_low": 4.948901760970213,
+   "bootstrap_ci_high": 6.79
+  },
+  "intI1|final_effluent": {
+   "studies": 7,
+   "rows": 12,
+   "median": 6.02,
+   "iqr_low": 4.061109647366959,
+   "iqr_high": 6.879455946198987,
+   "min": 2.4,
+   "max": 7.0,
+   "bootstrap_ci_low": 3.322219294733919,
+   "bootstrap_ci_high": 7.0
+  },
+  "erm|influent": {
+   "studies": 4,
+   "rows": 4,
+   "median": 4.460817230526852,
+   "iqr_low": 3.3989321295648476,
+   "iqr_high": 5.086412814800251,
+   "min": 2.0791812460476247,
+   "max": 5.097295148251658,
+   "bootstrap_ci_low": 2.0791812460476247,
+   "bootstrap_ci_high": 5.097295148251658
+  },
+  "erm|secondary_effluent": {
+   "studies": 1,
+   "rows": 1,
+   "median": 6.431363764158987,
+   "iqr_low": 6.431363764158987,
+   "iqr_high": 6.431363764158987,
+   "min": 6.431363764158987,
+   "max": 6.431363764158987,
+   "bootstrap_ci_low": null,
+   "bootstrap_ci_high": null
+  },
+  "erm|final_effluent": {
+   "studies": 2,
+   "rows": 2,
+   "median": 5.152330458076207,
+   "iqr_low": 4.604509053933407,
+   "iqr_high": 5.700151862219007,
+   "min": 4.056687649790608,
+   "max": 6.247973266361806,
+   "bootstrap_ci_low": 4.056687649790608,
+   "bootstrap_ci_high": 6.247973266361806
+  },
+  "qnr|influent": {
+   "studies": 2,
+   "rows": 2,
+   "median": 2.6841008620334974,
+   "iqr_low": 2.1261512930502464,
+   "iqr_high": 3.2420504310167484,
+   "min": 1.568201724066995,
+   "max": 3.8,
+   "bootstrap_ci_low": 1.568201724066995,
+   "bootstrap_ci_high": 3.8
+  },
+  "qnr|secondary_effluent": null,
+  "qnr|final_effluent": {
+   "studies": 3,
+   "rows": 7,
+   "median": 3.46,
+   "iqr_low": 3.2800000000000002,
+   "iqr_high": 3.58,
+   "min": 3.1,
+   "max": 3.7,
+   "bootstrap_ci_low": 3.1,
+   "bootstrap_ci_high": 3.7
+  }
+ },
+ "abundance_rows": {
+  "total_rows": 779,
+  "total_studies": 86,
+  "summary_rows": 257,
+  "full_scale_summary_rows": 194,
+  "full_scale_summary_studies": 33
+ },
+ "route_layer": {
+  "rows": 295,
+  "studies": 70,
+  "valid_rows": 280,
+  "valid_studies": 68,
+  "valid_studies_with_treatment_category": 64
+ },
+ "influent_quality_coverage": {
+  "COD": {
+   "studies_with_data": 13,
+   "denominator": 136
+  },
+  "BOD": {
+   "studies_with_data": 8,
+   "denominator": 136
+  },
+  "TN": {
+   "studies_with_data": 10,
+   "denominator": 136
+  },
+  "NH4": {
+   "studies_with_data": 11,
+   "denominator": 136
+  },
+  "TP": {
+   "studies_with_data": 12,
+   "denominator": 136
+  },
+  "TSS": {
+   "studies_with_data": 13,
+   "denominator": 136
+  },
+  "pH": {
+   "studies_with_data": 16,
+   "denominator": 136
+  }
+ },
+ "verification_status": {
+  "log10_reduction_full_scale": {
+   "human-verified (extraction audit)": 97,
+   "human-verified (final value audit)": 23,
+   "human-verified (corrected by the authors against the source)": 6
+  },
+  "percent_removal": {
+   "human-verified (extraction audit)": 58,
+   "human-verified (final value audit)": 1
+  },
+  "liquid_abundance": {
+   "human-verified (extraction audit)": 237,
+   "single extraction run, not individually human-checked": 213,
+   "human-verified (final value audit)": 203,
+   "two-run agreement, not individually human-checked": 126
+  },
+  "abundance_summaries": {
+   "human-verified (final value audit)": 203,
+   "human-verified (extraction audit)": 54
+  }
+ }
+}

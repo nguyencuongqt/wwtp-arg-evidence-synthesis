@@ -1,11 +1,10 @@
-name: arg-wwtp-m1
+name: arg-wwtp-surveillance
 channels:
   - conda-forge
 dependencies:
   - python=3.12
   - pip
   - pip:
-      - matplotlib==3.8.3
-      - numpy==1.26.4
-      - pandas==3.0.1
-      - pillow==12.1.0
+      - numpy==2.4.4
+      - pandas==3.0.2
+      - scipy==1.17.1

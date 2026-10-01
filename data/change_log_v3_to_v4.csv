@@ -1,0 +1,454 @@
+dataset,row_id,record_id,doi,action,reason,previous_public_file
+log10_reduction,O_000493,R0280,10.1061/JHTRBP.HZENG-1601,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_000494,R0280,10.1061/JHTRBP.HZENG-1601,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_000496,R0280,10.1061/JHTRBP.HZENG-1601,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_000499,R0280,10.1061/JHTRBP.HZENG-1601,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_000540,R0307,10.3389/fmicb.2017.01282,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_000941,R0505,10.1016/j.envint.2013.01.019,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001507,R0804,10.2166/wrd.2022.018,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001712,R0885,10.1007/s11783-019-1116-5,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001713,R0885,10.1007/s11783-019-1116-5,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001714,R0885,10.1007/s11783-019-1116-5,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001715,R0885,10.1007/s11783-019-1116-5,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001716,R0885,10.1007/s11783-019-1116-5,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001717,R0885,10.1007/s11783-019-1116-5,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001727,R0885,10.1007/s11783-019-1116-5,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001728,R0885,10.1007/s11783-019-1116-5,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_001729,R0885,10.1007/s11783-019-1116-5,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_002110,R1028,10.1021/es303652q,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_002111,R1028,10.1021/es303652q,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_002112,R1028,10.1021/es303652q,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_002113,R1028,10.1021/es303652q,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_002571,R1169,10.1016/j.biortech.2018.06.021,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_000317,R0196,10.1016/j.watres.2020.116752,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+log10_reduction,O_004547,R1070,10.2175/106143012X13373575831394,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+percent_removal,O_000062,R0052,10.1016/j.envpol.2022.120618,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000063,R0052,10.1016/j.envpol.2022.120618,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000190,R0132,10.1007/s11356-023-31287-w,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000191,R0132,10.1007/s11356-023-31287-w,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000192,R0132,10.1007/s11356-023-31287-w,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000193,R0132,10.1007/s11356-023-31287-w,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000194,R0132,10.1007/s11356-023-31287-w,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000195,R0132,10.1007/s11356-023-31287-w,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000196,R0132,10.1007/s11356-023-31287-w,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000666,R0367,10.1016/j.chemosphere.2022.137362,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000922,R0495,10.1016/j.scitotenv.2020.144176,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000977,R0520,10.1016/j.wroa.2026.100506,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000978,R0520,10.1016/j.wroa.2026.100506,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000979,R0520,10.1016/j.wroa.2026.100506,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000980,R0520,10.1016/j.wroa.2026.100506,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000981,R0520,10.1016/j.wroa.2026.100506,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000982,R0520,10.1016/j.wroa.2026.100506,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_000983,R0520,10.1016/j.wroa.2026.100506,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001089,R0569,10.1016/j.psep.2024.10.092,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001131,R0595,10.1016/j.jece.2025.116510,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001182,R0620,10.1016/j.cej.2023.146916,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001183,R0620,10.1016/j.cej.2023.146916,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001596,R0841,10.1016/j.biortech.2019.122513,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001597,R0841,10.1016/j.biortech.2019.122513,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001598,R0841,10.1016/j.biortech.2019.122513,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001599,R0841,10.1016/j.biortech.2019.122513,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001600,R0841,10.1016/j.biortech.2019.122513,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001601,R0841,10.1016/j.biortech.2019.122513,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001602,R0841,10.1016/j.biortech.2019.122513,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001664,R0869,10.1016/j.scitotenv.2021.149344,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_001752,R0896,10.1089/mdr.2017.0406,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_002249,R1063,10.1016/j.watres.2019.115277,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_002250,R1063,10.1016/j.watres.2019.115277,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_002251,R1063,10.1016/j.watres.2019.115277,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_002252,R1063,10.1016/j.watres.2019.115277,removed,final value audit: Not a treatment comparison,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+percent_removal,O_002474,R1135,10.1016/j.scitotenv.2015.01.046,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis1_removal_percent_public_v1_20260730.csv
+liquid_abundance,M_000118,R0060,10.1016/j.jhazmat.2019.121025,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000119,R0060,10.1016/j.jhazmat.2019.121025,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000124,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000125,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000126,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000127,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000128,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000129,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000149,R0092,10.1016/j.scitotenv.2024.175046,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000492,R0262,10.1016/j.watres.2019.05.100,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000493,R0262,10.1016/j.watres.2019.05.100,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_000494,R0262,10.1016/j.watres.2019.05.100,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001003,R0482,10.2166/wst.2021.088,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001004,R0482,10.2166/wst.2021.088,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001005,R0482,10.2166/wst.2021.088,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001006,R0482,10.2166/wst.2021.088,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001007,R0482,10.2166/wst.2021.088,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001027,R0489,10.1016/j.scitotenv.2020.140466,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001028,R0489,10.1016/j.scitotenv.2020.140466,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001029,R0489,10.1016/j.scitotenv.2020.140466,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001030,R0489,10.1016/j.scitotenv.2020.140466,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001183,R0558,10.1016/j.cej.2023.142968,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001187,R0558,10.1016/j.cej.2023.142968,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001261,R0591,10.1007/s11356-022-24545-w,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001263,R0591,10.1007/s11356-022-24545-w,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001264,R0591,10.1007/s11356-022-24545-w,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001266,R0591,10.1007/s11356-022-24545-w,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001414,R0681,10.1016/j.watres.2023.119986,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001415,R0681,10.1016/j.watres.2023.119986,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001518,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001519,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001595,R0766,10.2965/jwet.25-085,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001596,R0766,10.2965/jwet.25-085,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001607,R0777,10.1016/j.envpol.2025.125833,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001608,R0777,10.1016/j.envpol.2025.125833,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001609,R0777,10.1016/j.envpol.2025.125833,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001610,R0777,10.1016/j.envpol.2025.125833,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001611,R0777,10.1016/j.envpol.2025.125833,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001612,R0777,10.1016/j.envpol.2025.125833,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001613,R0777,10.1016/j.envpol.2025.125833,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001771,R0846,10.1021/acs.estlett.9b00521,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001772,R0846,10.1021/acs.estlett.9b00521,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001853,R0872,10.1016/j.envpol.2021.118512,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001854,R0872,10.1016/j.envpol.2021.118512,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001976,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001977,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001978,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001979,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001980,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001981,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001982,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001983,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001984,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001985,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_001986,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002002,R0922,10.1007/s11356-021-15351-x,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002003,R0922,10.1007/s11356-021-15351-x,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002085,R0957,10.1016/j.scitotenv.2018.10.111,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002089,R0957,10.1016/j.scitotenv.2018.10.111,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002114,R0967,10.1016/j.watres.2017.11.067,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002115,R0967,10.1016/j.watres.2017.11.067,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002120,R0972,10.1007/s11783-021-1392-8,corrected,final value audit: value corrected against source,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002228,R1026,10.1016/j.biortech.2020.122825,corrected,final value audit: value corrected against source,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002284,R1049,10.1016/j.marpolbul.2019.110856,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002285,R1049,10.1016/j.marpolbul.2019.110856,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002289,R1051,10.1016/j.seppur.2020.116946,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002304,R1054,10.1016/j.jhazmat.2021.127382,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002331,R1061,10.1016/j.scitotenv.2018.10.305,corrected,final value audit: value corrected against source,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002635,R1158,10.5004/dwt.2020.25712,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002636,R1158,10.5004/dwt.2020.25712,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002749,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002750,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002752,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002753,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002754,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002755,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002756,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002757,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002774,R1225,10.1007/s11356-014-2800-4,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002847,R1277,10.1016/j.envres.2022.113741,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002850,R1277,10.1016/j.envres.2022.113741,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002851,R1277,10.1016/j.envres.2022.113741,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002866,R1324,10.1016/j.watres.2019.114906,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002906,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002907,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_002911,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_003736,R0807,10.1016/j.ijheh.2024.114517,removed,final value audit: Cited literature value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_003737,R0807,10.1016/j.ijheh.2024.114517,removed,final value audit: Cited literature value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_003745,R0807,10.1016/j.ijheh.2024.114517,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_003748,R0807,10.1016/j.ijheh.2024.114517,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004037,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004038,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004039,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004040,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004041,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004042,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004043,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004044,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004045,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004046,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004047,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004048,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004049,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004050,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004051,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004052,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004053,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004054,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004055,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004056,R0628,10.1016/j.clwat.2025.100076,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004057,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004058,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004075,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004076,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004077,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004078,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004079,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004080,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004081,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004082,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004083,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004084,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004085,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004086,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004087,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004088,R0855,10.1016/j.envpol.2016.01.043,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004921,R1145,10.1016/j.watres.2019.07.004,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004922,R1145,10.1016/j.watres.2019.07.004,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004923,R1145,10.1016/j.watres.2019.07.004,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004924,R1145,10.1016/j.watres.2019.07.004,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004925,R1145,10.1016/j.watres.2019.07.004,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_004926,R1145,10.1016/j.watres.2019.07.004,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005084,R1166,10.1016/j.envint.2020.105597,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005085,R1166,10.1016/j.envint.2020.105597,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005086,R1166,10.1016/j.envint.2020.105597,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005087,R1166,10.1016/j.envint.2020.105597,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005088,R1166,10.1016/j.envint.2020.105597,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005089,R1166,10.1016/j.envint.2020.105597,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005090,R1166,10.1016/j.envint.2020.105597,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005203,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005204,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005205,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005206,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005207,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005208,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005209,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005210,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005334,R1324,10.1016/j.watres.2019.114906,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005341,R1324,10.1016/j.watres.2019.114906,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005446,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005447,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005448,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005660,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005661,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005664,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_005665,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006170,R0016,10.1002/wer.1125,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006180,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006181,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006182,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006184,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006186,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006187,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006189,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Cited literature value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006192,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006193,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006194,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006195,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006196,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006197,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006198,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006199,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006200,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006201,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006202,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006203,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006207,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006208,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006209,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006210,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006212,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006213,R0038,10.1007/s11356-025-35988-2,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006297,R0180,10.1007/s41742-023-00552-8,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006316,R0268,10.1016/j.chemosphere.2015.10.044,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006318,R0268,10.1016/j.chemosphere.2015.10.044,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006321,R0268,10.1016/j.chemosphere.2015.10.044,corrected,final value audit: value corrected against source,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006323,R0268,10.1016/j.chemosphere.2015.10.044,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006325,R0268,10.1016/j.chemosphere.2015.10.044,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006326,R0268,10.1016/j.chemosphere.2015.10.044,corrected,final value audit: value corrected against source,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006327,R0268,10.1016/j.chemosphere.2015.10.044,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006328,R0268,10.1016/j.chemosphere.2015.10.044,corrected,final value audit: value corrected against source,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006329,R0268,10.1016/j.chemosphere.2015.10.044,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006330,R0268,10.1016/j.chemosphere.2015.10.044,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006333,R0268,10.1016/j.chemosphere.2015.10.044,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006457,R0489,10.1016/j.scitotenv.2020.140466,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006458,R0489,10.1016/j.scitotenv.2020.140466,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006669,R0820,10.3390/antibiotics13080711,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006670,R0820,10.3390/antibiotics13080711,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006673,R0820,10.3390/antibiotics13080711,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006705,R0825,10.1111/tmi.13986,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006736,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006737,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006766,R0972,10.1007/s11783-021-1392-8,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006768,R0972,10.1007/s11783-021-1392-8,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006828,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006829,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006830,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006831,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006832,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_006833,R0068,10.1016/j.heliyon.2024.e29601,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007177,R0411,10.1016/j.envpol.2022.119649,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007410,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007413,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007414,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007416,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007462,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007463,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007464,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007465,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007466,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007467,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007468,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007469,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007470,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007471,R0815,10.1002/jctb.7329,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007472,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007473,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007474,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007475,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007476,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007477,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007478,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007479,R0815,10.1002/jctb.7329,removed,final value audit: Wrong matrix/stage,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007514,R0837,10.1111/jam.13480,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007515,R0837,10.1111/jam.13480,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007524,R0837,10.1111/jam.13480,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007525,R0837,10.1111/jam.13480,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007530,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007531,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007532,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007533,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007534,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007535,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007536,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007537,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007538,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007539,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007540,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007541,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007542,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007543,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007544,R0854,10.1039/d0ew00270d,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007649,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007650,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007651,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007652,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007653,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007654,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007655,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007656,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007657,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007658,R0912,10.1016/j.chemosphere.2017.01.134,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007696,R0939,10.1016/j.apcatb.2018.12.030,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007697,R0939,10.1016/j.apcatb.2018.12.030,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007698,R0939,10.1016/j.apcatb.2018.12.030,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007699,R0939,10.1016/j.apcatb.2018.12.030,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_007700,R0939,10.1016/j.apcatb.2018.12.030,removed,final value audit: Group or range value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008083,R0551,10.1016/j.scitotenv.2022.156594,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008084,R0551,10.1016/j.scitotenv.2022.156594,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008093,R0551,10.1016/j.scitotenv.2022.156594,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008094,R0551,10.1016/j.scitotenv.2022.156594,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008203,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Cited literature value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008204,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Cited literature value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008205,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Cited literature value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008206,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Cited literature value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008207,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Cited literature value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008208,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Cited literature value,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008209,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008210,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008211,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008212,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008213,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008214,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008215,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008216,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008217,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008218,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008219,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008220,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008221,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008222,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008223,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008224,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008225,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008226,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008227,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008228,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008229,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008230,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008231,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008232,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008233,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008234,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008235,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008236,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008237,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008238,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008239,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008240,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008241,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008242,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008243,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008244,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008245,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008246,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008247,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008248,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008249,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008250,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008251,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008252,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008253,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008254,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008255,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008256,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008257,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008258,R1012,10.1007/s11356-014-2613-5,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008757,R1145,10.1016/j.watres.2019.07.004,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008758,R1145,10.1016/j.watres.2019.07.004,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008759,R1145,10.1016/j.watres.2019.07.004,removed,final value audit: Duplicate row,release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008884,R1166,10.1016/j.envint.2020.105597,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008885,R1166,10.1016/j.envint.2020.105597,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008947,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008948,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008949,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008950,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008951,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008952,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008953,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008954,R1210,10.1016/j.chemosphere.2017.01.041,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008978,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008979,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008980,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008981,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008982,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008983,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008984,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_008985,R1405,10.1016/j.scitotenv.2016.12.063,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_009371,R0489,10.1016/j.scitotenv.2020.140466,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_009372,R0489,10.1016/j.scitotenv.2020.140466,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_009387,R0558,10.1016/j.cej.2023.142968,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+liquid_abundance,M_009400,R0727,10.1016/j.watres.2023.120747,removed,study excluded at eligibility re-assessment (E11),release v1.2.0: data/m1_axis2_abundance_liquid_public_v3_20260820.csv
+route_layer,O_002110,R1028,10.1021/es303652q,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v1_20260730.csv
+route_layer,O_002111,R1028,10.1021/es303652q,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v1_20260730.csv
+route_layer,O_002112,R1028,10.1021/es303652q,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v1_20260730.csv
+route_layer,O_002113,R1028,10.1021/es303652q,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v1_20260730.csv
+route_layer,O_000816,R0451,10.1016/j.scitotenv.2018.11.325,removed,study excluded at eligibility re-assessment (E3),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v1_20260730.csv
+route_layer,O_002743,R1324,10.1016/j.watres.2019.114906,removed,study excluded at eligibility re-assessment (E9),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v1_20260730.csv
+log10_reduction,O_000602,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000602,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000603,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000603,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000604,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000604,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000605,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000605,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000606,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000606,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000607,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000607,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000608,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000608,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000609,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000609,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000610,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000610,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000611,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000611,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000612,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000612,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_000613,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_log_reduction_public_v2_20260820.csv
+route_layer,O_000613,R0328,10.1016/j.jenvman.2018.10.073,corrected,author correction: route reassigned to influent_to_secondary_effluent (secondary sedimentation precedes membrane treatment),release v1.2.0: data/m1_axis1_removal_cross_stage_route_public_v2_20260820.csv
+log10_reduction,O_AC0001,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+route_layer,O_AC0001,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+log10_reduction,O_AC0002,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+route_layer,O_AC0002,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+log10_reduction,O_AC0003,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+route_layer,O_AC0003,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+log10_reduction,O_AC0004,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+route_layer,O_AC0004,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+log10_reduction,O_AC0005,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+route_layer,O_AC0005,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+log10_reduction,O_AC0006,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",
+route_layer,O_AC0006,R0328,10.1016/j.jenvman.2018.10.073,added,"author correction: final treatment unit (reverse osmosis) value taken from the source (Results 3.1, p. 442)",

@@ -1,0 +1,15 @@
+stage_group,stage,n,note
+database,Records identified: Scopus,992,"Database search, 28 April 2026"
+database,Records identified: Web of Science Core Collection,1121,"Database search, 28 April 2026"
+database,Records identified: PubMed,772,"Database search, 28 April 2026"
+flow,Total records identified,2885,Scopus + Web of Science + PubMed
+flow,Duplicates removed,1355,
+flow,Records screened (title/abstract),1530,
+flow,Records excluded at title/abstract,346,All exclusions were human decisions
+flow,Full texts sought,1184,"807 core, 156 supporting, 221 uncertain"
+flow,Full texts not retrieved,17,
+flow,Full texts assessed,1167,
+flow,Excluded at full-text screening,454,See fulltext_exclusion_reasons.csv
+flow,Excluded at eligibility re-assessment,19,See audit/eligibility_reassessment_95_studies.csv
+flow,Eligible studies,694,"513 core, 181 supporting"
+flow,Quantitative core (studies contributing to the synthesis datasets),136,See data/study_characteristics_quantitative_core_v4.csv

@@ -1,0 +1,4 @@
+route,studies,rows,median,iqr_low,iqr_high,min,max,bootstrap_ci_low,bootstrap_ci_high,dl,dl_ci_low,dl_ci_high,i2_percent
+influent_to_final_effluent,20,66,2.3025,1.0775,3.2012,0.17,7.715,1.4625,3.0,2.399,1.8355,2.9626,98.3969
+influent_to_secondary_effluent,8,33,1.51,0.7588,2.0112,0.3,2.7,0.635,2.045,1.4075,0.889,1.926,86.2829
+secondary_effluent_to_final_effluent,4,21,2.025,1.5825,2.1625,0.33,2.5,0.33,2.5,,,,

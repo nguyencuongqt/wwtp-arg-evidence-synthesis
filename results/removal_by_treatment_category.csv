@@ -1,0 +1,5 @@
+treatment_category,studies,rows,median,iqr_low,iqr_high,min,max,bootstrap_ci_low,bootstrap_ci_high,dl,dl_ci_low,dl_ci_high,i2_percent
+biological,12,29,1.875,0.7288,2.3387,0.17,3.805,0.6975,2.3725,1.6107,1.0965,2.1248,90.3496
+disinfection,14,65,2.0,0.9712,2.5362,0.2,4.0,0.785,2.7,1.9632,1.3607,2.5657,94.7549
+membrane,3,10,1.1,0.7,4.4075,0.3,7.715,0.3,7.715,,,,
+physicochemical,3,14,2.5,1.825,3.285,1.15,4.07,1.15,4.07,,,,

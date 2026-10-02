@@ -19,7 +19,7 @@ Release **v1.3.0** (1 October 2026) contains the final datasets (version v4, fix
 
 ## Who decided what
 
-Large language models (OpenAI GPT-4o-mini, GPT-5.4-mini and GPT-5.4) generated **candidate** screening decisions and **candidate** extracted data only. Every exclusion at title/abstract and full-text screening, every eligibility decision, every value audit decision and every critical-appraisal judgement was made by the authors (X.C.N. and T.U.), as recorded in `audit/` and `protocol/`. Normalization, dataset definition and statistics are deterministic and require no model calls.
+Large language models (OpenAI GPT-4o-mini, GPT-5.4-mini and GPT-5.4), called through the OpenAI API from Python scripts, generated **candidate** screening decisions and **candidate** extracted data only. mistral-small-2603 and a TF-IDF/logistic-regression baseline were run only as screening benchmark comparators and did not change any decision. Every exclusion at title/abstract and full-text screening was a human decision, every study contributing data to the synthesis was confirmed eligible by a reviewer, and every value audit decision and every critical-appraisal judgement was made by the authors (X.C.N. and T.U.), as recorded in `audit/` and `protocol/`. Model versions, run dates, settings and prompts are listed in `metadata/model_ledger.md` and `protocol/`. Normalization, dataset definition and statistics are deterministic and require no model calls.
 
 ## Reproduce the results
 

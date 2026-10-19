@@ -1,0 +1,7 @@
+﻿Candidate claim,Confidence level,Basis,Manuscript boundary
+Positive main-route removal,Moderate,All families have positive full-scale main-route medians; only bla has a pooled DL estimate (I² 97.8%); tet and sul (9 studies each) are below the pooling threshold,Supported as a positive but highly heterogeneous removal signal.
+Route partial structure,Moderate,"Full-scale main route includes 20 studies/66 rows, influent-to-secondary 8/33, and secondary-to-final 4/21; all retained substantial heterogeneity where pooled","Supported as partial structure, not mechanistic explanation."
+Treatment technology ranking,Low / not supported,"Full-scale: biological 12 studies, disinfection 14, membrane 3 and physicochemical 3; the two poolable categories remain heterogeneous and membrane and physicochemical are below the 5-study threshold",Do not rank technologies causally.
+Final-effluent residual burden,Moderate,"Full-scale final-effluent cells are populated for all six families, with 2–10 studies by family (sul and intI1, 7 each)","Supported as cross-study burden only, not within-system mass balance."
+Occurrence as prevalence,Not supported,The reported-detection dataset lacks tested-but-not-detected denominators and is a descriptive layer from the pre-audit eligible set,Must remain a reported-detection landscape.
+KG as provenance/caution layer,Supported,"Value-scope and pairing gates retain 5,250 non-exact/context rows and separate 4,813 cleaned outcome rows",Supported as provenance and caution routing.

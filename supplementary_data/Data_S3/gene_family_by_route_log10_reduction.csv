@@ -1,0 +1,17 @@
+﻿Gene family,Route,Studies (n),Rows (n),Median,IQR low,IQR high,DL estimate,DL 95% CI low,DL 95% CI high,I² (%)
+tet,Influent → final effluent,9,13,2.53,2.00,3.00,–,–,–,–
+tet,Influent → secondary effluent,5,10,1.64,0.30,2.70,–,–,–,–
+tet,Secondary → final effluent,2,6,1.34,0.81,1.87,–,–,–,–
+sul,Influent → final effluent,9,13,2.29,1.20,4.07,–,–,–,–
+sul,Influent → secondary effluent,5,9,1.30,1.00,1.68,–,–,–,–
+sul,Secondary → final effluent,4,10,2.02,1.87,2.15,–,–,–,–
+bla,Influent → final effluent,12,21,2.37,1.69,3.10,2.31,1.57,3.04,97.8
+bla,Influent → secondary effluent,2,4,2.25,1.53,2.98,–,–,–,–
+bla,Secondary → final effluent,1,1,0.29,0.29,0.29,–,–,–,–
+intI1,Influent → final effluent,5,5,1.80,1.23,2.90,–,–,–,–
+intI1,Influent → secondary effluent,3,4,1.36,1.08,1.68,–,–,–,–
+intI1,Secondary → final effluent,2,4,2.12,1.64,2.61,–,–,–,–
+erm,Influent → final effluent,8,10,2.58,2.11,3.22,–,–,–,–
+erm,Influent → secondary effluent,3,3,1.22,0.85,1.96,–,–,–,–
+qnr,Influent → final effluent,1,1,2.65,2.65,2.65,–,–,–,–
+qnr,Influent → secondary effluent,1,1,0.94,0.94,0.94,–,–,–,–

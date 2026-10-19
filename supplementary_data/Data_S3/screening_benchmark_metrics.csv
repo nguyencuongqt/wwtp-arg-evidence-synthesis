@@ -1,0 +1,5 @@
+﻿System,Model,Accuracy,Macro F1,Balanced acc.,False-exclusion rate,Non-exclude recall,High-risk FE,Cost / 100 records,Runtime / 100 records (s)
+GPT production screening,GPT-4o-mini,57.8%,0.502,53.6%,151/448 (33.7%),66.3%,44,$0.064,355.0
+Retrospective GPT benchmark,GPT-5.4-mini,68.0%,0.627,66.4%,17/448 (3.8%),96.2%,0,$0.356,204.8
+Mistral benchmark,Mistral-small-2603,55.2%,0.448,56.3%,36/448 (8.0%),92.0%,3,$0.067,205.2
+Python baseline,TF-IDF + Logistic Regression,61.0%,0.570,57.5%,67/448 (15.0%),85.0%,17,$0.000,0.5

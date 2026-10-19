@@ -1,0 +1,137 @@
+﻿Record ID,Year,Country,System scale,Wastewater source,In log10-reduction dataset,Log10-reduction rows (n),Log10-reduction gene families,In liquid-abundance dataset,Abundance rows (n),Abundance gene families,Abundance matrices
+R0016,2019,China,Full-scale,Agricultural,No,0,,Yes,3,other;sul,influent;matrix unclear
+R0038,2025,Brazil,Pilot-scale,Municipal,No,0,,Yes,19,erm;intI1;qnr;sul,final effluent;influent
+R0052,2023,China,Full-scale,Agricultural,No,0,,No,0,,
+R0054,2022,Brazil,Full-scale,Municipal,Yes,3,intI1;sul;tet,No,0,,
+R0060,2020,China,Full-scale,Municipal,No,0,,Yes,22,erm;intI1;qnr;sul,matrix unclear;secondary effluent
+R0064,2022,Canada,Full-scale,Municipal,No,0,,Yes,9,intI1;other,Matrix unclear
+R0080,2022,Brazil,Full-scale,Municipal,No,0,,Yes,6,intI1,final effluent;matrix unclear
+R0090,2023,"Multiple countries (Czech Republic, Denmark, Israel, the Netherlands, Portugal)",Full-scale,Mixed,Yes,2,erm;sul,No,0,,
+R0098,2023,China,Full-scale,Hospital,No,0,,No,0,,
+R0132,2024,China,Bench-scale,Municipal,No,0,,No,0,,
+R0156,2023,Italy,Full-scale,Municipal,No,0,,Yes,2,intI1,matrix unclear;other known
+R0170,2022,China,Lab-scale,Industrial,Yes,1,tet,Yes,2,intI1,Final effluent
+R0180,2024,Brazil,Full-scale,Agricultural,Yes,2,bla;erm,Yes,17,bla;erm;intI1;qnr;sul;tet,final effluent;matrix unclear
+R0196,2021,Netherlands,Full-scale,Municipal,Yes,3,bla;erm;tet,No,0,,
+R0199,2014,Hong Kong,Full-scale,Mixed,No,0,,No,0,,
+R0211,2022,Netherlands,Full-scale,Municipal,No,0,,Yes,9,bla;intI1;qnr;sul;tet,Final effluent
+R0218,2016,Germany,Full-scale,Municipal,No,0,,Yes,12,other;sul,Matrix unclear
+R0236,2017,Saudi Arabia,Full-scale,Hospital,Yes,3,sul;tet,No,0,,
+R0262,2019,Netherlands,Full-scale,Municipal,Yes,7,bla;erm;intI1;qnr;sul;tet,Yes,1,bla;erm;intI1;sul,Influent
+R0267,2020,Poland,Full-scale,Municipal,No,0,,Yes,9,bla;other,influent;matrix unclear
+R0268,2016,Poland,Full-scale,Mixed,No,0,,Yes,32,intI1;sul;tet,final effluent;influent;matrix unclear;other known
+R0272,2025,United Kingdom,Full-scale,Municipal,Yes,1,intI1,No,0,,
+R0280,2026,India,Bench-scale,Mixed,No,0,,No,0,,
+R0293,2025,Brazil,Full-scale,Agricultural,Yes,2,sul;tet,No,0,,
+R0307,2017,Germany,Full-scale,Mixed,No,0,,No,0,,
+R0328,2019,China,Full-scale,Livestock,Yes,18,intI1;sul;tet,Yes,6,intI1;sul;tet,Matrix unclear
+R0367,2023,South Korea,Full-scale,Mixed,No,0,,No,0,,
+R0411,2022,India,Full-scale,Municipal,No,0,,Yes,3,intI1;other,Influent
+R0427,2024,Italy,Full-scale,Municipal,No,0,,Yes,7,bla;intI1;sul;tet,Influent
+R0482,2021,China,Bench-scale,Municipal,No,0,,Yes,5,intI1;sul;tet,Secondary effluent
+R0483,2014,Taiwan,Full-scale,Livestock,No,0,,No,0,,
+R0495,2021,Poland,Full-scale,Municipal,No,0,,Yes,6,bla;other,final effluent;influent;matrix unclear
+R0501,2013,India,Full-scale,Industrial,No,0,,Yes,14,intI1;other,matrix unclear;sludge
+R0504,2012,Switzerland,Full-scale,Municipal,No,0,,Yes,6,sul,Matrix unclear
+R0505,2013,China,Full-scale,Municipal,No,0,,No,0,,
+R0520,2026,Guadeloupe (French Caribbean),Full-scale,Mixed,No,0,,No,0,,
+R0524,2025,Algeria,Full-scale,Municipal,Yes,6,bla;sul;tet,No,0,,
+R0559,2025,South Korea,Full-scale,Livestock,No,0,,Yes,18,erm;other;sul;tet,Matrix unclear
+R0564,2024,China,Full-scale,Municipal,No,0,,No,0,,
+R0569,2024,China,Lab-scale,Industrial,No,0,,No,0,,
+R0570,2025,China,Full-scale,Municipal,No,0,,Yes,8,sul;tet,final effluent;influent
+R0591,2023,China,Full-scale,Municipal,Yes,5,bla;erm;other;sul;tet,Yes,2,intI1,final effluent;influent;sludge
+R0595,2025,China,Full-scale,Municipal,No,0,,No,0,,
+R0602,2024,Spain,Full-scale,Municipal,No,0,,Yes,4,sul;tet,Matrix unclear
+R0612,2025,United States,Full-scale,Municipal,Yes,9,bla;erm;other;sul;tet,Yes,2,other;sul,Influent
+R0619,2024,China,Full-scale,Domestic,No,0,,Yes,7,bla;intI1;sul;tet,Secondary effluent
+R0620,2023,Spain,Pilot-scale,Municipal,No,0,,No,0,,
+R0621,2025,Algeria,Full-scale,Municipal,No,0,,Yes,18,bla;intI1;qnr;sul;tet,final effluent;influent
+R0628,2025,Brazil,Full-scale,Mixed,No,0,,Yes,10,bla;erm;intI1;qnr;sul,final effluent;influent;matrix unclear
+R0658,2025,Japan,Full-scale,Municipal,No,0,,Yes,8,sul;tet,Matrix unclear
+R0681,2023,Estonia,Pilot-scale,Mixed,No,0,,Yes,3,intI1;sul;tet,influent;matrix unclear
+R0692,2024,Australia,Full-scale,Municipal,No,0,,No,0,,
+R0713,2024,Switzerland,Full-scale,Mixed,No,0,,Yes,10,bla;erm;intI1;sul;tet,final effluent;matrix unclear
+R0719,2023,China,Full-scale,Mixed,No,0,,Yes,2,erm;other,Matrix unclear
+R0730,2022,Japan,Full-scale,Mixed,No,0,,Yes,8,bla,final effluent;influent;secondary effluent
+R0743,2025,Japan,Full-scale,Municipal,Yes,1,tet,No,0,,
+R0744,2023,Iran,Full-scale,Municipal,No,0,,No,0,,
+R0754,2023,Poland,Full-scale,Mixed,No,0,,Yes,16,erm;other;qnr,influent;matrix unclear
+R0782,2025,Uganda,Full-scale,Mixed,Yes,2,bla;sul;tet,No,0,,
+R0784,2023,United States,Full-scale,Municipal,No,0,,Yes,6,bla;erm;tet,final effluent;influent
+R0792,2025,United States,Full-scale,Municipal,Yes,1,bla,No,0,,
+R0795,2026,China,Bench-scale,Municipal,No,0,,Yes,4,intI1;qnr;tet,Secondary effluent
+R0804,2022,Lebanon,Lab-scale,Municipal,No,0,,No,0,,
+R0807,2025,Brazil,Lab-scale,Municipal,No,0,,Yes,2,sul,final effluent;matrix unclear
+R0815,2024,Greece,Lab-scale,Hospital,No,0,,Yes,8,bla;qnr;sul;tet,final effluent;matrix unclear;other known
+R0820,2024,Japan,Full-scale,Mixed,No,0,,Yes,3,bla,final effluent;matrix unclear
+R0821,2026,India,Bench-scale,Municipal,No,0,,Yes,4,intI1;sul,matrix unclear;sludge
+R0825,2024,Brazil,Full-scale,Mixed,No,0,,Yes,47,bla;other;qnr,final effluent;matrix unclear
+R0841,2020,China,Lab-scale,Municipal,No,0,,No,0,,
+R0846,2019,United States,Full-scale,Municipal,No,0,,Yes,11,erm;intI1;sul,influent;matrix unclear;other known
+R0849,2020,China,Bench-scale,Municipal,Yes,9,sul;tet,Yes,4,sul;tet,Secondary effluent
+R0853,2016,China,Bench-scale,Municipal,Yes,14,intI1;sul;tet,No,0,,
+R0864,2015,Brazil,Full-scale,Domestic,No,0,,Yes,2,intI1,influent;sludge
+R0867,2018,China,Full-scale,Industrial,Yes,1,bla,Yes,2,bla,final effluent;influent
+R0869,2021,Australia,Full-scale,Municipal,No,0,,No,0,,
+R0872,2022,China,Full-scale,Mixed,Yes,5,erm;other;sul;tet,No,0,,
+R0885,2019,China,Full-scale,Mixed,Yes,11,bla;intI1;sul;tet,No,0,,
+R0892,2021,Namibia,Full-scale,Municipal,No,0,,Yes,7,erm;sul,influent;matrix unclear
+R0896,2018,Czech Republic,Full-scale,Mixed,No,0,,No,0,,
+R0898,2019,Portugal,Bench-scale,Municipal,No,0,,Yes,21,bla;intI1;qnr,Matrix unclear
+R0902,2017,India,Full-scale,Domestic,No,0,,Yes,7,bla;intI1;other,Influent
+R0903,2016,Italy,Full-scale,Mixed,No,0,,Yes,9,erm;intI1;qnr;sul;tet,Matrix unclear
+R0909,2017,China,Full-scale,Municipal,Yes,8,intI1;sul;tet,Yes,14,intI1;sul;tet,influent;matrix unclear;secondary effluent
+R0917,2020,China,Lab-scale,Domestic,Yes,1,erm,Yes,4,intI1;other;sul,Secondary effluent
+R0922,2021,Brazil,Bench-scale,Municipal,No,0,,Yes,8,bla;erm,matrix unclear;secondary effluent
+R0926,2021,Germany,Full-scale,Livestock,Yes,4,bla;erm;sul;tet,No,0,,
+R0933,2019,Unclear,Bench-scale,Municipal,No,0,,Yes,14,other,matrix unclear;sludge
+R0944,2018,Unclear,Full-scale,Municipal,Yes,4,sul,No,0,,
+R0950,2019,Italy,Full-scale,Mixed,No,0,,No,0,,
+R0954,2018,China,Full-scale,Livestock,No,0,,Yes,16,erm;other;qnr;sul;tet,influent;matrix unclear
+R0957,2019,China,Full-scale,Mixed,No,0,,Yes,8,bla;other,final effluent;influent;matrix unclear;secondary effluent
+R0972,2021,China,Full-scale,Mixed,No,0,,Yes,5,erm;intI1;sul;tet,final effluent;influent;secondary effluent
+R0986,2015,China,Full-scale,Municipal,No,0,,Yes,2,intI1;sul,Influent
+R0988,2018,United States,Lab-scale,Municipal,No,0,,Yes,8,intI1;sul,final effluent;influent;matrix unclear
+R1012,2014,China,Full-scale,Mixed,No,0,,Yes,50,intI1;sul;tet,final effluent;influent
+R1016,2022,China,Full-scale,Domestic,No,0,,Yes,1,other,Influent
+R1017,2020,United States,Full-scale,Municipal,Yes,2,intI1;tet,Yes,2,intI1;tet,final effluent;influent
+R1026,2020,Unclear,Full-scale,Mixed,No,0,,Yes,2,bla,final effluent;influent
+R1038,2015,Japan,Full-scale,Municipal,No,0,,Yes,8,other,final effluent;influent;secondary effluent;sludge
+R1039,2009,China; United States,Full-scale,Municipal,No,0,,No,0,,
+R1045,2019,China,Lab-scale,Municipal,No,0,,Yes,14,intI1;sul;tet,Matrix unclear
+R1049,2020,China,Full-scale,Mixed,No,0,,Yes,2,erm;sul,influent;secondary effluent
+R1061,2019,China,Full-scale,Municipal,Yes,3,intI1;sul,Yes,1,sul,Secondary effluent
+R1062,2013,China,Full-scale,Municipal,No,0,,Yes,7,intI1;sul;tet,Matrix unclear
+R1063,2020,Poland,Full-scale,Municipal,No,0,,No,0,,
+R1070,2013,United States,Lab-scale,Municipal,Yes,1,intI1,No,0,,
+R1076,2019,China,Bench-scale,Municipal,Yes,9,intI1;sul;tet,No,0,,
+R1077,2021,Poland,Full-scale,Municipal,No,0,,Yes,2,sul;tet,Matrix unclear
+R1081,2016,Italy,Lab-scale,Municipal,No,0,,Yes,31,bla;qnr;tet,Matrix unclear
+R1083,2020,Unclear,Full-scale,Municipal,Yes,6,erm;intI1,No,0,,
+R1085,2018,Belgium,Full-scale,Mixed,Yes,4,bla,No,0,,
+R1108,2016,China,Full-scale,Industrial,No,0,,Yes,5,other,final effluent;matrix unclear
+R1122,2016,Switzerland,Full-scale,Municipal,Yes,1,sul,No,0,,
+R1124,2021,Colombia,Full-scale,Mixed,No,0,,Yes,38,bla;erm;qnr;sul;tet,Matrix unclear
+R1126,2022,Portugal,Full-scale,Mixed,Yes,4,bla;other,No,0,,
+R1133,2018,China,Full-scale,Industrial,No,0,,Yes,10,sul;tet,Matrix unclear
+R1135,2015,Unclear,Full-scale,Mixed,No,0,,No,0,,
+R1145,2019,Canada,Pilot-scale,Domestic,No,0,,Yes,9,erm;qnr;sul;tet,final effluent;influent;matrix unclear
+R1158,2020,China,Bench-scale,Municipal,Yes,3,sul;tet,Yes,3,intI1;sul;tet,Secondary effluent
+R1163,2017,China,Lab-scale,Municipal,No,0,,Yes,3,sul;tet,Secondary effluent
+R1167,2019,China,Bench-scale,Industrial,No,0,,Yes,2,bla;sul,Influent
+R1169,2018,China,Full-scale,Municipal,No,0,,No,0,,
+R1170,2021,China,Full-scale,Municipal,No,0,,No,0,,
+R1177,2022,Croatia,Full-scale,Municipal,Yes,1,bla,No,0,,
+R1180,2018,China,Full-scale,Municipal,No,0,,Yes,3,intI1,Matrix unclear
+R1183,2013,China,Bench-scale,Municipal,No,0,,Yes,6,erm;other;tet,Matrix unclear
+R1191,2016,United States,Lab-scale,Municipal,No,0,,Yes,4,intI1;qnr;tet,Sludge
+R1193,2018,Poland,Full-scale,Mixed,No,0,,Yes,4,other,final effluent;influent
+R1195,2020,Cyprus,Bench-scale,Municipal,No,0,,Yes,29,bla;qnr;sul;tet,Matrix unclear
+R1223,2019,China,Pilot-scale,Domestic,No,0,,Yes,9,erm;other;qnr;sul;tet,Influent
+R1225,2015,China,Field-scale,Mixed,No,0,,Yes,1,other;sul,Influent
+R1242,2025,United States,Bench-scale,Municipal,No,0,,Yes,3,bla;intI1;sul,Sludge
+R1252,2015,China,Full-scale,Domestic,Yes,2,erm,No,0,,
+R1278,2021,Poland,Full-scale,Mixed,No,0,,Yes,2,sul,Matrix unclear
+R1343,2026,India,Full-scale,Mixed,Yes,5,bla;erm;qnr,No,0,,
+R1406,2016,China,Full-scale,Mixed,No,0,,Yes,6,bla,final effluent;influent

@@ -1,0 +1,7 @@
+﻿Gene family,Studies (k),Median of study medians,DL estimate (95% CI),HKSJ 95% CI,95% prediction interval,I² (%),Pooled in primary analysis
+bla,12,2.37,2.31 (1.57–3.04),1.43–3.18,-0.66 to 5.28,97.8,Yes
+tet,9,2.53,2.98 (2.00–3.96),1.29–4.67,-0.59 to 6.56,93.8,No
+sul,9,2.29,2.49 (1.46–3.52),1.00–3.97,-1.30 to 6.28,99.2,No
+erm,8,2.58,2.57 (2.00–3.13),1.80–3.34,0.65 to 4.49,87.1,No
+intI1,5,1.80,2.39 (0.51–4.27),-0.28–5.05,-4.45 to 9.22,80.0,No
+qnr,1,2.65,not estimable (k < 5),–,–,–,No

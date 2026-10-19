@@ -1,0 +1,14 @@
+﻿Route,Gene family,Studies (n),Rows (n),Median,IQR low,IQR high,Min,Max,Synthesis mode
+Influent → final effluent,bla,6,9,94.57,72.97,97.21,22.80,98.00,Descriptive only
+Influent → final effluent,erm,6,8,81.14,48.58,91.40,8.00,98.00,Descriptive only
+Influent → final effluent,intI1,3,3,11.36,10.18,42.68,9.00,74.00,Listed only
+Influent → final effluent,other,3,3,99.00,61.16,99.50,23.33,100.00,Listed only
+Influent → final effluent,qnr,3,4,91.56,49.78,92.50,8.00,93.43,Listed only
+Influent → final effluent,sul,5,8,77.24,14.00,90.00,12.30,92.90,Descriptive only
+Influent → final effluent,tet,4,11,77.84,45.36,98.90,10.00,100.00,Listed only
+Influent → secondary effluent,erm,1,1,99.70,99.70,99.70,99.70,99.70,Listed only
+Influent → secondary effluent,intI1,1,1,90.00,90.00,90.00,90.00,90.00,Listed only
+Influent → secondary effluent,tet,2,4,72.27,59.07,85.47,45.88,98.66,Listed only
+Secondary → final effluent,intI1,2,2,90.80,89.20,92.40,87.60,94.00,Listed only
+Secondary → final effluent,tet,1,1,80.00,80.00,80.00,80.00,80.00,Listed only
+Sewage sludge → anaerobic sludge,intI1,1,4,92.15,92.15,92.15,92.15,92.15,Listed only

@@ -6,7 +6,7 @@ Reproducibility package for the manuscript:
 
 Release **v1.3.0** contains the final v4 datasets, human audit and critical-appraisal records, and code that regenerates every quantitative result reported in the manuscript and its Supplementary Information. The final data include the author-confirmed R0328 endpoint correction checked on 2 October 2026. All earlier releases (v1.0.0–v1.2.0) were based on preliminary datasets and are superseded; see `CHANGELOG.md`.
 
-The main branch also provides ready-to-submit **Data S1–S2** bundles in `supplementary_data/`. They mirror the appraisal, mapping and sensitivity inputs/results already archived in v1.3.0; Data S2 is restricted to the 16 critical-concern outcomes that intersect the final full-scale dataset. The v1.3.0 release archive is unchanged.
+The main branch also provides the ready-to-submit **Data S1–S3** archive in `supplementary_data/Supplementary_Data_S1-S3.zip`, with the individual files available in three corresponding folders. Data S1 contains critical-appraisal decisions and mapping; Data S2 contains critical-concern outcomes and sensitivity analyses; Data S3 contains supporting machine-readable screening, provenance, study-characteristic, and quantitative-result tables. This consolidated companion archive was added after the v1.3.0 Zenodo deposit; the v1.3.0 release archive itself is unchanged.
 
 ## Contents
 
@@ -18,7 +18,7 @@ The main branch also provides ready-to-submit **Data S1–S2** bundles in `suppl
 | `scripts/` | `reproduce_results.py` (all quantitative results), `audit_agreement.py` (agreement statistics), checksum and release-validation tools |
 | `results/` | Outputs of `reproduce_results.py` |
 | `metadata/` | Processing ledger, dataset definitions, SHA-256 checksums |
-| `supplementary_data/` | Water Research X Data S1–S2 bundles and expanded machine-readable files |
+| `supplementary_data/` | Consolidated Water Research X Data S1–S3 archive and extracted machine-readable files |
 
 ## Who decided what
 

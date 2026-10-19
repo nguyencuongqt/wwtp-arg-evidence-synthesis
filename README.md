@@ -6,7 +6,7 @@ Reproducibility package for the manuscript:
 
 Release **v1.3.0** contains the final v4 datasets, human audit and critical-appraisal records, and code that regenerates every quantitative result reported in the manuscript and its Supplementary Information. The final data include the author-confirmed R0328 endpoint correction checked on 2 October 2026. All earlier releases (v1.0.0–v1.2.0) were based on preliminary datasets and are superseded; see `CHANGELOG.md`.
 
-The main branch also provides ready-to-submit **Data S1–S2** bundles in `supplementary_data/`. They mirror the appraisal, mapping and sensitivity inputs/results already archived in v1.3.0; Data S2 is restricted to the 16 critical-concern outcomes that intersect the final full-scale dataset. The v1.3.0 tag and archived release are unchanged.
+The main branch also provides ready-to-submit **Data S1–S2** bundles in `supplementary_data/`. They mirror the appraisal, mapping and sensitivity inputs/results already archived in v1.3.0; Data S2 is restricted to the 16 critical-concern outcomes that intersect the final full-scale dataset. The v1.3.0 release archive is unchanged.
 
 ## Contents
 

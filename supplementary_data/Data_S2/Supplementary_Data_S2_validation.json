@@ -1,0 +1,40 @@
+{
+  "source_repository_package": "M1_public_repository_v1.3.0_20261002.zip",
+  "source_repository_commit": "367c054890db12365a350b9c0a4247e6d868501e",
+  "source_analysis": "data/removal_log10_reduction_v4.csv + scripts/reproduce_results.py",
+  "full_log10_all_scales": {
+    "rows": 164,
+    "studies": 37
+  },
+  "primary_full_scale": {
+    "rows": 126,
+    "studies": 30
+  },
+  "critical_appraisal_outcomes_all_scales": 22,
+  "critical_outcomes_in_primary_full_scale": 16,
+  "restricted_full_scale": {
+    "rows": 110,
+    "studies": 25
+  },
+  "main_route_primary": {
+    "studies": 20,
+    "rows": 66,
+    "median": 2.3025,
+    "DL": 2.399,
+    "I2_percent": 98.3969
+  },
+  "main_route_restricted": {
+    "studies": 18,
+    "rows": 57,
+    "median": 2.3025,
+    "DL": 2.4429,
+    "I2_percent": 98.564
+  },
+  "data_s1": {
+    "units": 64,
+    "domain_decisions": 320,
+    "units_in_primary_full_scale": 44,
+    "outcomes_mapped_to_primary": 120
+  },
+  "checks": "PASS"
+}

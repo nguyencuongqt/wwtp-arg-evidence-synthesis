@@ -1,0 +1,65 @@
+unit_id,record_id,final_overall_judgement,n_outcomes_appraised,n_outcomes_in_v4_primary_full_scale,n_outcomes_in_v4_log10_dataset,in_v4_primary_full_scale_dataset
+R0054-U01,R0054,Some concerns,3,3,3,Yes
+R0090-U01,R0090,Critical concern / insufficient reporting,2,2,2,Yes
+R0170-U01,R0170,Critical concern / insufficient reporting,1,0,1,No
+R0180-U01,R0180,Some concerns,2,2,2,Yes
+R0196-U01,R0196,Some concerns,1,0,0,No
+R0196-U02,R0196,Some concerns,3,3,3,Yes
+R0236-U01,R0236,Some concerns,2,2,2,Yes
+R0236-U02,R0236,Some concerns,1,1,1,Yes
+R0262-U01,R0262,Critical concern / insufficient reporting,7,7,7,Yes
+R0272-U01,R0272,Critical concern / insufficient reporting,1,1,1,Yes
+R0280-U01,R0280,Some concerns,4,0,0,No
+R0293-U01,R0293,Some concerns,2,2,2,Yes
+R0307-U01,R0307,Some concerns,1,0,0,No
+R0328-U01,R0328,Some concerns,6,6,6,Yes
+R0328-U02,R0328,Some concerns,6,6,6,Yes
+R0505-U01,R0505,Critical concern / insufficient reporting,1,0,0,No
+R0524-U01,R0524,Some concerns,3,3,3,Yes
+R0524-U02,R0524,Some concerns,3,3,3,Yes
+R0591-U01,R0591,Some concerns,5,5,5,Yes
+R0612-U01,R0612,Some concerns,9,9,9,Yes
+R0743-U01,R0743,Critical concern / insufficient reporting,1,1,1,Yes
+R0782-U01,R0782,Some concerns,2,2,2,Yes
+R0792-U01,R0792,Some concerns,1,1,1,Yes
+R0804-U01,R0804,Critical concern / insufficient reporting,1,0,0,No
+R0849-U01,R0849,Some concerns,7,0,7,No
+R0849-U02,R0849,Some concerns,2,0,2,No
+R0853-U01,R0853,Some concerns,10,0,10,No
+R0853-U02,R0853,Some concerns,4,0,4,No
+R0867-U01,R0867,Some concerns,1,1,1,Yes
+R0872-U01,R0872,Critical concern / insufficient reporting,5,5,5,Yes
+R0885-U01,R0885,Some concerns,6,0,0,No
+R0885-U02,R0885,Low concern,7,7,7,Yes
+R0885-U03,R0885,Some concerns,4,1,1,Yes
+R0885-U04,R0885,Some concerns,3,3,3,Yes
+R0909-U01,R0909,Some concerns,7,7,7,Yes
+R0909-U02,R0909,Some concerns,1,1,1,Yes
+R0917-U01,R0917,Some concerns,1,0,1,No
+R0926-U01,R0926,Some concerns,4,4,4,Yes
+R0944-U01,R0944,Some concerns,1,1,1,Yes
+R0944-U02,R0944,Some concerns,1,1,1,Yes
+R0944-U03,R0944,Some concerns,1,1,1,Yes
+R0944-U04,R0944,Some concerns,1,1,1,Yes
+R1017-U01,R1017,Some concerns,1,1,1,Yes
+R1017-U02,R1017,Some concerns,1,1,1,Yes
+R1028-U01,R1028,Some concerns,4,0,0,No
+R1061-U01,R1061,Some concerns,2,2,2,Yes
+R1061-U02,R1061,Some concerns,1,1,1,Yes
+R1070-U01,R1070,Critical concern / insufficient reporting,2,0,1,No
+R1076-U01,R1076,Some concerns,5,0,5,No
+R1076-U02,R1076,Some concerns,4,0,4,No
+R1083-U01,R1083,Some concerns,2,2,2,Yes
+R1083-U02,R1083,Some concerns,4,4,4,Yes
+R1085-U01,R1085,Some concerns,4,4,4,Yes
+R1122-U01,R1122,Some concerns,1,1,1,Yes
+R1126-U01,R1126,Some concerns,4,4,4,Yes
+R1158-U01,R1158,Critical concern / insufficient reporting,1,0,1,No
+R1158-U02,R1158,Critical concern / insufficient reporting,1,0,1,No
+R1158-U03,R1158,Critical concern / insufficient reporting,1,0,1,No
+R1169-U01,R1169,Some concerns,1,0,0,No
+R1177-U01,R1177,Some concerns,1,1,1,Yes
+R1252-U01,R1252,Some concerns,2,2,2,Yes
+R1343-U01,R1343,Some concerns,1,1,1,Yes
+R1343-U02,R1343,Some concerns,1,1,1,Yes
+R1343-U03,R1343,Some concerns,3,3,3,Yes

@@ -4,7 +4,9 @@ Reproducibility package for the manuscript:
 
 > Nguyen, X. C. & Unno, T. *What the evidence supports for surveillance of antibiotic resistance genes in treated wastewater: a human-verified, large language model-assisted synthesis.* (submitted to *Water Research X*)
 
-Release **v1.3.0** (1 October 2026) contains the final datasets (version v4, fixed on 30 September 2026), the human audit and critical-appraisal records, and code that regenerates every quantitative result reported in the manuscript and its Supplementary Information. All earlier releases (v1.0.0–v1.2.0) were based on preliminary datasets and are superseded; see `CHANGELOG.md`.
+Release **v1.3.0** contains the final v4 datasets, human audit and critical-appraisal records, and code that regenerates every quantitative result reported in the manuscript and its Supplementary Information. The final data include the author-confirmed R0328 endpoint correction checked on 2 October 2026. All earlier releases (v1.0.0–v1.2.0) were based on preliminary datasets and are superseded; see `CHANGELOG.md`.
+
+The main branch also provides ready-to-submit **Data S1–S2** bundles in `supplementary_data/`. They mirror the appraisal, mapping and sensitivity inputs/results already archived in v1.3.0; Data S2 is restricted to the 16 critical-concern outcomes that intersect the final full-scale dataset. The v1.3.0 tag and archived release are unchanged.
 
 ## Contents
 
@@ -16,6 +18,7 @@ Release **v1.3.0** (1 October 2026) contains the final datasets (version v4, fix
 | `scripts/` | `reproduce_results.py` (all quantitative results), `audit_agreement.py` (agreement statistics), checksum and release-validation tools |
 | `results/` | Outputs of `reproduce_results.py` |
 | `metadata/` | Processing ledger, dataset definitions, SHA-256 checksums |
+| `supplementary_data/` | Water Research X Data S1–S2 bundles and expanded machine-readable files |
 
 ## Who decided what
 
@@ -36,6 +39,8 @@ python scripts/audit_agreement.py
 `reproduce_results.py` prints the main estimate (influent to final effluent, full-scale plants: median 2.30 log10, bootstrap 95% CI 1.46–3.00, 20 studies; DerSimonian–Laird 2.40, I² 98.4%) and writes all summary tables to `results/`.
 
 ## Verify integrity
+
+The checksum manifest normalizes text-file line endings before hashing, so the same release verifies on Windows, macOS and Linux.
 
 ```bash
 python scripts/verify_checksums.py

@@ -12,11 +12,14 @@ OUTPUT = ROOT / "metadata" / "SHA256SUMS.tsv"
 
 
 def digest(path: Path) -> str:
-    value = hashlib.sha256()
-    with path.open("rb") as handle:
-        for block in iter(lambda: handle.read(1024 * 1024), b""):
-            value.update(block)
+    value = hashlib.sha256(canonical_bytes(path))
     return value.hexdigest()
+
+
+def canonical_bytes(path: Path) -> bytes:
+    """Normalize text line endings so the manifest is stable across operating systems."""
+    data = path.read_bytes()
+    return data.replace(b"\r\n", b"\n") if b"\0" not in data else data
 
 
 def main() -> None:
@@ -33,7 +36,7 @@ def main() -> None:
         writer = csv.writer(handle, delimiter="\t", lineterminator="\n")
         writer.writerow(["sha256", "bytes", "path"])
         for path in sorted(files):
-            writer.writerow([digest(path), path.stat().st_size, path.relative_to(ROOT).as_posix()])
+            writer.writerow([digest(path), len(canonical_bytes(path)), path.relative_to(ROOT).as_posix()])
     print(f"Wrote checksums for {len(files)} files to {OUTPUT.relative_to(ROOT)}")
 
 

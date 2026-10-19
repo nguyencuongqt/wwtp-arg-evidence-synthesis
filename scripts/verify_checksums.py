@@ -12,11 +12,13 @@ MANIFEST = ROOT / "metadata/SHA256SUMS.tsv"
 
 
 def sha256(path: Path) -> str:
-    digest = hashlib.sha256()
-    with path.open("rb") as handle:
-        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
-            digest.update(chunk)
-    return digest.hexdigest()
+    return hashlib.sha256(canonical_bytes(path)).hexdigest()
+
+
+def canonical_bytes(path: Path) -> bytes:
+    """Normalize text line endings to match the platform-independent manifest."""
+    data = path.read_bytes()
+    return data.replace(b"\r\n", b"\n") if b"\0" not in data else data
 
 
 def main() -> None:
@@ -31,7 +33,7 @@ def main() -> None:
             actual = sha256(path)
             if actual.lower() != row["sha256"].lower():
                 failures.append(f"CHANGED  {row['path']}")
-            if path.stat().st_size != int(row["bytes"]):
+            if len(canonical_bytes(path)) != int(row["bytes"]):
                 failures.append(f"SIZE     {row['path']}")
     if failures:
         raise SystemExit("Checksum verification failed:\n" + "\n".join(failures))

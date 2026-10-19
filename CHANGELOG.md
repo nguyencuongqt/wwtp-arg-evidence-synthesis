@@ -1,9 +1,10 @@
 # Changelog
 
-## Companion-data refresh (19 October 2026; v1.3.0 analyses unchanged)
+## v1.3.1 (19 October 2026) — consolidated companion data
 
-- Added the Water Research X Data S1–S2 submission bundles and expanded CSV files under `supplementary_data/` on the repository main branch. Data S1 includes the accepted 64-unit critical appraisal and the unit-to-v4 mapping. Data S2 is rebuilt from the final v4 release and excludes the 16 critical-concern outcomes that intersect the 126-outcome / 30-study full-scale primary dataset.
-- Confirmed the restricted dataset contains 110 outcomes from 25 studies; the main influent-to-final-effluent route changes from 66 outcomes / 20 studies to 57 / 18. The v1.3.0 release archive, underlying data and analysis code are unchanged.
+- Added Data S3 and consolidated Data S1–S3 into `supplementary_data/Supplementary_Data_S1-S3.zip`; the original machine-readable CSV, JSON, TXT and Markdown files are also available in their dataset folders.
+- Data S1 contains the accepted 64-unit critical appraisal and unit-to-v4 mapping. Data S2 contains the critical-concern outcomes and full-versus-restricted sensitivity results. Data S3 contains supporting screening, model-provenance, study-characteristic, route, treatment, abundance, detection and evidence-boundary tables.
+- No analysis dataset, quantitative result, or analysis code changed from v1.3.0. The consolidated companion archive is included in this version; v1.3.0 remains an immutable earlier snapshot.
 
 ## v1.3.0 (1 October 2026) — final datasets
 

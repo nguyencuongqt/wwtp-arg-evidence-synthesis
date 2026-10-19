@@ -8,8 +8,8 @@ authors:
     orcid: "https://orcid.org/0000-0002-1953-1456"
   - family-names: "Unno"
     given-names: "Tatsuya"
-version: 1.3.0
-date-released: 2026-10-01
+version: 1.3.1
+date-released: 2026-10-19
 doi: 10.5281/zenodo.21818085
 repository-code: "https://github.com/nguyencuongqt/wwtp-arg-evidence-synthesis"
 license: CC-BY-4.0

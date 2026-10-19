@@ -4,9 +4,9 @@ Reproducibility package for the manuscript:
 
 > Nguyen, X. C. & Unno, T. *What the evidence supports for surveillance of antibiotic resistance genes in treated wastewater: a human-verified, large language model-assisted synthesis.* (submitted to *Water Research X*)
 
-Release **v1.3.0** contains the final v4 datasets, human audit and critical-appraisal records, and code that regenerates every quantitative result reported in the manuscript and its Supplementary Information. The final data include the author-confirmed R0328 endpoint correction checked on 2 October 2026. All earlier releases (v1.0.0–v1.2.0) were based on preliminary datasets and are superseded; see `CHANGELOG.md`.
+Release **v1.3.1** contains the final v4 datasets, human audit and critical-appraisal records, and code that regenerates every quantitative result reported in the manuscript and its Supplementary Information. The final data include the author-confirmed R0328 endpoint correction checked on 2 October 2026. Version 1.3.1 adds a complete, consolidated Data S1–S3 companion archive; the analysis datasets and reported estimates are unchanged from v1.3.0. See `CHANGELOG.md` for the release history.
 
-The main branch also provides the ready-to-submit **Data S1–S3** archive in `supplementary_data/Supplementary_Data_S1-S3.zip`, with the individual files available in three corresponding folders. Data S1 contains critical-appraisal decisions and mapping; Data S2 contains critical-concern outcomes and sensitivity analyses; Data S3 contains supporting machine-readable screening, provenance, study-characteristic, and quantitative-result tables. This consolidated companion archive was added after the v1.3.0 Zenodo deposit; the v1.3.0 release archive itself is unchanged.
+The **Data S1–S3** archive is available at `supplementary_data/Supplementary_Data_S1-S3.zip`, with the individual files also available in three corresponding folders. Data S1 contains critical-appraisal decisions and mapping; Data S2 contains critical-concern outcomes and sensitivity analyses; Data S3 contains supporting machine-readable screening, provenance, study-characteristic, and quantitative-result tables. The Zenodo concept DOI `10.5281/zenodo.21818085` resolves to the latest version; the v1.3.1 archive includes this consolidated companion dataset.
 
 ## Contents
 

@@ -1,0 +1,130 @@
+raw_term,normalized_treatment_process,treatment_group,notes
+activated sludge,activated_sludge,secondary_biological_treatment,canonical CAS process
+activated sludge process,activated_sludge,secondary_biological_treatment,full phrase
+CAS,activated_sludge,secondary_biological_treatment,conventional activated sludge abbreviation
+conventional activated sludge,activated_sludge,secondary_biological_treatment,full description
+A2O,A2O,secondary_biological_treatment,anaerobic-anoxic-oxic process
+A/O,A2O,secondary_biological_treatment,variant notation
+AAO,A2O,secondary_biological_treatment,variant notation
+anaerobic-anoxic-oxic,A2O,secondary_biological_treatment,full description
+oxidation ditch,oxidation_ditch,secondary_biological_treatment,canonical
+Orbal,oxidation_ditch,secondary_biological_treatment,brand name variant
+SBR,SBR,secondary_biological_treatment,sequencing batch reactor
+sequencing batch reactor,SBR,secondary_biological_treatment,full description
+SBBR,SBR,secondary_biological_treatment,sequencing batch biofilm reactor variant
+MBR,MBR,membrane_treatment,membrane bioreactor
+membrane bioreactor,MBR,membrane_treatment,full description
+submerged MBR,MBR,membrane_treatment,submerged configuration
+MBBR,MBBR,secondary_biological_treatment,moving bed biofilm reactor
+moving bed biofilm reactor,MBBR,secondary_biological_treatment,full description
+constructed wetland,constructed_wetland,nature_based_treatment,CW systems
+CW,constructed_wetland,nature_based_treatment,abbreviation
+subsurface flow wetland,constructed_wetland,nature_based_treatment,specific CW type
+free surface wetland,constructed_wetland,nature_based_treatment,specific CW type
+chlorination,chlorination,tertiary_disinfection,chlorine-based disinfection
+chlorine disinfection,chlorination,tertiary_disinfection,synonym
+free chlorine,chlorination,tertiary_disinfection,common reagent form
+NaOCl treatment,chlorination,tertiary_disinfection,sodium hypochlorite
+hypochlorite,chlorination,tertiary_disinfection,hypochlorite disinfection
+UV,UV_disinfection,tertiary_disinfection,ultraviolet disinfection
+UV disinfection,UV_disinfection,tertiary_disinfection,full description
+ultraviolet disinfection,UV_disinfection,tertiary_disinfection,synonym
+UV irradiation,UV_disinfection,tertiary_disinfection,synonym
+ozonation,ozonation,tertiary_disinfection,ozone-based disinfection
+ozone treatment,ozonation,tertiary_disinfection,synonym
+O3 treatment,ozonation,tertiary_disinfection,chemical symbol
+advanced oxidation,advanced_oxidation,advanced_oxidation,AOP — general term
+AOP,advanced_oxidation,advanced_oxidation,abbreviation
+UV/H2O2,UV_H2O2,advanced_oxidation,UV plus hydrogen peroxide
+Fenton,Fenton,advanced_oxidation,Fenton reaction
+photo-Fenton,photo_Fenton,advanced_oxidation,photo-Fenton process
+photocatalysis,photocatalysis,advanced_oxidation,heterogeneous photocatalysis
+TiO2 photocatalysis,photocatalysis,advanced_oxidation,TiO2-based
+electrochemical treatment,electrochemical,advanced_oxidation,electrochemical oxidation
+electro-oxidation,electrochemical,advanced_oxidation,synonym
+membrane filtration,membrane_filtration,membrane_treatment,pressure-driven membranes
+nanofiltration,nanofiltration,membrane_treatment,NF membrane
+NF,nanofiltration,membrane_treatment,abbreviation
+ultrafiltration,ultrafiltration,membrane_treatment,UF membrane
+UF,ultrafiltration,membrane_treatment,abbreviation
+reverse osmosis,reverse_osmosis,membrane_treatment,RO membrane
+RO,reverse_osmosis,membrane_treatment,abbreviation
+microfiltration,microfiltration,membrane_treatment,MF membrane
+MF,microfiltration,membrane_treatment,abbreviation
+adsorption,adsorption,adsorption_treatment,general adsorption process
+biochar adsorption,biochar,adsorption_treatment,biochar-based adsorption
+biochar,biochar,adsorption_treatment,canonical
+activated carbon,activated_carbon,adsorption_treatment,GAC or PAC
+GAC,activated_carbon,adsorption_treatment,granular activated carbon
+PAC,activated_carbon,adsorption_treatment,powdered activated carbon
+anaerobic digestion,anaerobic_digestion,anaerobic_digestion,sludge anaerobic digestion
+AD,anaerobic_digestion,anaerobic_digestion,abbreviation
+mesophilic anaerobic digestion,anaerobic_digestion,anaerobic_digestion,mesophilic conditions
+thermophilic anaerobic digestion,anaerobic_digestion,anaerobic_digestion,thermophilic conditions
+sludge composting,sludge_composting,sludge_treatment,composting of sewage sludge
+composting,sludge_composting,sludge_treatment,generic composting
+thermal hydrolysis,thermal_hydrolysis,sludge_treatment,Cambi or similar THP process
+THP,thermal_hydrolysis,sludge_treatment,thermal hydrolysis process abbreviation
+sludge dewatering,sludge_dewatering,sludge_treatment,mechanical dewatering
+dewatering,sludge_dewatering,sludge_treatment,synonym
+centrifugation,sludge_dewatering,sludge_treatment,centrifuge dewatering
+belt filter press,sludge_dewatering,sludge_treatment,BFP dewatering
+sludge drying,sludge_drying,sludge_treatment,thermal drying
+primary settling,primary_settling,primary_treatment,primary sedimentation
+primary sedimentation,primary_settling,primary_treatment,primary settling
+primary treatment,primary_settling,primary_treatment,generic primary
+screening,screening,primary_treatment,coarse/fine screening
+grit removal,grit_removal,primary_treatment,grit chamber
+hybrid process,hybrid_process,hybrid_treatment,combination of multiple processes
+constructed wetland combined with MBR,hybrid_process,hybrid_treatment,example hybrid
+unclear,unclear,unclear,cannot determine treatment process
+not reported,unclear,unclear,not reported in source
+A2/O,A2O,secondary_biological_treatment,anaerobic-anoxic-oxic slash notation
+modified A2/O,A2O,secondary_biological_treatment,modified anaerobic-anoxic-oxic process
+modified A2O,A2O,secondary_biological_treatment,modified anaerobic-anoxic-oxic process
+anaerobic/anoxic/oxic,A2O,secondary_biological_treatment,slash notation
+anaerobic/anoxic/oxic system,A2O,secondary_biological_treatment,full slash notation
+anoxic/oxic,A2O,secondary_biological_treatment,AO process family
+AO,A2O,secondary_biological_treatment,anoxic-oxic abbreviation
+anaerobic oxic,A2O,secondary_biological_treatment,AO spelling variant
+CASS,CASS,secondary_biological_treatment,cyclic activated sludge system
+biological treatment (CASS),CASS,secondary_biological_treatment,CASS described as biological treatment
+modified SBR,SBR,secondary_biological_treatment,modified sequencing batch reactor
+MSBR,SBR,secondary_biological_treatment,modified sequencing batch reactor abbreviation
+sequencing batch bioreactor,SBR,secondary_biological_treatment,SBR spelling variant
+denitrification SBR,SBR,secondary_biological_treatment,SBR denitrification variant
+Bardenpho,Bardenpho,secondary_biological_treatment,Bardenpho biological nutrient removal
+UASB,UASB,anaerobic_biological_treatment,upflow anaerobic sludge blanket
+EGSB anaerobic reactor,EGSB,anaerobic_biological_treatment,expanded granular sludge bed reactor
+AnMBR,AnMBR,membrane_treatment,anaerobic membrane bioreactor
+anaerobic membrane bioreactor,AnMBR,membrane_treatment,full AnMBR phrase
+A/O-MBR,MBR,membrane_treatment,anoxic-oxic membrane bioreactor
+AO-MBR,MBR,membrane_treatment,anoxic-oxic membrane bioreactor
+A2/O-MBR,MBR,membrane_treatment,A2O membrane bioreactor
+A2O + MBR,MBR,membrane_treatment,A2O plus membrane bioreactor
+MABR,MABR,membrane_treatment,membrane-aerated biofilm reactor
+membrane-aerated biofilm reactor,MABR,membrane_treatment,full MABR phrase
+PAC-UF,ultrafiltration,membrane_treatment,powdered activated carbon plus ultrafiltration
+BPAC-UF,ultrafiltration,membrane_treatment,biological powdered activated carbon plus ultrafiltration
+Orbal oxidation ditch,oxidation_ditch,secondary_biological_treatment,Orbal oxidation ditch
+vermifiltration,vermifiltration,nature_based_treatment,vermi/biofilter treatment
+waste stabilisation pond,waste_stabilization_pond,nature_based_treatment,pond treatment variant
+waste stabilization pond,waste_stabilization_pond,nature_based_treatment,pond treatment canonical US spelling
+stabilization pond,waste_stabilization_pond,nature_based_treatment,pond treatment
+electrocoagulation,electrocoagulation,physicochemical_treatment,electrocoagulation
+coagulation with FeCl3,coagulation,physicochemical_treatment,ferric chloride coagulation
+coagulation,coagulation,physicochemical_treatment,coagulation treatment
+Fenton oxidation,Fenton,advanced_oxidation,Fenton oxidation alias
+UV/H2O2 process,UV_H2O2,advanced_oxidation,UV H2O2 process alias
+PMS/O3,advanced_oxidation,advanced_oxidation,peroxymonosulfate ozone AOP
+ozonation + AGAC,ozonation,tertiary_disinfection,ozonation followed by activated carbon
+activated carbon adsorption,activated_carbon,adsorption_treatment,activated carbon adsorption
+reactive electrochemical ceramic membrane,electrochemical,advanced_oxidation,electrochemical ceramic membrane
+mechanical-biological wastewater treatment,mechanical_biological,secondary_biological_treatment,mechanical biological treatment train
+conventional wastewater treatment,conventional_WWTP,secondary_biological_treatment,generic conventional WWTP treatment
+conventional WWTP,conventional_WWTP,secondary_biological_treatment,generic conventional WWTP
+activated sludge-based WWTP,activated_sludge,secondary_biological_treatment,activated sludge WWTP wording
+activated sludge WWTP,activated_sludge,secondary_biological_treatment,activated sludge WWTP wording
+secondary biological treatment,secondary_biological_treatment,secondary_biological_treatment,generic secondary biological treatment
+biological treatment,secondary_biological_treatment,secondary_biological_treatment,generic biological treatment
+two stage tandem biological oxidation process,biological_oxidation,secondary_biological_treatment,two-stage biological oxidation

@@ -1,0 +1,75 @@
+﻿raw_term,normalized_matrix,matrix_group,notes
+influent,influent,liquid_influent,canonical
+raw wastewater,influent,liquid_influent,synonym for untreated influent
+raw_wastewater,influent,liquid_influent,underscore variant
+Influent,influent,liquid_influent,capitalization variant
+INFLUENT,influent,liquid_influent,all-caps variant
+wastewater influent,influent,liquid_influent,full phrase
+untreated wastewater,influent,liquid_influent,synonym
+primary effluent,primary_effluent,liquid_intermediate,after primary settling
+primary_effluent,primary_effluent,liquid_intermediate,underscore variant
+settled wastewater,primary_effluent,liquid_intermediate,synonym
+activated sludge,activated_sludge,sludge_mixed_liquor,mixed liquor suspended solids
+activated_sludge,activated_sludge,sludge_mixed_liquor,underscore variant
+mixed liquor,mixed_liquor,sludge_mixed_liquor,liquid fraction with biomass
+mixed_liquor,mixed_liquor,sludge_mixed_liquor,underscore variant
+mixed liquor suspended solids,mixed_liquor,sludge_mixed_liquor,MLSS
+MLSS,mixed_liquor,sludge_mixed_liquor,abbreviation
+secondary effluent,secondary_effluent,liquid_effluent,after biological treatment
+secondary_effluent,secondary_effluent,liquid_effluent,underscore variant
+biologically treated effluent,secondary_effluent,liquid_effluent,description-based
+biological effluent,secondary_effluent,liquid_effluent,description-based
+final effluent,final_effluent,liquid_effluent,after full treatment train
+final_effluent,final_effluent,liquid_effluent,underscore variant
+treated effluent,final_effluent,liquid_effluent,generic post-treatment
+effluent,final_effluent,liquid_effluent,ambiguous — assume final if no other info
+WWTP effluent,final_effluent,liquid_effluent,WWTP-specific effluent
+plant effluent,final_effluent,liquid_effluent,WWTP-specific effluent
+tertiary effluent,tertiary_effluent,liquid_effluent,after tertiary treatment
+tertiary_effluent,tertiary_effluent,liquid_effluent,underscore variant
+reclaimed water,reclaimed_water,liquid_reclaimed,treated for reuse
+reclaimed_water,reclaimed_water,liquid_reclaimed,underscore variant
+recycled water,reclaimed_water,liquid_reclaimed,synonym for reuse
+reuse water,reclaimed_water,liquid_reclaimed,synonym
+waste activated sludge,waste_activated_sludge,sludge_waste,WAS — excess sludge
+waste_activated_sludge,waste_activated_sludge,sludge_waste,underscore variant
+WAS,waste_activated_sludge,sludge_waste,abbreviation
+excess sludge,waste_activated_sludge,sludge_waste,synonym
+wasted sludge,waste_activated_sludge,sludge_waste,synonym
+sewage sludge,sewage_sludge,sludge_processed,generic sewage sludge
+sewage_sludge,sewage_sludge,sludge_processed,underscore variant
+sludge,sewage_sludge,sludge_processed,ambiguous — assume sewage sludge if WWTP context
+WWTP sludge,sewage_sludge,sludge_processed,WWTP-specific
+primary sludge,sewage_sludge,sludge_processed,primary settling sludge
+anaerobic sludge,anaerobic_sludge,sludge_anaerobic,from anaerobic digestion
+anaerobic_sludge,anaerobic_sludge,sludge_anaerobic,underscore variant
+digested sludge,anaerobic_sludge,sludge_anaerobic,after anaerobic digestion
+digestate,digestate,sludge_processed,output of anaerobic digestion
+biosolids,biosolids,sludge_processed,treated sludge for land application
+composted sludge,biosolids,sludge_processed,after composting
+dewatered sludge,sewage_sludge,sludge_processed,after dewatering — still sewage sludge
+bioaerosol,bioaerosol,aerosol,airborne particles from WWTP
+WWTP bioaerosol,bioaerosol,aerosol,WWTP-specific bioaerosol
+receiving water upstream,receiving_water_upstream,receiving_water,upstream of WWTP discharge
+upstream water,receiving_water_upstream,receiving_water,upstream of WWTP discharge
+river upstream,receiving_water_upstream,receiving_water,upstream of WWTP discharge point
+receiving water downstream,receiving_water_downstream,receiving_water,downstream of WWTP discharge
+downstream water,receiving_water_downstream,receiving_water,downstream of WWTP discharge
+river downstream,receiving_water_downstream,receiving_water,downstream of WWTP discharge point
+surface water,receiving_water_downstream,receiving_water,ambiguous — flag for review if no clear upstream/downstream context
+receiving water,receiving_water_downstream,receiving_water,ambiguous — assume downstream unless specified
+unclear,unclear,unclear,could not determine matrix
+not reported,unclear,unclear,not reported in source
+unknown,unclear,unclear,unknown origin
+activated surplus sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: surplus activated sludge/WAS
+surplus activated sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: WAS
+surplus sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: excess/WAS
+excess activated sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: WAS
+thickened waste activated sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: thickened WAS
+thickened activated sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: thickened WAS
+thickened sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: sludge-line intermediate
+dewatered waste activated sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: dewatered WAS
+activated surplus,waste_activated_sludge,sludge_waste,enhanced linkage alias: abbreviated activated surplus sludge
+digested waste activated sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: digested WAS
+digested activated sludge,waste_activated_sludge,sludge_waste,enhanced linkage alias: digested activated sludge
+anaerobically digested sludge,anaerobic_sludge,sludge_anaerobic,enhanced linkage alias: digested sludge

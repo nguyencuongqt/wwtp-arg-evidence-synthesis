@@ -4,7 +4,7 @@ Reproducibility package for the manuscript:
 
 > Nguyen, X. C. & Unno, T. *What the evidence supports for surveillance of antibiotic resistance genes in treated wastewater: a human-verified, large language model-assisted synthesis.* (submitted to *Water Research X*)
 
-Release **v1.3.1** contains the final v4 datasets, human audit and critical-appraisal records, and code that regenerates every quantitative result reported in the manuscript and its Supplementary Information. The final data include the author-confirmed R0328 endpoint correction checked on 2 October 2026. Version 1.3.1 adds a complete, consolidated Data S1–S3 companion archive; the analysis datasets and reported estimates are unchanged from v1.3.0. See `CHANGELOG.md` for the release history.
+Release **v1.3.2** contains the final v4 datasets, human audit and critical-appraisal records, and code that regenerates every quantitative result reported in the manuscript and its Supplementary Information. The final data include the author-confirmed R0328 endpoint correction checked on 2 October 2026. Version 1.3.1 added the complete, consolidated Data S1–S3 companion archive. Version 1.3.2 adds the deterministic normalization workflow, its controlled-vocabulary dictionaries, and the figure- and table-aware extraction prompt. The analysis datasets and reported estimates are unchanged from v1.3.1. See `CHANGELOG.md` for the release history.
 
 The **Data S1–S3** archive is available at `supplementary_data/Supplementary_Data_S1-S3.zip`, with the individual files also available in three corresponding folders. Data S1 contains critical-appraisal decisions and mapping; Data S2 contains critical-concern outcomes and sensitivity analyses; Data S3 contains supporting machine-readable screening, provenance, study-characteristic, and quantitative-result tables. The Zenodo concept DOI `10.5281/zenodo.21818085` resolves to the latest version; the v1.3.1 archive includes this consolidated companion dataset.
 
@@ -14,15 +14,15 @@ The **Data S1–S3** archive is available at `supplementary_data/Supplementary_D
 |---|---|
 | `data/` | Final analysis datasets (log10 reduction, percent removal, liquid abundance, route layer), the reported-detection aggregate, characteristics of the 136-study quantitative core, and a row-level change log from the previous public version |
 | `audit/` | Human decision records: eligibility re-assessment of 95 studies, final value audit of 491 values, blinded second-reviewer check of 100 values, and the critical appraisal of 64 removal units with its sensitivity input |
-| `protocol/` | Search strategy, decision rules, screening and extraction prompts, PRISMA flow counts, exclusion reasons, final title/abstract screening decisions, screening benchmark and full-text screening audit |
-| `scripts/` | `reproduce_results.py` (all quantitative results), `audit_agreement.py` (agreement statistics), checksum and release-validation tools |
+| `protocol/` | Search strategy, decision rules, screening and text/figure/table extraction prompts, PRISMA flow counts, exclusion reasons, final title/abstract screening decisions, screening benchmark and full-text screening audit |
+| `scripts/` | `reproduce_results.py` (all quantitative results), `audit_agreement.py` (agreement statistics), the production normalization workflow and dictionaries, checksum and release-validation tools |
 | `results/` | Outputs of `reproduce_results.py` |
 | `metadata/` | Processing ledger, dataset definitions, SHA-256 checksums |
 | `supplementary_data/` | Consolidated Water Research X Data S1–S3 archive and extracted machine-readable files |
 
 ## Who decided what
 
-Large language models (OpenAI GPT-4o-mini, GPT-5.4-mini and GPT-5.4), called through the OpenAI API from Python scripts, generated **candidate** screening decisions and **candidate** extracted data only. mistral-small-2603 and a TF-IDF/logistic-regression baseline were run only as screening benchmark comparators and did not change any decision. Every exclusion at title/abstract and full-text screening was a human decision, every study contributing data to the synthesis was confirmed eligible by a reviewer, and every value audit decision and every critical-appraisal judgement was made by the authors (X.C.N. and T.U.), as recorded in `audit/` and `protocol/`. Model versions, run dates, settings and prompts are listed in `metadata/model_ledger.md` and `protocol/`. Normalization, dataset definition and statistics are deterministic and require no model calls.
+Large language models (OpenAI GPT-4o-mini, GPT-5.4-mini and GPT-5.4), called through the OpenAI API from Python scripts, generated **candidate** screening decisions and **candidate** extracted data only. mistral-small-2603 and a TF-IDF/logistic-regression baseline were run only as screening benchmark comparators and did not change any decision. Every exclusion at title/abstract and full-text screening was a human decision, every study contributing data to the synthesis was confirmed eligible by a reviewer, and every value audit decision and every critical-appraisal judgement was made by the authors (X.C.N. and T.U.), as recorded in `audit/` and `protocol/`. Model versions, run dates, settings and prompts are listed in `metadata/model_ledger.md` and `protocol/`. Normalization, dataset definition and statistics are deterministic and require no model calls. The normalization code and dictionaries are provided in `scripts/normalization/`.
 
 ## Reproduce the results
 

@@ -1,0 +1,64 @@
+raw_unit,normalized_unit,unit_family,convertible_to,conversion_rule,notes
+copies/mL,copies_per_mL,absolute_abundance_liquid,copies_per_L,multiply by 1000,most common liquid unit
+copies/ml,copies_per_mL,absolute_abundance_liquid,copies_per_L,multiply by 1000,lowercase variant
+copies mL-1,copies_per_mL,absolute_abundance_liquid,copies_per_L,multiply by 1000,superscript notation
+gene copies/mL,copies_per_mL,absolute_abundance_liquid,copies_per_L,multiply by 1000,full phrase
+gene copies mL-1,copies_per_mL,absolute_abundance_liquid,copies_per_L,multiply by 1000,full phrase superscript
+copies/L,copies_per_L,absolute_abundance_liquid,copies_per_mL,divide by 1000,per liter
+copies/l,copies_per_L,absolute_abundance_liquid,copies_per_mL,divide by 1000,lowercase l
+copies L-1,copies_per_L,absolute_abundance_liquid,copies_per_mL,divide by 1000,superscript notation
+gene copies/L,copies_per_L,absolute_abundance_liquid,copies_per_mL,divide by 1000,full phrase
+copies/m3,copies_per_m3,absolute_abundance_air,,,cubic meter — air/bioaerosol
+copies m-3,copies_per_m3,absolute_abundance_air,,,superscript notation
+copies/g,copies_per_g,absolute_abundance_solid,,,per gram wet weight
+copies/g wet weight,copies_per_g_ww,absolute_abundance_solid,,,explicitly wet weight
+copies g-1,copies_per_g,absolute_abundance_solid,,,superscript notation
+gene copies/g,copies_per_g,absolute_abundance_solid,,,full phrase
+copies/g dry weight,copies_per_g_dw,absolute_abundance_solid,,,per gram dry weight — not interchangeable with ww
+copies/g DW,copies_per_g_dw,absolute_abundance_solid,,,dry weight abbreviation
+copies/g dw,copies_per_g_dw,absolute_abundance_solid,,,lowercase dw
+copies g-1 DW,copies_per_g_dw,absolute_abundance_solid,,,superscript DW notation
+copies/g TS,copies_per_g_ts,absolute_abundance_solid,,,total solids basis
+copies g-1 TS,copies_per_g_ts,absolute_abundance_solid,,,superscript TS notation
+copies/g VS,copies_per_g_vs,absolute_abundance_solid,,,volatile solids basis
+copies/g VSS,copies_per_g_vss,absolute_abundance_solid,,,volatile suspended solids basis
+copies/g DS,copies_per_g_ds,absolute_abundance_solid,,,dry sludge basis
+copies/g SS,copies_per_g_ss,absolute_abundance_solid,,,suspended solids basis
+log copies/mL,log_copies_per_mL,log_abundance,,,log10-transformed abundance
+log copies/L,log_copies_per_L,log_abundance,,,log10-transformed abundance
+log copies/g,log_copies_per_g,log_abundance,,,log10-transformed abundance
+log copies/g DW,log_copies_per_g_dw,log_abundance,,,log10-transformed dry-weight abundance
+log copies/g DS,log_copies_per_g_ds,log_abundance,,,log10-transformed dry-sludge abundance
+log copies/g TS,log_copies_per_g_ts,log_abundance,,,log10-transformed total-solids abundance
+log copies/g VS,log_copies_per_g_vs,log_abundance,,,log10-transformed volatile-solids abundance
+log copies/g VSS,log_copies_per_g_vss,log_abundance,,,log10-transformed volatile-suspended-solids abundance
+log gene copies/mL,log_copies_per_mL,log_abundance,,,full phrase log
+log(copies/mL),log_copies_per_mL,log_abundance,,,parenthetical form
+relative abundance,relative_abundance,relative_abundance_metagenomic,,,metagenomics relative abundance (fraction of reads)
+relative abundance (%),relative_abundance_percent,relative_abundance_metagenomic,,,percent form
+RA,relative_abundance,relative_abundance_metagenomic,,,abbreviation
+relative abundance/16S,relative_abundance_16S,relative_abundance_16S,,,normalized to 16S rRNA gene copies
+copies/16S rRNA gene,copies_per_16S,relative_abundance_16S,,,per 16S rRNA gene copy
+copies/16S,copies_per_16S,relative_abundance_16S,,,abbreviated 16S normalization
+gene copies/16S rRNA gene copies,copies_per_16S,relative_abundance_16S,,,full phrase
+copies/cell,copies_per_cell,relative_abundance_16S,,,per cell estimate
+abundance/16S,copies_per_16S,relative_abundance_16S,,,abbreviation
+TPM,TPM,relative_abundance_metagenomic,,,transcripts per million (metagenomics)
+RPKM,RPKM,relative_abundance_metagenomic,,,reads per kilobase per million
+FPKM,FPKM,relative_abundance_metagenomic,,,fragments per kilobase per million
+ppm,ppm,concentration,,,parts per million — verify context
+ppb,ppb,concentration,,,parts per billion — verify context
+removal percent,percent_removal,removal_percent,,,percent removal efficiency
+% removal,percent_removal,removal_percent,,,abbreviation
+%,percent_removal,removal_percent,,,ambiguous — confirm context is removal
+removal efficiency (%),percent_removal,removal_percent,,,explicit removal efficiency
+percent reduction,percent_removal,removal_percent,,,synonym
+log reduction,log_reduction,log_reduction,,,log10 reduction value
+LRV,log_reduction,log_reduction,,,log reduction value abbreviation
+log10 reduction,log_reduction,log_reduction,,,explicit log10
+log removal,log_reduction,log_reduction,,,synonym
+not reported,not_reported,unclear,,,unit not reported in source
+not detected,detection_status,detection_status,,,qualitative — no unit needed
+detected,detection_status,detection_status,,,qualitative — presence only
+ND,detection_status,detection_status,,,not detected abbreviation
+unclear,unclear,unclear,,,could not determine unit

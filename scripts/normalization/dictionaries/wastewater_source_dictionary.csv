@@ -1,0 +1,42 @@
+raw_term,normalized_wastewater_source_type,notes
+municipal,municipal,domestic sewage from urban areas
+municipal wastewater,municipal,full phrase
+urban wastewater,municipal,synonym
+domestic,domestic,household wastewater — may overlap with municipal
+domestic wastewater,domestic,full phrase
+household wastewater,domestic,synonym
+hospital,hospital,healthcare facility wastewater
+hospital wastewater,hospital,full phrase
+healthcare,hospital,healthcare facility
+medical wastewater,hospital,synonym
+pharmaceutical,industrial,pharmaceutical plant effluent
+industrial,industrial,general industrial effluent
+industrial wastewater,industrial,full phrase
+factory,industrial,general factory effluent
+textile,industrial,textile industry
+tannery,industrial,leather tanning industry
+paper mill,industrial,paper/pulp industry
+slaughterhouse,industrial,meat processing — may also be livestock
+food processing,industrial,food industry effluent
+agricultural,agricultural,farming-related wastewater
+agricultural wastewater,agricultural,full phrase
+agricultural runoff,agricultural,surface runoff from farms
+livestock,livestock,animal farming wastewater
+livestock wastewater,livestock,full phrase
+animal husbandry,livestock,synonym
+swine,livestock,pig farming
+pig farm,livestock,pig farming
+poultry,livestock,poultry farming
+dairy,livestock,dairy farm wastewater
+cattle,livestock,cattle farm wastewater
+aquaculture,aquaculture,fish/shrimp farming wastewater
+aquaculture wastewater,aquaculture,full phrase
+fish farm,aquaculture,specific aquaculture type
+shrimp farm,aquaculture,specific aquaculture type
+mixed,mixed,combination of multiple source types
+mixed wastewater,mixed,combination
+combined wastewater,mixed,industrial + municipal mix
+unclear,unclear,source type could not be determined
+unknown,unclear,not reported or identifiable
+not reported,unclear,not reported in source
+synthetic,unclear,synthetic wastewater — flag for exclusion from real-wastewater analyses

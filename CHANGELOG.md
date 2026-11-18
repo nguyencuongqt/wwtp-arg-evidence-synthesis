@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.3.2 (18 November 2026) — normalization code and extraction prompt
+
+- Added the production rule-based normalization scripts and their controlled-vocabulary dictionaries under `scripts/normalization/`.
+- Added the figure- and table-aware extraction system prompt, user-message template and production request settings under `protocol/`.
+- Updated the release documentation and checksum manifest. Analysis datasets and quantitative results are unchanged from v1.3.1.
+
 ## v1.3.1 (19 October 2026) — consolidated companion data
 
 - Added Data S3 and consolidated Data S1–S3 into `supplementary_data/Supplementary_Data_S1-S3.zip`; the original machine-readable CSV, JSON, TXT and Markdown files are also available in their dataset folders.

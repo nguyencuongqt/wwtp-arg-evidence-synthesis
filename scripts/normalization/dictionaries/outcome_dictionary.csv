@@ -1,0 +1,37 @@
+raw_outcome_type,normalized_outcome_type,outcome_group,notes
+removal_efficiency,removal_efficiency,quantitative_removal,canonical — percent removal
+removal efficiency,removal_efficiency,quantitative_removal,space variant
+percent removal,removal_efficiency,quantitative_removal,synonym
+% removal,removal_efficiency,quantitative_removal,abbreviated
+reduction,reduction,quantitative_removal,general reduction — not necessarily percent
+log_reduction,log_reduction,quantitative_removal,canonical — log10 scale reduction
+log reduction,log_reduction,quantitative_removal,space variant
+LRV,log_reduction,quantitative_removal,log reduction value
+log10 reduction,log_reduction,quantitative_removal,explicit base
+log removal,log_reduction,quantitative_removal,synonym
+persistence,persistence,qualitative_outcome,target detected after treatment
+persists after treatment,persistence,qualitative_outcome,full phrase
+enrichment,enrichment,qualitative_outcome,target increases after treatment
+enriched after treatment,enrichment,qualitative_outcome,full phrase
+no_significant_change,no_significant_change,qualitative_outcome,no statistically significant change
+no significant change,no_significant_change,qualitative_outcome,space variant
+no significant difference,no_significant_change,qualitative_outcome,synonym
+not significantly different,no_significant_change,qualitative_outcome,synonym
+depletion,reduction,quantitative_removal,numeric depletion indicates decrease/removal direction
+removal_efficiency_or_log_reduction,directional_removal_or_change_needs_review,directional_change_needs_review,ambiguous v3 alias; contains removal wording but QC found mixed/unclear direction so do not route to synthesis without direction check
+removal_efficiency_or_percent_change,directional_removal_or_change_needs_review,directional_change_needs_review,ambiguous v3 alias; percent change may encode increase or decrease
+log_reduction_or_log_change,directional_log_change_needs_review,directional_change_needs_review,ambiguous v3 alias; log change may encode enrichment/increase or reduction
+percent_change_or_removal_efficiency,directional_percent_change_needs_review,directional_change_needs_review,ambiguous v3 alias; percent change may encode enrichment/increase or removal
+fold_change,directional_fold_change_needs_review,directional_change_needs_review,fold change requires sign/direction interpretation before synthesis
+correlates_with,association,association,association/correlation outcome not removal
+associated_with,association,association,association outcome not removal
+co-occurrence,co_occurrence,association,co-occurrence/association outcome not removal
+vision_extracted_outcome,unclear,unclear,generic v3 outcome label; requires specific type before synthesis
+occurrence_only,occurrence_only,occurrence,detection without fate/removal context
+occurrence only,occurrence_only,occurrence,space variant
+detection,occurrence_only,occurrence,synonymous in this context
+detection_non_detection,detection_non_detection,occurrence,binary detected/not detected
+detected/not detected,detection_non_detection,occurrence,explicit binary
+presence/absence,detection_non_detection,occurrence,presence-absence data
+unclear,unclear,unclear,could not determine outcome type
+not reported,unclear,unclear,not reported

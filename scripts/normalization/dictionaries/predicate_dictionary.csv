@@ -1,0 +1,17 @@
+raw_predicate,normalized_predicate,relation_group,allowed_evidence_strength,notes
+detected_in,detected_in,occurrence,direct_measurement|statistical_association,ARG/MGE detected in a matrix
+measured_in,measured_in,quantification,direct_measurement,quantitative measurement in a matrix
+reduced_by,reduced_by,treatment_outcome,direct_measurement|reported_calculation,ARG reduced by a treatment process
+removed_by,removed_by,treatment_outcome,direct_measurement|reported_calculation,ARG removed by treatment — implies higher confidence than reduced
+persists_after,persists_after,treatment_outcome,direct_measurement|reported_calculation,ARG persists after treatment
+enriched_after,enriched_after,treatment_outcome,direct_measurement|reported_calculation,ARG increases after treatment
+associated_with,associated_with,association,statistical_association|correlation|author_interpretation,non-causal association
+correlates_with,correlates_with,association,correlation|statistical_association,statistical correlation
+co_occurs_with,co_occurs_with,co_occurrence,direct_measurement|statistical_association,co-occurrence without causal claim
+treated_by,treated_by,treatment_process,direct_measurement,wastewater/sludge treated by process
+sampled_from,sampled_from,sampling,direct_measurement,sample taken from a source/location
+derived_from,derived_from,provenance,direct_measurement,derived from a parent sample
+normalized_by,normalized_by,normalization,direct_measurement,measurement normalized by reference gene/unit
+quantified_by,quantified_by,method,direct_measurement,target quantified using a specific method
+linked_to_effluent_discharge,linked_to_effluent_discharge,environmental_link,direct_measurement|statistical_association,WWTP effluent linked to receiving water
+supported_by_evidence,supported_by_evidence,evidence,direct_measurement|reported_calculation,generic evidential relation — use sparingly

@@ -1,0 +1,230 @@
+raw_term,normalized_arg_name,arg_class,target_type,notes
+sul1,sul1,sulfonamide resistance,ARG,canonical
+sul2,sul2,sulfonamide resistance,ARG,canonical
+sul3,sul3,sulfonamide resistance,ARG,canonical
+sulI,sul1,sulfonamide resistance,ARG,Roman numeral variant
+sulII,sul2,sulfonamide resistance,ARG,Roman numeral variant
+sulIII,sul3,sulfonamide resistance,ARG,Roman numeral variant
+Sul1,sul1,sulfonamide resistance,ARG,capitalization variant
+Sul2,sul2,sulfonamide resistance,ARG,capitalization variant
+tetA,tetA,tetracycline resistance,ARG,canonical
+tetB,tetB,tetracycline resistance,ARG,canonical
+tetC,tetC,tetracycline resistance,ARG,canonical
+tetD,tetD,tetracycline resistance,ARG,canonical
+tetG,tetG,tetracycline resistance,ARG,canonical
+tetH,tetH,tetracycline resistance,ARG,canonical
+tetL,tetL,tetracycline resistance,ARG,canonical
+tetM,tetM,tetracycline resistance,ARG,canonical
+tetO,tetO,tetracycline resistance,ARG,canonical
+tetQ,tetQ,tetracycline resistance,ARG,canonical
+tetR,tetR,tetracycline resistance,ARG,canonical — tetR is also a regulator; context-dependent
+tetS,tetS,tetracycline resistance,ARG,canonical
+tetW,tetW,tetracycline resistance,ARG,canonical
+tetX,tetX,tetracycline resistance,ARG,canonical
+tet(A),tetA,tetracycline resistance,ARG,parenthetical notation
+tet(M),tetM,tetracycline resistance,ARG,parenthetical notation
+tet(O),tetO,tetracycline resistance,ARG,parenthetical notation
+tet(W),tetW,tetracycline resistance,ARG,parenthetical notation
+tet(Q),tetQ,tetracycline resistance,ARG,parenthetical notation
+tet(X),tetX,tetracycline resistance,ARG,parenthetical notation
+ermB,ermB,macrolide-lincosamide-streptogramin resistance,ARG,canonical
+ermC,ermC,macrolide-lincosamide-streptogramin resistance,ARG,canonical
+ermF,ermF,macrolide-lincosamide-streptogramin resistance,ARG,canonical
+ermX,ermX,macrolide-lincosamide-streptogramin resistance,ARG,canonical
+ermA,ermA,macrolide-lincosamide-streptogramin resistance,ARG,canonical
+erm(B),ermB,macrolide-lincosamide-streptogramin resistance,ARG,parenthetical notation
+erm(F),ermF,macrolide-lincosamide-streptogramin resistance,ARG,parenthetical notation
+blaTEM,blaTEM,beta-lactam resistance,ARG,canonical
+blaSHV,blaSHV,beta-lactam resistance,ARG,canonical
+blaOXA,blaOXA,beta-lactam resistance,ARG,canonical — broad family; note specific subtype if reported
+blaCTX-M,blaCTX-M,beta-lactam resistance,ARG,canonical
+blaCTX-M-1,blaCTX-M-1,beta-lactam resistance,ARG,ESBL subtype
+blaCTX-M-15,blaCTX-M-15,beta-lactam resistance,ARG,ESBL subtype
+blaCTX-M-32,blaCTX-M-32,beta-lactam resistance,ARG,ESBL subtype
+blaNDM,blaNDM,carbapenem/beta-lactam resistance,ARG,canonical
+blaNDM-1,blaNDM-1,carbapenem/beta-lactam resistance,ARG,NDM subtype
+blaKPC,blaKPC,carbapenem/beta-lactam resistance,ARG,canonical
+blaVIM,blaVIM,carbapenem/beta-lactam resistance,ARG,canonical
+blaIMP,blaIMP,carbapenem/beta-lactam resistance,ARG,canonical
+blaCMY,blaCMY,beta-lactam resistance,ARG,AmpC beta-lactamase
+bla(TEM),blaTEM,beta-lactam resistance,ARG,parenthetical notation
+qnrA,qnrA,quinolone resistance,ARG,canonical
+qnrB,qnrB,quinolone resistance,ARG,canonical
+qnrS,qnrS,quinolone resistance,ARG,canonical
+qnrC,qnrC,quinolone resistance,ARG,canonical
+qnrD,qnrD,quinolone resistance,ARG,canonical
+qepA,qepA,quinolone resistance,ARG,efflux pump gene
+oqxA,oqxA,quinolone resistance,ARG,efflux pump gene
+oqxB,oqxB,quinolone resistance,ARG,efflux pump gene
+aac(6')-Ib-cr,aac(6')-Ib-cr,aminoglycoside/quinolone resistance,ARG,bifunctional gene
+aac(3),aac(3),aminoglycoside resistance,ARG,aminoglycoside acetyltransferase family
+aph(3'),aph(3'),aminoglycoside resistance,ARG,aminoglycoside phosphotransferase
+aadA,aadA,aminoglycoside resistance,ARG,aminoglycoside nucleotidyltransferase
+mexF,mexF,multidrug resistance,ARG,efflux pump component
+acrB,acrB,multidrug resistance,ARG,efflux pump component
+macB,macB,macrolide resistance,ARG,efflux pump component
+vanA,vanA,glycopeptide resistance,ARG,vancomycin resistance
+vanB,vanB,glycopeptide resistance,ARG,vancomycin resistance
+mcr-1,mcr-1,colistin resistance,ARG,mobile colistin resistance
+mcr-2,mcr-2,colistin resistance,ARG,mobile colistin resistance
+mcr-3,mcr-3,colistin resistance,ARG,mobile colistin resistance
+cfr,cfr,oxazolidinone resistance,ARG,phenicol-linezolid resistance
+optrA,optrA,oxazolidinone resistance,ARG,oxazolidinone resistance
+cmlA,cmlA,chloramphenicol resistance,ARG,canonical
+floR,floR,chloramphenicol resistance,ARG,florfenicol resistance
+intI1,intI1,mobile genetic element marker,intI1_marker,integron class 1 integrase
+intI2,intI2,mobile genetic element marker,MGE,integron class 2 integrase
+intI3,intI3,mobile genetic element marker,MGE,integron class 3 integrase
+int1,intI1,mobile genetic element marker,intI1_marker,common spelling variant
+int-I1,intI1,mobile genetic element marker,intI1_marker,hyphenated variant
+IntI1,intI1,mobile genetic element marker,intI1_marker,capitalization variant
+INTI1,intI1,mobile genetic element marker,intI1_marker,all-caps variant
+tnpA,tnpA,transposase,MGE,IS element transposase
+IS26,IS26,insertion sequence,MGE,canonical IS element
+ISCR1,ISCR1,mobile genetic element marker,MGE,IS common region
+IncP,IncP,plasmid marker,MGE,incompatibility group P plasmid
+IncQ,IncQ,plasmid marker,MGE,incompatibility group Q plasmid
+IncN,IncN,plasmid marker,MGE,incompatibility group N plasmid
+IncF,IncF,plasmid marker,MGE,incompatibility group F plasmid
+16S rRNA gene,16S rRNA gene,reference gene,reference_gene,normalization reference only
+16S,16S rRNA gene,reference gene,reference_gene,abbreviation for normalization gene
+resistome,resistome,resistome,resistome,metagenomics-based resistome profile — not a single gene
+ARG diversity,ARG diversity,resistome,resistome,diversity metric
+total ARG,total ARG,resistome,resistome,sum of all ARGs in resistome analysis
+ampC,ampC,beta-lactam resistance,ARG,AmpC beta-lactamase alias from v3 target cleanup 20260625
+AmpC,ampC,beta-lactam resistance,ARG,capitalization variant from v3 target cleanup 20260625
+ampC-04,ampC-04,beta-lactam resistance,ARG,AmpC subtype from v3 target cleanup 20260625
+blaKPC-2,blaKPC-2,carbapenem/beta-lactam resistance,ARG,KPC subtype from v3 target cleanup 20260625
+blaVIM-1,blaVIM-1,carbapenem/beta-lactam resistance,ARG,VIM subtype from v3 target cleanup 20260625
+blaGES,blaGES,beta-lactam resistance,ARG,GES beta-lactamase from v3 target cleanup 20260625
+blaGES-1,blaGES-1,beta-lactam resistance,ARG,GES subtype from v3 target cleanup 20260625
+blaOXA-48,blaOXA-48,carbapenem/beta-lactam resistance,ARG,OXA-48 carbapenemase from v3 target cleanup 20260625
+blaOXA-48-like,blaOXA-48-like,carbapenem/beta-lactam resistance,ARG,OXA-48-like family target from v3 target cleanup 20260625
+blaOXA-58,blaOXA-58,carbapenem/beta-lactam resistance,ARG,OXA-58 carbapenemase from v3 target cleanup 20260625
+blaOXA58,blaOXA-58,carbapenem/beta-lactam resistance,ARG,hyphenless OXA-58 variant from v3 target cleanup 20260625
+blaOXA-1,blaOXA-1,beta-lactam resistance,ARG,OXA subtype from v3 target cleanup 20260625
+blaoxa-1,blaOXA-1,beta-lactam resistance,ARG,case variant from v3 target cleanup 20260625
+OXA-1,blaOXA-1,beta-lactam resistance,ARG,bla prefix omitted in source target
+OXA-2,blaOXA-2,beta-lactam resistance,ARG,bla prefix omitted in source target
+OXA-10,blaOXA-10,beta-lactam resistance,ARG,bla prefix omitted in source target
+blaOXA-10,blaOXA-10,beta-lactam resistance,ARG,OXA subtype from v3 target cleanup 20260625
+blaOXA10,blaOXA-10,beta-lactam resistance,ARG,hyphenless OXA-10 variant from v3 target cleanup 20260625
+blaOXA-211,blaOXA-211,beta-lactam resistance,ARG,OXA subtype from v3 target cleanup 20260625
+blaCTXM,blaCTX-M,beta-lactam resistance,ARG,missing hyphen variant from v3 target cleanup 20260625
+blaCTX-M32,blaCTX-M-32,beta-lactam resistance,ARG,missing subtype hyphen variant from v3 target cleanup 20260625
+CTX-M-32,blaCTX-M-32,beta-lactam resistance,ARG,bla prefix omitted in source target
+CTX-M-9,blaCTX-M-9,beta-lactam resistance,ARG,bla prefix omitted in source target
+blaCTX-M-9,blaCTX-M-9,beta-lactam resistance,ARG,CTX-M subtype from v3 target cleanup 20260625
+blaTEM-1,blaTEM-1,beta-lactam resistance,ARG,TEM subtype from v3 target cleanup 20260625
+blaTEM-2,blaTEM-2,beta-lactam resistance,ARG,TEM subtype from v3 target cleanup 20260625
+TEM,blaTEM,beta-lactam resistance,ARG,bla prefix omitted in source target
+blaPSE-1,blaPSE-1,beta-lactam resistance,ARG,PSE beta-lactamase from v3 target cleanup 20260625
+blaCMY-2,blaCMY-2,beta-lactam resistance,ARG,CMY AmpC subtype from v3 target cleanup 20260625
+CMY-2,blaCMY-2,beta-lactam resistance,ARG,bla prefix omitted in source target
+NDM-1,blaNDM-1,carbapenem/beta-lactam resistance,ARG,bla prefix omitted in source target
+blaIMP-1,blaIMP-1,carbapenem/beta-lactam resistance,ARG,IMP subtype from v3 target cleanup 20260625
+blaVEB,blaVEB,beta-lactam resistance,ARG,VEB beta-lactamase from v3 target cleanup 20260625
+blaPER,blaPER,beta-lactam resistance,ARG,PER beta-lactamase from v3 target cleanup 20260625
+blaFOX,blaFOX,beta-lactam resistance,ARG,FOX AmpC beta-lactamase from v3 target cleanup 20260625
+blaIND,blaIND,beta-lactam resistance,ARG,IND beta-lactamase from v3 target cleanup 20260625
+blaM-1,blaM-1,beta-lactam resistance,ARG,beta-lactamase target from v3 target cleanup 20260625
+cfxA,cfxA,beta-lactam resistance,ARG,beta-lactamase gene from v3 target cleanup 20260625
+cepA,cepA,beta-lactam resistance,ARG,beta-lactamase gene from v3 target cleanup 20260625
+mecA,mecA,beta-lactam/methicillin resistance,ARG,methicillin resistance gene from v3 target cleanup 20260625
+dfrA1,dfrA1,trimethoprim resistance,ARG,dfrA subtype from v3 target cleanup 20260625
+dfra1,dfrA1,trimethoprim resistance,ARG,case variant from v3 target cleanup 20260625
+dfrA12,dfrA12,trimethoprim resistance,ARG,dfrA subtype from v3 target cleanup 20260625
+dfra12,dfrA12,trimethoprim resistance,ARG,case variant from v3 target cleanup 20260625
+tet32,tet32,tetracycline resistance,ARG,tet gene from v3 target cleanup 20260625
+tet33,tet33,tetracycline resistance,ARG,tet gene from v3 target cleanup 20260625
+tet37,tet37,tetracycline resistance,ARG,tet gene from v3 target cleanup 20260625
+tet39,tet39,tetracycline resistance,ARG,tet gene from v3 target cleanup 20260625
+tetE,tetE,tetracycline resistance,ARG,tet gene from v3 target cleanup 20260625
+tetT,tetT,tetracycline resistance,ARG,tet gene from v3 target cleanup 20260625
+tetZ,tetZ,tetracycline resistance,ARG,tet gene from v3 target cleanup 20260625
+tetPB,tetPB,tetracycline resistance,ARG,tet gene from v3 target cleanup 20260625
+tetPB-03,tetPB-03,tetracycline resistance,ARG,tet subtype from v3 target cleanup 20260625
+tetPA,tetPA,tetracycline resistance,ARG,tet gene from v3 target cleanup 20260625
+tetA-02,tetA-02,tetracycline resistance,ARG,tet subtype from v3 target cleanup 20260625
+tetG-01,tetG-01,tetracycline resistance,ARG,tet subtype from v3 target cleanup 20260625
+tet(G),tetG,tetracycline resistance,ARG,parenthetical notation from v3 target cleanup 20260625
+tet(B),tetB,tetracycline resistance,ARG,parenthetical notation from v3 target cleanup 20260625
+tet(C),tetC,tetracycline resistance,ARG,parenthetical notation from v3 target cleanup 20260625
+mefA,mefA,macrolide resistance,ARG,macrolide efflux gene from v3 target cleanup 20260625
+mefC,mefC,macrolide resistance,ARG,macrolide efflux gene from v3 target cleanup 20260625
+mphE,mphE,macrolide resistance,ARG,macrolide phosphotransferase from v3 target cleanup 20260625
+mph(E),mphE,macrolide resistance,ARG,parenthetical notation from v3 target cleanup 20260625
+mphB,mphB,macrolide resistance,ARG,macrolide phosphotransferase from v3 target cleanup 20260625
+mph(G),mphG,macrolide resistance,ARG,macrolide phosphotransferase from v3 target cleanup 20260625
+ereA,ereA,macrolide resistance,ARG,erythromycin esterase from v3 target cleanup 20260625
+ereD,ereD,macrolide resistance,ARG,erythromycin esterase from v3 target cleanup 20260625
+ermG,ermG,macrolide-lincosamide-streptogramin resistance,ARG,erm gene from v3 target cleanup 20260625
+ermT,ermT,macrolide-lincosamide-streptogramin resistance,ARG,erm gene from v3 target cleanup 20260625
+ErmH,ermH,macrolide-lincosamide-streptogramin resistance,ARG,capitalization variant from v3 target cleanup 20260625
+erm(36),erm36,macrolide-lincosamide-streptogramin resistance,ARG,parenthetical erm variant from v3 target cleanup 20260625
+qnrS2,qnrS2,quinolone resistance,ARG,qnr subtype from v3 target cleanup 20260625
+linA,linA,lincosamide resistance,ARG,lincosamide resistance gene from v3 target cleanup 20260625
+bacA,bacA,bacitracin resistance,ARG,bacitracin resistance gene from v3 target cleanup 20260625
+BacA,bacA,bacitracin resistance,ARG,capitalization variant from v3 target cleanup 20260625
+qacE,qacE,disinfectant resistance,ARG,quaternary ammonium compound resistance gene from v3 target cleanup 20260625
+fabI,fabI,biocide resistance,ARG,triclosan resistance marker from v3 target cleanup 20260625
+nptII,nptII,aminoglycoside resistance,ARG,neomycin phosphotransferase from v3 target cleanup 20260625
+aph(3''),aph(3'),aminoglycoside resistance,ARG,double-prime notation variant from v3 target cleanup 20260625
+aph(3'')-ib,aph(3')-Ib,aminoglycoside resistance,ARG,APH subtype notation from v3 target cleanup 20260625
+aph(3'')-Ib,aph(3')-Ib,aminoglycoside resistance,ARG,APH subtype notation from v3 target cleanup 20260625
+aph(3')-Ib,aph(3')-Ib,aminoglycoside resistance,ARG,APH subtype from v3 target cleanup 20260625
+APH(3"")-Ib,aph(3')-Ib,aminoglycoside resistance,ARG,quote notation variant from v3 target cleanup 20260625
+aphA,aphA,aminoglycoside resistance,ARG,aminoglycoside phosphotransferase from v3 target cleanup 20260625
+aph(6)-I,aph(6)-I,aminoglycoside resistance,ARG,APH subtype from v3 target cleanup 20260625
+aph(6)-Id,aph(6)-Id,aminoglycoside resistance,ARG,APH subtype from v3 target cleanup 20260625
+aac(3)-II,aac(3)-II,aminoglycoside resistance,ARG,AAC subtype from v3 target cleanup 20260625
+aac(6')-Ib,aac(6')-Ib,aminoglycoside resistance,ARG,AAC subtype from v3 target cleanup 20260625
+aac(6')-I,aac(6')-I,aminoglycoside resistance,ARG,AAC subtype from v3 target cleanup 20260625
+aadA2,aadA2,aminoglycoside resistance,ARG,aadA subtype from v3 target cleanup 20260625
+aadA24,aadA24,aminoglycoside resistance,ARG,aadA subtype from v3 target cleanup 20260625
+aada7,aadA7,aminoglycoside resistance,ARG,aadA subtype case variant from v3 target cleanup 20260625
+mexB,mexB,multidrug resistance,ARG,efflux pump component from v3 target cleanup 20260625
+mexT,mexT,multidrug resistance,ARG,efflux regulator/marker from v3 target cleanup 20260625
+MexW,mexW,multidrug resistance,ARG,capitalization variant from v3 target cleanup 20260625
+vanHB,vanHB,glycopeptide resistance,ARG,van gene from v3 target cleanup 20260625
+VanHB,vanHB,glycopeptide resistance,ARG,capitalization variant from v3 target cleanup 20260625
+vanH,vanH,glycopeptide resistance,ARG,van gene from v3 target cleanup 20260625
+vanR,vanR,glycopeptide resistance,ARG,van gene from v3 target cleanup 20260625
+vanY,vanY,glycopeptide resistance,ARG,van gene from v3 target cleanup 20260625
+vanSD,vanSD,glycopeptide resistance,ARG,van gene from v3 target cleanup 20260625
+VanRA,vanRA,glycopeptide resistance,ARG,capitalization variant from v3 target cleanup 20260625
+VanRB,vanRB,glycopeptide resistance,ARG,capitalization variant from v3 target cleanup 20260625
+VanRC,vanRC,glycopeptide resistance,ARG,capitalization variant from v3 target cleanup 20260625
+VanRE,vanRE,glycopeptide resistance,ARG,capitalization variant from v3 target cleanup 20260625
+VanRG,vanRG,glycopeptide resistance,ARG,capitalization variant from v3 target cleanup 20260625
+VanSA,vanSA,glycopeptide resistance,ARG,capitalization variant from v3 target cleanup 20260625
+VanSD,vanSD,glycopeptide resistance,ARG,capitalization variant from v3 target cleanup 20260625
+intl1,intI1,mobile genetic element marker,intI1_marker,lowercase-l spelling variant from v3 target cleanup 20260625
+Intl1,intI1,mobile genetic element marker,intI1_marker,capitalization variant from v3 target cleanup 20260625
+i-intI1,intI1,mobile genetic element marker,intI1_marker,prefix variant from v3 target cleanup 20260625
+intI1/16S,intI1,mobile genetic element marker,intI1_marker,intI1 normalized to 16S denominator
+intI1/16S rRNA genes,intI1,mobile genetic element marker,intI1_marker,intI1 normalized to 16S denominator
+intI1/16S rRNA ratio,intI1,mobile genetic element marker,intI1_marker,intI1 normalized to 16S denominator
+class 1 integron,intI1,mobile genetic element marker,intI1_marker,class 1 integron marker from v3 target cleanup 20260625
+class 1 integrons,intI1,mobile genetic element marker,intI1_marker,class 1 integron marker from v3 target cleanup 20260625
+class 2 integron,intI2,mobile genetic element marker,MGE,class 2 integron marker from v3 target cleanup 20260625
+pB10,pB10,plasmid marker,MGE,plasmid marker from v3 target cleanup 20260625
+korB,korB,plasmid marker,MGE,plasmid backbone marker from v3 target cleanup 20260625
+tnpA-04,tnpA-04,transposase,MGE,transposase subtype from v3 target cleanup 20260625
+tnpA-05,tnpA-05,transposase,MGE,transposase subtype from v3 target cleanup 20260625
+sul I,sul1,sulfonamide resistance,ARG,spaced roman numeral variant from v3 target cleanup 20260625
+sul II,sul2,sulfonamide resistance,ARG,spaced roman numeral variant from v3 target cleanup 20260625
+sul III,sul3,sulfonamide resistance,ARG,spaced roman numeral variant from v3 target cleanup 20260625
+sul1/16S rRNA,sul1,sulfonamide resistance,ARG,sul1 normalized to 16S denominator
+sul1/16S rRNA ratio,sul1,sulfonamide resistance,ARG,sul1 normalized to 16S denominator
+sul1/16S rRNA genes,sul1,sulfonamide resistance,ARG,sul1 normalized to 16S denominator
+sul2/16S rRNA,sul2,sulfonamide resistance,ARG,sul2 normalized to 16S denominator
+tet(A)/16S rRNA ratio,tetA,tetracycline resistance,ARG,tetA normalized to 16S denominator
+tet(W)/16S rRNA ratio,tetW,tetracycline resistance,ARG,tetW normalized to 16S denominator
+tet(X)/16S rRNA ratio,tetX,tetracycline resistance,ARG,tetX normalized to 16S denominator
+erm(B)/16S rRNA ratio,ermB,macrolide-lincosamide-streptogramin resistance,ARG,ermB normalized to 16S denominator
+tetA(P),tetA(P),tetracycline resistance,ARG,tetA variant from v3 target cleanup 20260625
+ere(B),ereB,macrolide resistance,ARG,erythromycin esterase parenthetical variant from v3 target cleanup 20260625
+arnA,arnA,polymyxin/colistin resistance,ARG,lipid A modification gene from v3 target cleanup 20260625
+vanY (in vanB cluster),vanY,glycopeptide resistance,ARG,vanY cluster-context variant from v3 target cleanup 20260625
+vanY (in vanA cluster),vanY,glycopeptide resistance,ARG,vanY cluster-context variant from v3 target cleanup 20260625

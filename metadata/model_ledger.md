@@ -13,4 +13,4 @@
 | Critical appraisal | — | 64 removal units appraised independently by X.C.N. and T.U. and jointly reconciled |
 | Normalization, dataset definition and statistics | Deterministic scripts; no model calls | — |
 
-Candidate data from the models never entered an analysis without passing the human checks above. Screening and text-extraction prompts are provided in `protocol/`.
+Candidate data from the models never entered an analysis without passing the human checks above. Screening, text-extraction and figure/table-extraction prompts are provided in `protocol/`.

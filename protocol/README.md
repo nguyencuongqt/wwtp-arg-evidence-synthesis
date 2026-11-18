@@ -6,6 +6,7 @@
 | `prompt_title_abstract_screening_v5.md` | Title/abstract screening prompt (v5; the screen used in the review ran with v3, see the note at the top) |
 | `prompt_fulltext_screening_v5_2.md` | Full-text screening prompt used in the review |
 | `prompt_text_extraction.md` | Text extraction prompt |
+| `prompt_figure_table_extraction.md` | Figure- and table-aware extraction prompt, request template and production settings |
 | `search_strategy.md` | Search strings for Scopus, Web of Science Core Collection and PubMed (28 April 2026) |
 | `prisma_flow.csv` | Study-flow counts (Figure S1) |
 | `fulltext_exclusion_reasons.csv` | Exclusion reasons at full-text screening (454) and eligibility re-assessment (19) |
@@ -15,4 +16,4 @@
 | `screening_benchmark_run_manifest.md` | Run identifiers, dates and resource use of the benchmark runs |
 | `fulltext_screening_targeted_audit_689.csv` | GPT-5.4-mini full-text decisions against the targeted human audit of 689 records (Table S5) |
 
-The figure- and table-aware extraction prompt is embedded in internal extraction code that is not distributed. The review was not registered in advance.
+The review was not registered in advance.
